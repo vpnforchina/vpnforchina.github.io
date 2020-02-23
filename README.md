@@ -203,7 +203,7 @@ ExpressVPN提供自购买日起`30天内无理由退款`，如果你发现它在
 最好使用英语，英语不好的朋友借助谷歌翻译或者百度翻译。
 
 
-## [Panda熊猫VPN](https://www.pancerra.xyz/r/13023030)
+## 2.[Panda熊猫VPN](https://www.pancerra.xyz/r/13023030)
 
 [![Panda熊猫VPN](/image/panda-min.png)](https://www.pancerra.xyz/r/13023030)
 
@@ -213,17 +213,17 @@ ExpressVPN提供自购买日起`30天内无理由退款`，如果你发现它在
 
 熊猫VPN总部在美国，由中文团队开发，所以中文支持很好，运营的时间并不长，是中国VPN市场的后期之秀，支持Windows，Mac，iOS，Android。熊猫VPN有国内可直接访问的[镜像网站](https://www.pancerra.xyz/r/13023030)，购买后也可直接从那里下载客户端，无需访问应用商店。
 
-[![panda熊猫vpn](image/Snag_963aad.png)](#panda熊猫vpn)
+[![panda熊猫vpn](image/Snag_963aad.png)](#2-panda熊猫vpn)
 
 我买了2年套餐，在安卓手机上测试使用了一个小时，感到十分惊喜，这应该是我今年做VPN评测碰到的最惊喜的翻墙软件了：） 非常好用，我随机测了香港和美国的几个节点，都是滑块滑倒上面的很快就连接成功了，然后我用了用Youtube，视频的速度也很满意。
 
 在中国使用熊猫VPN翻墙软件，WIndows系统：
 
-[![熊猫VPN客户端](image/在中国使用熊猫VPN翻墙软件.jpg)](#panda熊猫vpn)
+[![熊猫VPN客户端](image/在中国使用熊猫VPN翻墙软件.jpg)](#2-panda熊猫vpn)
 
 根据我个人的使用体验，PandaVPN在敏感时期的穿墙能力比较强，但这还不能说明它的技术更好，也可能是它比较新的缘故。 这个VPN底层很可能不是VPN技术，我的猜测，很可能是SSR类似的技术，因为连接建立连接的速度非常快，而且客户端里提供全局代理或分应用代理的区别，让人浮想联翩，我无法确定熊猫VPN到底是VPN还是SSR那样的代理类翻墙软件，所以暂时把它算作VPN推荐吧。
 
-[![熊猫VPN代理配置](image/熊猫VPN代理配置.jpg)](#panda熊猫vpn)
+[![熊猫VPN代理配置](image/熊猫VPN代理配置.jpg)](#2-panda熊猫vpn)
 
 熊猫VPN创办时间不长，我使用也不到半年，虽然总体体验不错，但是**长期的可用性我还不清楚，建议先买一个月，觉得不错再续费使用也可以。**
 
