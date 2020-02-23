@@ -205,6 +205,8 @@ ExpressVPN提供自购买日起`30天内无理由退款`，如果你发现它在
 
 ## [Panda熊猫VPN](https://www.pancerra.xyz/r/13023030)
 
+[![Panda熊猫VPN](image/panda-min.png)](https://www.pancerra.xyz/r/13023030)
+
 `最近使用：2020年2月，确认可用`
 
 >海外华人开发的VPN，类SSR，目前很好用，今年翻墙软件中的小黑马。
