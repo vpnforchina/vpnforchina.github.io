@@ -196,7 +196,7 @@ ExpressVPN支持的设备：Windows，Mac，iPhone/iPad/iPod，Android，Google 
 
 ExpressVPN提供自购买日起`30天内无理由退款`，如果你发现它在你的设备和网络环境下用不了，你可以有两种方式联系它们退款。
 
-1. [打开镜像站](https://www.linkev.com/?a_aid=fastwebcn)，等页面装载完毕后，你会看到右下方的“在线客服”入口，点进去就能联系到客服，他们7天24小时都有人。
+1. [打开镜像站](https://www.mmasfny.com/zh-cn?a_fid=fastwebcn&offer=3monthsfree)，等页面装载完毕后，你会看到右下方的“在线客服”入口，点进去就能联系到客服，他们7天24小时都有人。
 
 2. 写邮件给 support@expressvpn.com，他们一般会在一个工作日内回复。
 
