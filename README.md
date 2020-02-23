@@ -5,6 +5,8 @@
 
 市场上翻墙软件多如牛毛，如果你经常关注这个行业，能找到几十上百款App，一点也不夸张。科学上网一如既往，八仙过海，各显神通。
 
+[![vpn翻墙软件](image/vpn翻墙软件.jpg)](#翻墙软件现状)
+
 但千万别以为找到中国能用的翻墙软件很容易，一点也不。事实上，真的能在中国大陆使用的翻墙工具凤毛麟角。而且我得先提醒一句：不要指望能找到完美的穿墙工具，没有的。
 
 为什么会这样？我们当然知道这是因为墙很高，一年比一年高，这是事实。但具体到底是为什么，如此饱和的VPN软件市场，也难找到几款中国能用的产品？
@@ -92,6 +94,7 @@ VyprVPN(变色龙版)的价格比ExpressVPN低，设备支持较PandaVPN全，�
 
 ### 1.[ExpressVPN](https://www.mmasfny.com/zh-cn?a_fid=fastwebcn&offer=3monthsfree)
 
+[![ExpressVPN](image/express-min.png)](https://www.mmasfny.com/zh-cn?a_fid=fastwebcn&offer=3monthsfree)
 
 `最近使用：2020年2月，确认可用`
 
@@ -131,6 +134,7 @@ ExpressVPN是目前唯一提供无硬盘服务器的VPN厂商，技术上，这�
 
 同时访问内外网，开VPN最让人烦恼的问题是打开国内网站会变慢，有些甚至会打不开。拆分隧道技术（Split Tunneling）让你配置哪些应用程序走VPN加密通道，哪些走本地网络流量。
 
+[![ExpressVPN-split-tunneling](image/expressvpn-split-tunneling.jpg)](#为什么expressvpn是最好用的中国vpn翻墙软件)
 
 - DNS泄露保护
 
@@ -146,20 +150,23 @@ ExpressVPN在每台服务器上运行自己的私有加密DNS服务器，一旦�
 
 **第一步：打开[ExpressVPN镜像站](https://www.mmasfny.com/zh-cn?a_fid=fastwebcn&offer=3monthsfree)**
 
-
+[![expressvpn镜像站](image/打开expressvpn镜像站.jpg)](#如何获取expressvpn)
 
 >注意：镜像网站打开速度有时不快，耐心等待一下，如果页面加载不正常，如排版乱掉，可以试试刷新下页面。如果镜像站链接打不开，这种情况一般是镜像网站被墙，官网一般在当天会放出新的镜像站，请收藏本文后等一段时间再打开。
 
 **第二步：购买ExpressVPN，获得帐号**
 
+[![购买expressvpn](image/购买expressvpn.jpg)](#如何获取expressvpn)
 
-
-购买ExpressVPN， 支持支付宝、Paypal和银联、Visa信用卡付款，**无论你买什么套餐，30天内都可以无条件退款**。
+购买ExpressVPN， 支持支付宝、Paypal和银联、Visa信用卡付款，**无论你买什么套餐，30天内都可以无条件退款**。首购买一年送3个月，是厂商限时推的活动，如果不放心，可以先买一个月（$12.95）用用看，好用后再续费，不过这时候应该就没有送3个月了，除非再通过上面的链接进入注册新帐号，当然换浏览器或清cookie啥的不用多说吧。
 
 **第三步：登录帐号，下载安装客户端**
 
+[![下载安装expressvpn客户端](image/下载安装expressvpn客户端.jpg)](#如何获取expressvpn)
+
 ExpressVPN支持的设备：Windows，Mac，iPhone/iPad/iPod，Android，Google Chrome，Chromebook，Mozilla Firefox，Router，Linux，Fire TV & Kindle Fire，Apple TV，XBox，PlayStagion，MediaStreamer 以及手动配置 —— 这是市场上设备支持最全面的VPN，官方给每种设备都提供了清晰的安装指导。
 
+[![Expressvpn客户端](image/express-vpn-devices.png)](#如何获取expressvpn)
 
 >你不需要到App Store或Play Store下载苹果或安卓手机客户端，官方提供了直接执行的安装包和配置文件。
 
@@ -170,6 +177,8 @@ ExpressVPN支持的设备：Windows，Mac，iPhone/iPad/iPod，Android，Google 
 2020/02/09更新：这个方法有用户反应过完成后无法使用，若出现这种情况，请联系客服获取App Store的美国区id。
 
 **第四步：开始使用**
+
+[![Expressvpn客户端](image/express-vpn-servers.png)](#如何获取expressvpn)
 
 香港、日本、美西LA节点是我最常连的服务器，速度很不错。在中国大陆使用ExpressVPN，建议选择连接官方推荐的VPN服务器线路，这些服务器线路是ExpressVPN官方针对中国地区做过的混淆服务器优化，推荐中国用户使用：
 
@@ -202,16 +211,21 @@ ExpressVPN提供自购买日起`30天内无理由退款`，如果你发现它在
 
 熊猫VPN总部在美国，由中文团队开发，所以中文支持很好，运营的时间并不长，是中国VPN市场的后期之秀，支持Windows，Mac，iOS，Android。熊猫VPN有国内可直接访问的[镜像网站](https://www.pancerra.xyz/r/13023030)，购买后也可直接从那里下载客户端，无需访问应用商店。
 
-我买了2年，在安卓手机上测试使用了一个小时，感到十分惊喜，这应该是我今年做VPN评测碰到的最惊喜的翻墙软件了：） 非常好用，我随机测了香港和美国的几个节点，都是滑块滑倒上面的很快就连接成功了，然后我用了用Youtube，视频的速度也很满意。
+[![panda熊猫vpn](image/Snag_963aad.png)](#panda熊猫vpn)
 
-在中国使用熊猫VPN翻墙软件，WIndows系统
+我买了2年套餐，在安卓手机上测试使用了一个小时，感到十分惊喜，这应该是我今年做VPN评测碰到的最惊喜的翻墙软件了：） 非常好用，我随机测了香港和美国的几个节点，都是滑块滑倒上面的很快就连接成功了，然后我用了用Youtube，视频的速度也很满意。
+
+在中国使用熊猫VPN翻墙软件，WIndows系统：
+
+[![熊猫VPN客户端](image/在中国使用熊猫VPN翻墙软件.jpg)](#panda熊猫vpn)
 
 根据我个人的使用体验，PandaVPN在敏感时期的穿墙能力比较强，但这还不能说明它的技术更好，也可能是它比较新的缘故。 这个VPN底层很可能不是VPN技术，我的猜测，很可能是SSR类似的技术，因为连接建立连接的速度非常快，而且客户端里提供全局代理或分应用代理的区别，让人浮想联翩，我无法确定熊猫VPN到底是VPN还是SSR那样的代理类翻墙软件，所以暂时把它算作VPN推荐吧。
+
+[![熊猫VPN代理配置](image/熊猫VPN代理配置.jpg)](#panda熊猫vpn)
 
 熊猫VPN创办时间不长，我使用也不到半年，虽然总体体验不错，但是**长期的可用性我还不清楚，建议先买一个月，觉得不错再续费使用也可以。**
 
 PandaVPN有分应用代理功能，制定哪些APP走VPN代理流量，哪些APP不走VPN，用本地网络流量。
-
 
 熊猫VPN支持支付宝，微信等付款方式，目前还有买一年送一年的优惠，**7天无理由退款**
 
