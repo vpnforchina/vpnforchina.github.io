@@ -96,7 +96,7 @@ VyprVPN(变色龙版)的价格比ExpressVPN低，设备支持较PandaVPN全，�
 
 [![ExpressVPN](/image/express-min.png)](https://www.mmasfny.com/zh-cn?a_fid=fastwebcn&offer=3monthsfree)
 
-`最近使用：2020年2月，确认可用`
+`最近使用：2020年3月，确认可用`
 
 >什么都不需要说，我自己用了5年多，市场上最强跨设备通用翻墙软件。
 
@@ -207,7 +207,7 @@ ExpressVPN提供自购买日起`30天内无理由退款`，如果你发现它在
 
 [![Panda熊猫VPN](/image/panda-min.png)](https://www.pancerra.xyz/r/13023030)
 
-`最近使用：2020年2月，确认可用`
+`最近使用：2020年3月，确认可用`
 
 >海外华人开发的VPN，类SSR，目前很好用，今年翻墙软件中的小黑马。
 
