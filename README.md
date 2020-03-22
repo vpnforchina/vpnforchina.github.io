@@ -38,7 +38,7 @@ APP支持 | 全  | 全（不支持路由器） | 全 | 全
 支付宝 | 支持  | 支持 | 支持 | 支持
 镜像官网 | 有  | 有 | 无（需梯子） | 有
 客户端快速下载 | 可以  | 可以 | 可以 | 可以
-优惠 | [年付送3个月](https://linkv.org/express-zh)  | [买一年送一年](https://www.pancerra.xyz/r/13023030) | [低至$1.99每月](https://billing.purevpn.com/aff.php?aff=32147) | [最多优惠81%](https://linkvy.com/zh/vyprvpn/special/vpn-premium-promo?offer_id=227&aff_id=3919&TDMBG)
+优惠 | [年付送3个月](https://linkv.org/express-zh)  | [买一年送一年](https://linkv.org/panda) | [低至$1.99每月](https://linkv.org/pure) | [最多优惠81%](https://linkv.org/vypr)
 
 如果你不想接着听我啰嗦，我建议直接买[ExpressVPN](https://linkv.org/express-zh)，我自己也常年使用，它已经运营了12年（至2020年），设备支持最全面，国内外口碑都很好，是我个人最喜欢的VPN软件，国内有大量活跃用户，你可能不是第一次听到它，几乎所有国内外VPN推荐网站它都排在最靠前的位置。这里还有个**ExpressVPN使用小提示**，万一在敏感时期VPN服务器暂时被墙之后，改变客户端默认的连接协议（一般是`Automatic`），**改为`L2TP-IPSec`协议**然后尝试连接，你会发现其实还有些节点可以正常连接使用。
 
