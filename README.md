@@ -38,9 +38,9 @@ APP支持 | 全  | 全（不支持路由器） | 全 | 全
 支付宝 | 支持  | 支持 | 支持 | 支持
 镜像官网 | 有  | 有 | 无（需梯子） | 有
 客户端快速下载 | 可以  | 可以 | 可以 | 可以
-优惠 | [年付送3个月](https://www.mmasfny.com/zh-cn?a_fid=fastwebcn&offer=3monthsfree)  | [买一年送一年](https://www.pancerra.xyz/r/13023030) | [低至$1.99每月](https://billing.purevpn.com/aff.php?aff=32147) | [最多优惠81%](https://linkvy.com/zh/vyprvpn/special/vpn-premium-promo?offer_id=227&aff_id=3919&TDMBG)
+优惠 | [年付送3个月](https://linkv.org/express-zh)  | [买一年送一年](https://www.pancerra.xyz/r/13023030) | [低至$1.99每月](https://billing.purevpn.com/aff.php?aff=32147) | [最多优惠81%](https://linkvy.com/zh/vyprvpn/special/vpn-premium-promo?offer_id=227&aff_id=3919&TDMBG)
 
-如果你不想接着听我啰嗦，我建议直接买[ExpressVPN](https://www.mmasfny.com/zh-cn?a_fid=fastwebcn&offer=3monthsfree)，我自己也常年使用，它已经运营了12年（至2020年），设备支持最全面，国内外口碑都很好，是我个人最喜欢的VPN软件，国内有大量活跃用户，你可能不是第一次听到它，几乎所有国内外VPN推荐网站它都排在最靠前的位置。这里还有个**ExpressVPN使用小提示**，万一在敏感时期VPN服务器暂时被墙之后，改变客户端默认的连接协议（一般是`Automatic`），**改为`L2TP-IPSec`协议**然后尝试连接，你会发现其实还有些节点可以正常连接使用。
+如果你不想接着听我啰嗦，我建议直接买[ExpressVPN](https://linkv.org/express-zh)，我自己也常年使用，它已经运营了12年（至2020年），设备支持最全面，国内外口碑都很好，是我个人最喜欢的VPN软件，国内有大量活跃用户，你可能不是第一次听到它，几乎所有国内外VPN推荐网站它都排在最靠前的位置。这里还有个**ExpressVPN使用小提示**，万一在敏感时期VPN服务器暂时被墙之后，改变客户端默认的连接协议（一般是`Automatic`），**改为`L2TP-IPSec`协议**然后尝试连接，你会发现其实还有些节点可以正常连接使用。
 
 >在中国的老外，用得最多的是ExpressVPN。
 
@@ -92,9 +92,9 @@ VyprVPN(变色龙版)的价格比ExpressVPN低，设备支持较PandaVPN全，�
 
 ## 中国使用VPN推荐
 
-### 1.[ExpressVPN](https://www.mmasfny.com/zh-cn?a_fid=fastwebcn&offer=3monthsfree)
+### 1.[ExpressVPN](https://linkv.org/express-zh)
 
-[![ExpressVPN](/image/express-min.png)](https://www.mmasfny.com/zh-cn?a_fid=fastwebcn&offer=3monthsfree)
+[![ExpressVPN](/image/express-min.png)](https://linkv.org/express-zh)
 
 `最近使用：2020年3月，确认可用`
 
@@ -148,7 +148,7 @@ ExpressVPN在每台服务器上运行自己的私有加密DNS服务器，一旦�
 
 所以要获得ExpressVPN其实非常简单：
 
-**第一步：打开[ExpressVPN镜像站](https://www.mmasfny.com/zh-cn?a_fid=fastwebcn&offer=3monthsfree)**
+**第一步：打开[ExpressVPN镜像站](https://linkv.org/express-zh)**
 
 > ExpressVPN的镜像网站除了域名和官网不同以外，其他服务和功能和官网一样的，在线客服沟通、用户账号登陆和app安装包下载都可以在镜像网站完成。而且镜像网站数据与官网实时互通，在镜像网站注册的账号也可以在官网域名和其他镜像网站使用。
 
@@ -173,7 +173,7 @@ ExpressVPN支持的设备：Windows，Mac，iPhone/iPad/iPod，Android，Google 
 
 >你不需要到App Store或Play Store下载苹果或安卓手机客户端，官方提供了直接执行的安装包和配置文件。
 
-[打开官网](https://www.mmasfny.com/zh-cn?a_fid=fastwebcn&offer=3monthsfree)，在你的iPhone/iPad上用Safari浏览器登录账号，然后打开My Account => Set up ExpressVPN => 选择 iPhone, iPad & iPod 点击进入后，页面会提示下载VPN配置文件（文件名如：expressvpn_ios.mobileconfig），Safari浏览器能识别该文件，提示安装，点击安装即可自动完成手机VPN配置，然后到 Settings -> VPN 里发起连接，输入你的ExpressVPN用户名和密码就能用了。
+[打开官网](https://linkv.org/express-zh)，在你的iPhone/iPad上用Safari浏览器登录账号，然后打开My Account => Set up ExpressVPN => 选择 iPhone, iPad & iPod 点击进入后，页面会提示下载VPN配置文件（文件名如：expressvpn_ios.mobileconfig），Safari浏览器能识别该文件，提示安装，点击安装即可自动完成手机VPN配置，然后到 Settings -> VPN 里发起连接，输入你的ExpressVPN用户名和密码就能用了。
 
 **注意**：看清楚安装过程中是要填激活码还是用户名密码，两者不同，激活码可在购买ExpressVPN后登录ExpressVPN帐号获得。
 
@@ -199,22 +199,22 @@ ExpressVPN支持的设备：Windows，Mac，iPhone/iPad/iPod，Android，Google 
 
 ExpressVPN提供自购买日起`30天内无理由退款`，如果你发现它在你的设备和网络环境下用不了，你可以有两种方式联系它们退款。
 
-1. [打开镜像站](https://www.mmasfny.com/zh-cn?a_fid=fastwebcn&offer=3monthsfree)，等页面装载完毕后，你会看到右下方的“在线客服”入口，点进去就能联系到客服，他们7天24小时都有人。
+1. [打开镜像站](https://linkv.org/express-zh)，等页面装载完毕后，你会看到右下方的“在线客服”入口，点进去就能联系到客服，他们7天24小时都有人。
 
 2. 写邮件给 support@expressvpn.com，他们一般会在一个工作日内回复。
 
 最好使用英语，英语不好的朋友借助谷歌翻译或者百度翻译。
 
 
-## 2.[Panda熊猫VPN](https://www.pancerra.xyz/r/13023030)
+## 2.[Panda熊猫VPN](https://linkv.org/panda)
 
-[![Panda熊猫VPN](/image/panda-min.png)](https://www.pancerra.xyz/r/13023030)
+[![Panda熊猫VPN](/image/panda-min.png)](https://linkv.org/panda)
 
 `最近使用：2020年3月，确认可用`
 
 >海外华人开发的VPN，类SSR，目前很好用，今年翻墙软件中的小黑马。
 
-熊猫VPN总部在美国，由中文团队开发，所以中文支持很好，运营的时间并不长，是中国VPN市场的后期之秀，支持Windows，Mac，iOS，Android。熊猫VPN有国内可直接访问的[镜像网站](https://www.pancerra.xyz/r/13023030)，购买后也可直接从那里下载客户端，无需访问应用商店。
+熊猫VPN总部在美国，由中文团队开发，所以中文支持很好，运营的时间并不长，是中国VPN市场的后期之秀，支持Windows，Mac，iOS，Android。熊猫VPN有国内可直接访问的[镜像网站](https://linkv.org/panda)，购买后也可直接从那里下载客户端，无需访问应用商店。
 
 [![panda熊猫vpn](image/Snag_963aad.png)](#2panda熊猫vpn)
 
@@ -258,7 +258,7 @@ PandaVPN有分应用代理功能，制定哪些APP走VPN代理流量，哪些APP
 
 7天退款保障，但申请退款需要说明理由。如果你发现它在你的设备和网络环境下不能用，可以用下列方式联系客服，一般客服会协助你解决问题，如果确实为软件问题造成无法使用，会退款：
 
-1. [打开镜像站](https://www.pancerra.xyz/r/13023030)，等待网页加载完毕，你会看到右下角的在线客服，点击弹出，就可以联系到客服，注意，PandaVPN客服并非7天24小时在线，你最好在美国西部时间的工作时间联系他们。
+1. [打开镜像站](https://linkv.org/panda)，等待网页加载完毕，你会看到右下角的在线客服，点击弹出，就可以联系到客服，注意，PandaVPN客服并非7天24小时在线，你最好在美国西部时间的工作时间联系他们。
 
 2. 写邮件给 panda7x24@gmail.com，虽然邮箱名暗示24/7客服，但个人经验，他们会在一个工作日内在美国西部工作时间回。
 
@@ -299,7 +299,7 @@ PandaVPN有分应用代理功能，制定哪些APP走VPN代理流量，哪些APP
 
 ### 为什么一线VPN没有被墙
 
-它们也被墙，如[ExpressVPN的官网域名](https://www.mmasfny.com/zh-cn?a_fid=fastwebcn&offer=3monthsfree)是无法从国内访问的，但厂商提供很多备用镜像网站供国内用户访问，一个被墙就开另一个，域名和IP都不同，走HTTPS流量，GFW要再次侦测到往往需要花几周或几个月的时间，这种“打一枪换个地方”的策略很奏效，一线厂商就是通过这种手段让中国VPN用户不翻墙就能买到他们的服务的。
+它们也被墙，如[ExpressVPN的官网域名](https://linkv.org/express-zh)是无法从国内访问的，但厂商提供很多备用镜像网站供国内用户访问，一个被墙就开另一个，域名和IP都不同，走HTTPS流量，GFW要再次侦测到往往需要花几周或几个月的时间，这种“打一枪换个地方”的策略很奏效，一线厂商就是通过这种手段让中国VPN用户不翻墙就能买到他们的服务的。
 
 ExpressVPN的镜像网站除了域名和官网不同以外，其他服务和功能和官网一样的，在线客服沟通、用户账号登陆和app安装包下载都可以在镜像网站完成。而且镜像网站数据与官网实时互通，在镜像网站注册的账号也可以在官网域名和其他镜像网站使用。
 
