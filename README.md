@@ -163,7 +163,11 @@ VyprVPN不再做推荐，稳定性已经不如以前，虽然勉强也能使用�
     Hong Kong–5
     USA–Los Angeles–4
     USA–Los Angeles–5
-    USA–Santa Monica/HollyWood（不是官方推荐经常也能连接）
+    USA–Santa Monica
+    UK - Wembley
+    Canada - Toronto - 2
+    France - Strasbourg
+    Germany - Nuremberg
 
 除了上面那些优化过的服务器线路，**中国用户也可以改为`L2TP – IPsec`协议使用其它的服务器线路**，在敏感时期网络封锁升级，你会发现，虽然官方的推荐节点连不上了，这些`L2TP – IPsec`协议的一些节点还是可以用的，但是其他那些服务器没有经过混淆算法优化，速度可能会不如官方推荐的服务器线路，可以作为敏感时期的备用节点。
 
@@ -334,7 +338,7 @@ StrongVPN的Windows客户端界面
 
 - 台湾
 
-还有欧洲的很多节点也可以连接。
+其他地区还有很多节点也可以连接，我就不一一举例了，需要你自己去测试。
 
 在防火长城升级的敏感时期，可以更改为IPSec的协议作为备用选择，等2-3个工作日官方更新了服务器，就可以继续使用OpenVPN协议了。
 
