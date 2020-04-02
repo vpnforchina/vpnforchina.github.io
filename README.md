@@ -1,5 +1,5 @@
 # 翻墙软件指南，中国VPN推荐2020
-最后修改于： `2020年3月30日`
+最后修改于： `2020年4月1日`
 
 ## 翻墙软件现状
 
@@ -128,7 +128,7 @@ APP快速下载 | 可以  | 可以 | 可以 | 可以
 
 关于具体套餐的选择，如果VPN商家的运营时间短，比如PandaVPN，建议只买一个月的套餐，根据使用体验再考虑是否续费，因为服务还没有经过长时间的检验。如果VPN商家的运营时间长（5年以上），长期可用性一般问题不大，选择一个月或年套餐都可以，年套餐每月便宜很多。
 
-如果你不想接着听我啰嗦，我建议直接买[ExpressVPN](https://linkv.org/express-zh)，我自己也常年使用，它已经运营了12年（至2020年），设备支持最全面，国内外口碑都很好，是我个人最喜欢的VPN软件，国内有大量活跃用户，你可能不是第一次听到它，几乎所有国内外VPN推荐网站它都排在最靠前的位置。这里还有个**ExpressVPN使用小提示**，万一在敏感时期VPN服务器暂时被墙之后，改变客户端默认的连接协议（一般是`Automatic`），**改为`L2TP-IPSec`协议**然后尝试连接，你会发现其实还有些节点可以正常连接使用。
+如果你不想接着听我啰嗦，我建议直接买[ExpressVPN](https://linkv.org/express-zh)（<a rel="nofollow noopener" href="https://vpncn.github.io/image/ExpressVPN%E5%92%8CNordVPN%E5%93%AA%E4%B8%AA%E5%A5%BD%E7%94%A8?.md" target="_blank">查看最新测评</a>），我自己也常年使用，它已经运营了12年（至2020年），设备支持最全面，国内外口碑都很好，是我个人最喜欢的VPN软件，国内有大量活跃用户，你可能不是第一次听到它，几乎所有国内外VPN推荐网站它都排在最靠前的位置。这里还有个**ExpressVPN使用小提示**，万一在敏感时期VPN服务器暂时被墙之后，改变客户端默认的连接协议（一般是`Automatic`），**改为`L2TP-IPSec`协议**然后尝试连接，你会发现其实还有些节点可以正常连接使用。
 
 >在中国的老外，用得最多的是ExpressVPN。
 
@@ -150,6 +150,8 @@ VyprVPN不再做推荐，稳定性已经不如以前，虽然勉强也能使用�
 [![ExpressVPN](/image/express-min.png)](https://linkv.org/express-zh)
 
 `最近使用：2020年3月，确认可用`
+
+**<a rel="nofollow noopener" href="https://vpncn.github.io/image/ExpressVPN%E5%92%8CNordVPN%E5%93%AA%E4%B8%AA%E5%A5%BD%E7%94%A8?.md" target="_blank">查看ExpressVPN最新节点速度测试报告</a>**
 
 >什么都不需要说，我自己用了5年多，市场上最强跨设备通用翻墙软件。
 
@@ -273,7 +275,9 @@ ExpressVPN提供自购买日起`30天内无理由退款`，如果你发现它在
 
 [![NordVPN](/image/nord-min.png)](#2-nordvpn)
 
->2020年3月使用，确认可用，建议连接日本的最新出来的节点。
+>2020年3月使用，确认可用，建议连接美国、日本的最新出来的节点。
+
+**<a rel="nofollow noopener" href="https://vpncn.github.io/image/ExpressVPN%E5%92%8CNordVPN%E5%93%AA%E4%B8%AA%E5%A5%BD%E7%94%A8?.md" target="_blank">查看NordVPN最新节点速度测试报告</a>**
 
 ### 如何打开NordVPN官网？
 
@@ -291,7 +295,7 @@ ExpressVPN提供自购买日起`30天内无理由退款`，如果你发现它在
 
 如有不懂，请<a rel="nofollow noopener" href="https://vpncn.github.io/image/%E5%A6%82%E4%BD%95%E6%94%B9host%E6%96%87%E4%BB%B6" target="_blank"> 查看这篇文章</a>。
 
-NordVPN在全球范围内应该是为数不多的能和ExpressVPN抗衡的服务商之一，在中国的速度表现也非常不错，拥有军用级别的加密技术，目前三年优惠活动也比较划算。但目前客户端直连翻墙**建议连接新出的服务器**，服务器越新连通率越高，速度也快，点击日本、新加坡、英国、加拿大这些服务器(如下图)。学会使用OpenVPN手动配置，很简单，官网有教程，它的速度和稳定性会更高，敏感时期**配合用OpenVPN或IKEV2进行手动配置**可以保证全年95%左右的可用率。
+NordVPN在全球范围内应该是为数不多的能和ExpressVPN抗衡的服务商之一，在中国的速度表现也非常不错，拥有军用级别的加密技术，目前三年优惠活动也比较划算。但目前客户端直连翻墙**建议连接新出的服务器**，服务器越新连通率越高，速度也快，点击美国、日本、新加坡、英国、加拿大新出的这些服务器(如下图)。学会使用OpenVPN手动配置，很简单，官网有教程，它的速度和稳定性会更高，敏感时期**配合用OpenVPN或IKEV2进行手动配置**可以保证全年95%左右的可用率。
 
 NordVPN Windows客户端日本节点：
 
