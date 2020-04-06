@@ -5,6 +5,8 @@
 
 市场上翻墙软件多如牛毛，如果你经常关注这个行业，能找到几十上百款App，一点也不夸张。科学上网一如既往，八仙过海，各显神通。
 
+如果你不想听我接下来的啰嗦，**我建议直接选择<a rel="nofollow noopener" href="https://linkv.org/express-zh" target="_blank">ExpressVPN</a>，我自己也常年使用，它已经运营了12年（至2020年），设备支持最全面，国内外口碑都很好**，是我个人最喜欢的VPN软件，国内有大量活跃用户，你可能不是第一次听到它，几乎所有国内外VPN推荐网站它都排在最靠前的位置。这里还有个ExpressVPN使用小提示，万一在敏感时期VPN服务器暂时被墙之后，改变客户端默认的连接协议（一般是`Automatic`），**改为`L2TP-IPSec`协议**然后尝试连接，你会发现其实还有些节点可以正常连接使用。
+
 [![vpn翻墙软件](image/vpn翻墙软件.jpg)](#翻墙软件现状)
 
 但千万别以为找到中国能用的翻墙软件很容易，一点也不。事实上，真的能在中国大陆使用的翻墙工具凤毛麟角。而且我得先提醒一句：不要指望能找到完美的穿墙工具，没有的。
@@ -128,7 +130,7 @@ APP快速下载 | 可以  | 可以 | 可以 | 可以
 
 关于具体套餐的选择，如果VPN商家的运营时间短，比如PandaVPN，建议只买一个月的套餐，根据使用体验再考虑是否续费，因为服务还没有经过长时间的检验。如果VPN商家的运营时间长（5年以上），长期可用性一般问题不大，选择一个月或年套餐都可以，年套餐每月便宜很多。
 
-如果你不想接着听我啰嗦，我建议直接买[ExpressVPN](https://linkv.org/express-zh)（<a rel="nofollow noopener" href="https://vpncn.github.io/image/ExpressVPN%E5%92%8CNordVPN%E5%93%AA%E4%B8%AA%E5%A5%BD%E7%94%A8?.md" target="_blank">查看最新测评</a>），我自己也常年使用，它已经运营了12年（至2020年），设备支持最全面，国内外口碑都很好，是我个人最喜欢的VPN软件，国内有大量活跃用户，你可能不是第一次听到它，几乎所有国内外VPN推荐网站它都排在最靠前的位置。这里还有个**ExpressVPN使用小提示**，万一在敏感时期VPN服务器暂时被墙之后，改变客户端默认的连接协议（一般是`Automatic`），**改为`L2TP-IPSec`协议**然后尝试连接，你会发现其实还有些节点可以正常连接使用。
+如果你不想听我啰嗦，我建议直接买<a rel="nofollow noopener" href="https://linkv.org/express-zh" target="_blank">ExpressVPN</a>，我自己也常年使用，它已经运营了12年（至2020年），设备支持最全面，国内外口碑都很好，是我个人最喜欢的VPN软件，国内有大量活跃用户，你可能不是第一次听到它，几乎所有国内外VPN推荐网站它都排在最靠前的位置。这里还有个**ExpressVPN使用小提示**，万一在敏感时期VPN服务器暂时被墙之后，改变客户端默认的连接协议（一般是`Automatic`），**改为`L2TP-IPSec`协议**然后尝试连接，你会发现其实还有些节点可以正常连接使用。
 
 >在中国的老外，用得最多的是ExpressVPN。
 
@@ -150,8 +152,6 @@ VyprVPN不再做推荐，稳定性已经不如以前，虽然勉强也能使用�
 [![ExpressVPN](/image/express-min.png)](https://linkv.org/express-zh)
 
 `最近使用：2020年3月，确认可用`
-
-**<a rel="nofollow noopener" href="https://vpncn.github.io/image/ExpressVPN%E5%92%8CNordVPN%E5%93%AA%E4%B8%AA%E5%A5%BD%E7%94%A8?.md" target="_blank">查看ExpressVPN最新节点速度测试报告</a>**
 
 >什么都不需要说，我自己用了5年多，市场上最强跨设备通用翻墙软件。
 
@@ -243,14 +243,18 @@ ExpressVPN支持的设备：Windows，Mac，iPhone/iPad/iPod，Android，Google 
 [![Expressvpn客户端](image/express-vpn-servers.png)](#如何获取expressvpn)
 
 香港、日本、美西LA节点是我最常连的服务器，速度很不错。在中国大陆使用ExpressVPN，建议选择连接官方推荐的VPN服务器线路，这些服务器线路是ExpressVPN官方针对中国地区做过的混淆服务器优化，推荐中国用户使用：
-
-- USA–Los Angeles–5
 - Hong Kong–4
-- Japan–Tokyo–3
-- Hong Kong–5
 - Singapore–Marina Bay
 - USA–Los Angeles–4
+- Japan–Yokohama
+- UK - Wembley
+- Canada - Toronto - 2
+- France - Strasbourg
+- Germany - Nuremberg
+- USA–Los Angeles–5
 - USA–Santa Monica/HollyWood（不是官方推荐经常也能连接）
+
+**<a rel="nofollow noopener" href="https://vpncn.github.io/image/ExpressVPN%E5%92%8CNordVPN%E5%93%AA%E4%B8%AA%E5%A5%BD%E7%94%A8?.md" target="_blank">查看ExpressVPN最新节点速度测试报告</a>**
 
 在“敏感时期”如果出现连不上的情况，也可以改为“L2TP – IPsec”协议使用其它的服务器线路，但是其他那些服务器没有经过混淆算法优化，速度可能会不如官方推荐的服务器线路，可以作为敏感时期的备用节点。
 
