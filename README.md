@@ -281,6 +281,8 @@ ExpressVPN提供自购买日起`30天内无理由退款`，如果你发现它在
 
 ### 如何打开NordVPN官网？
 
+>最新提示：目前<a rel="nofollow noopener" href="http://linkv.org/nord" target="_blank"> Nord官网</a>在国内的访问已经修复，如果不能访问官网请参照下列方法。
+
 国内打开NordVPN官网需要改电脑Host文件，因为官网DNS在天朝被定位到不能访问的IP，需要修改本地的DNS才能访问。方法很简单：
 
 国内Windows/Mac用户可以直接下载hosts文件**解锁本文中所有VPN官网**（手机用户建议在电脑上打开本页面操作）：
@@ -289,7 +291,7 @@ ExpressVPN提供自购买日起`30天内无理由退款`，如果你发现它在
 
 2.Windows用户将下载的hosts文件移动到文件夹 `C:\Windows\System32\drivers\etc` （Mac的文件夹是 `/etc/hosts`），建议备份系统自带的原始hosts文件。
 
-3.完成之后清空浏览器缓存、刷新浏览器，然后[点击获取NordVPN官网优惠](http://linkv.org/nord)。
+3.完成之后清空浏览器缓存、刷新浏览器，然后<a rel="nofollow noopener" href="http://linkv.org/nord" target="_blank"> 点击获取NordVPN官网优惠</a>。
 
 完成之后，就可以正常访问官网和使用服务了。
 
@@ -326,7 +328,7 @@ NordVPN在60个国家和地区拥有5700多个服务器，在看视频或者下�
 >注：在敏感时期，使用NordVPN最好能结合官网的教程进行OpenVPN手动配置，iOS设备上用手动ikev2，手动配置的节点比APP直连的稳定性高很多。另一个需要注意的地方是如果遇到连接或者下载问题随时联系在线客服，让售后给你备用服务器地址。
 
 
-## 3.[Panda熊猫VPN](https://linkv.org/panda)
+## 3.<a rel="nofollow noopener" href="https://linkv.org/panda" target="_blank"> Panda熊猫VPN</a>
 
 [![Panda熊猫VPN](/image/panda-min.png)](https://linkv.org/panda)
 
@@ -334,7 +336,7 @@ NordVPN在60个国家和地区拥有5700多个服务器，在看视频或者下�
 
 >海外华人开发的VPN，类SSR，目前很好用，今年翻墙软件中的小黑马。
 
-熊猫VPN总部在美国，由中文团队开发，所以中文支持很好，运营的时间并不长，是中国VPN市场的后期之秀，支持Windows，Mac，iOS，Android。熊猫VPN有国内可直接访问的[镜像网站](https://linkv.org/panda)，购买后也可直接从那里下载客户端，无需访问应用商店。
+熊猫VPN总部在美国，由中文团队开发，所以中文支持很好，运营的时间并不长，是中国VPN市场的后期之秀，支持Windows，Mac，iOS，Android。熊猫VPN有国内可直接访问的<a rel="nofollow noopener" href="https://linkv.org/panda" target="_blank"> 镜像网站</a>，购买后也可直接从那里下载客户端，无需访问应用商店。
 
 [![panda熊猫vpn](image/Snag_963aad.png)](#3panda熊猫vpn)
 
@@ -378,7 +380,7 @@ PandaVPN有分应用代理功能，制定哪些APP走VPN代理流量，哪些APP
 
 7天退款保障，但申请退款需要说明理由。如果你发现它在你的设备和网络环境下不能用，可以用下列方式联系客服，一般客服会协助你解决问题，如果确实为软件问题造成无法使用，会退款：
 
-1. [打开镜像站](https://linkv.org/panda)，等待网页加载完毕，你会看到右下角的在线客服，点击弹出，就可以联系到客服，注意，PandaVPN客服并非7天24小时在线，你最好在美国西部时间的工作时间联系他们。
+1. 打开<a rel="nofollow noopener" href="https://linkv.org/panda" target="_blank">镜像网站</a>，等待网页加载完毕，你会看到右下角的在线客服，点击弹出，就可以联系到客服，注意，PandaVPN客服并非7天24小时在线，你最好在美国西部时间的工作时间联系他们。
 
 2. 写邮件给 panda7x24@gmail.com，虽然邮箱名暗示24/7客服，但个人经验，他们会在一个工作日内在美国西部工作时间回。
 
@@ -402,7 +404,7 @@ PandaVPN有分应用代理功能，制定哪些APP走VPN代理流量，哪些APP
 
 2.Windows用户移动到文件夹 `C:\Windows\System32\drivers\etc` （Mac的文件夹是 `/etc/hosts`），建议备份系统自带的原始hosts文件。
 
-3.完成之后清空浏览器缓存、刷新浏览器，然后[获取IVacy官网优惠](https://linkv.org/ivacy)。
+3.完成之后清空浏览器缓存、刷新浏览器，然后<a rel="nofollow noopener" href="https://linkv.org/ivacy" target="_blank"> 获取IVacy官网优惠</a>。
 
 完成之后，就可以正常访问官网和使用服务了。
 
@@ -463,7 +465,7 @@ IVacy不限制同时在线的设备数量，这算是一个独树一帜的特点
 
 ### 为什么一线VPN没有被墙
 
-它们也被墙，如[ExpressVPN的官网域名](https://linkv.org/express-zh)是无法从国内访问的，但厂商提供很多备用镜像网站供国内用户访问，一个被墙就开另一个，域名和IP都不同，走HTTPS流量，GFW要再次侦测到往往需要花几周或几个月的时间，这种“打一枪换个地方”的策略很奏效，一线厂商就是通过这种手段让中国VPN用户不翻墙就能买到他们的服务的。
+它们也被墙，如<a rel="nofollow noopener" href="https://linkv.org/express-zh" target="_blank">ExpressVPN的官网域名</a>是无法从国内访问的，但厂商提供很多备用镜像网站供国内用户访问，一个被墙就开另一个，域名和IP都不同，走HTTPS流量，GFW要再次侦测到往往需要花几周或几个月的时间，这种“打一枪换个地方”的策略很奏效，一线厂商就是通过这种手段让中国VPN用户不翻墙就能买到他们的服务的。
 
 ExpressVPN的镜像网站除了域名和官网不同以外，其他服务和功能和官网一样的，在线客服沟通、用户账号登陆和app安装包下载都可以在镜像网站完成。而且镜像网站数据与官网实时互通，在镜像网站注册的账号也可以在官网域名和其他镜像网站使用。
 
