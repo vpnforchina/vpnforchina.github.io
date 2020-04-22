@@ -119,6 +119,8 @@ Hi,I live in China,and I can't download *XX* VPN on my iPhone because it was not
 隐私安全 | 高  | 高 | 低 | 高 
 APP支持 | 全  | 全 | 全（不支持路由器） | 全 
 支付宝 | 支持  | 支持 | 支持 | 支持 
+退款时限 | 30天内  | 30天内 | 7天 | 30天内 
+售后服务 | 好  | 好 | 一般 | 一般 
 镜像官网 | 有  | 无([如何访问?](#如何打开nordvpn官网)) | 有 | 无([如何访问?](#如何打开ivacy官网)) 
 APP快速下载 | 可以  | 可以 | 可以 | 可以 
 优惠 | [年付送3个月](https://linkv.org/express-zh)  | [最多优惠75%](#如何打开nordvpn官网) | [年付优惠](https://linkv.org/panda) | [年套餐优惠86%](#如何打开ivacy官网)
