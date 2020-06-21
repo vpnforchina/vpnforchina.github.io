@@ -1,6 +1,6 @@
 # 翻墙软件指南，中国VPN推荐-2020版
 
-最后修改于： `2020年5月13日`
+最后修改于： `2020年6月21日`
 
 ## 翻墙软件现状
 
@@ -148,7 +148,7 @@ VyprVPN不再做推荐，稳定性已经不如以前，虽然勉强也能使用�
 
 [![ExpressVPN](/image/express-min.png)](https://linkv.org/express-zh)
 
-`最近使用：2020年5月，确认可用`
+`最近使用：2020年6月，确认可用，体验最佳。`
 
 >什么都不需要说，我自己用了5年多，市场上最强跨设备通用翻墙软件。
 
@@ -163,7 +163,6 @@ VyprVPN不再做推荐，稳定性已经不如以前，虽然勉强也能使用�
     USA–Los Angeles–4
     USA–Los Angeles–5
     USA–Santa Monica
-    UK - Wembley
     Canada - Toronto - 2
     France - Strasbourg
     Germany - Nuremberg
@@ -244,7 +243,6 @@ ExpressVPN支持的设备：Windows，Mac，iPhone/iPad/iPod，Android，Google 
 - Singapore–Marina Bay
 - USA–Los Angeles–4
 - Japan–Yokohama
-- UK - Wembley
 - Canada - Toronto - 2
 - France - Strasbourg
 - Germany - Nuremberg
@@ -333,7 +331,7 @@ NordVPN在60个国家和地区拥有5700多个服务器，在看视频或者下�
 
 [![Panda熊猫VPN](/image/panda-min.png)](https://linkv.org/panda)
 
-`最近使用：2020年4月，确认可用`
+`最近使用：2020年5月，确认可用`
 
 >华人开发的VPN，类SSR，今年翻墙软件中的小黑马，但问题是最近（4月）开始出现客服反应慢等问题。
 
@@ -393,7 +391,7 @@ PandaVPN有分应用代理功能，制定哪些APP走VPN代理流量，哪些APP
 
 [![IVacy](/image/ivacy-logo.png)](#4-ivacy)
 
->2020年4月测试，确认可用。
+>2020年5月测试，确认可用，但速度很慢，可连节点不多。
 
 ### 如何打开Ivacy官网？
 
