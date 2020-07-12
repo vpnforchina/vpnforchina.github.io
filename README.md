@@ -1,6 +1,6 @@
 # 翻墙软件指南，中国VPN推荐-2020版
 
-最后修改于： `2020年7月5日`
+最后修改于： `2020年7月12日`
 
 ## 翻墙软件现状
 
@@ -274,7 +274,7 @@ ExpressVPN提供自购买日起`30天内无理由退款`，如果你发现它在
 
 [![NordVPN](/image/nord-min.png)](#2-nordvpn)
 
->2020年6月使用，确认可用，建议连接美国、日本的最新出来的节点。
+>2020年6月使用，确认可用，但目前可用节点不多。建议连接美国、日本的最新出来的节点。
 
 **<a rel="nofollow noopener" href="https://vpncn.github.io/image/ExpressVPN%E5%92%8CNordVPN%E5%93%AA%E4%B8%AA%E5%A5%BD%E7%94%A8?.md" target="_blank">查看NordVPN最新节点速度测试报告</a>**
 
@@ -331,7 +331,7 @@ NordVPN在60个国家和地区拥有5700多个服务器，在看视频或者下�
 
 [![Panda熊猫VPN](/image/panda-min.png)](https://linkv.org/panda)
 
-`最近使用：2020年6月，确认可用`
+`最近使用：2020年6月，确认可用，速度和连接成功率很一般。`
 
 >华人开发的VPN，类SSR，今年翻墙软件中的小黑马，但问题是最近（4月）开始出现客服反应慢等问题。
 
