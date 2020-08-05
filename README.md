@@ -1,6 +1,6 @@
 # 翻墙软件指南，中国VPN推荐-2020版
 
-最后修改于： `2020年7月12日`
+最后修改于： `2020年8月5日`
 
 ## 翻墙软件现状
 
@@ -148,7 +148,7 @@ VyprVPN不再做推荐，稳定性已经不如以前，虽然勉强也能使用�
 
 [![ExpressVPN](/image/express-min.png)](https://linkv.org/express-zh)
 
-`最近使用：2020年7月，确认可用，体验最佳。`
+`最近使用：2020年8月，确认可用，体验最佳。`
 
 >什么都不需要说，我自己用了5年多，市场上最强跨设备通用翻墙软件。
 
@@ -164,7 +164,6 @@ VyprVPN不再做推荐，稳定性已经不如以前，虽然勉强也能使用�
     USA–Los Angeles–5
     USA–Santa Monica
     Canada - Toronto - 2
-    France - Strasbourg
     Germany - Nuremberg
 
 除了上面那些优化过的服务器线路，**中国用户也可以改为`L2TP – IPsec`协议使用其它的服务器线路**，在敏感时期网络封锁升级，你会发现，虽然官方的推荐节点连不上了，这些`L2TP – IPsec`协议的一些节点还是可以用的，但是其他那些服务器没有经过混淆算法优化，速度可能会不如官方推荐的服务器线路，可以作为敏感时期的备用节点。
@@ -244,7 +243,6 @@ ExpressVPN支持的设备：Windows，Mac，iPhone/iPad/iPod，Android，Google 
 - USA–Los Angeles–4
 - Japan–Yokohama
 - Canada - Toronto - 2
-- France - Strasbourg
 - Germany - Nuremberg
 - USA–Los Angeles–5
 - USA–Santa Monica/HollyWood（不是官方推荐经常也能连接）
@@ -274,7 +272,7 @@ ExpressVPN提供自购买日起`30天内无理由退款`，如果你发现它在
 
 [![NordVPN](/image/nord-min.png)](#2-nordvpn)
 
->2020年6月使用，确认可用，但目前可用节点不多。建议连接美国、日本的最新出来的节点。
+>2020年7月使用，确认可用，但目前可用节点不多。建议连接美国、日本的最新出来的节点，或联系客服获取备用节点。
 
 **<a rel="nofollow noopener" href="https://vpncn.github.io/image/ExpressVPN%E5%92%8CNordVPN%E5%93%AA%E4%B8%AA%E5%A5%BD%E7%94%A8?.md" target="_blank">查看NordVPN最新节点速度测试报告</a>**
 
@@ -331,9 +329,9 @@ NordVPN在60个国家和地区拥有5700多个服务器，在看视频或者下�
 
 [![Panda熊猫VPN](/image/panda-min.png)](https://linkv.org/panda)
 
-`最近使用：2020年6月，确认可用，速度和连接成功率很一般。`
+`最近使用：2020年7月，确认可用，速度和连接成功率都很一般，中规中矩。`
 
->华人开发的VPN，类SSR，今年翻墙软件中的小黑马，但问题是最近（4月）开始出现客服反应慢等问题。
+>华人开发的VPN，类SSR，今年翻墙软件中的小黑马，但问题是最近（4月）开始出现客服回复慢等问题。
 
 熊猫VPN由中文团队开发，所以中文支持很好，运营的时间并不长，是中国VPN市场的后期之秀，支持Windows，Mac，iOS，Android。熊猫VPN有国内可直接访问的<a rel="nofollow noopener" href="https://linkv.org/panda" target="_blank"> 镜像网站</a>，购买后也可直接从那里下载客户端，无需访问应用商店。
 
@@ -367,7 +365,7 @@ PandaVPN有分应用代理功能，制定哪些APP走VPN代理流量，哪些APP
 
 - 7天退款保证
 
-虽然不像ExpressVPN和Pure的一个月的退款时限，但是如果有问题的话，基本上使用7天内就能发现了，但这家用户反映最近退款变难、客服不理人，想入手的建议只买一个月。
+虽然不像ExpressVPN和Pure的一个月的退款时限，但是如果有问题的话，基本上使用7天内就能发现了，但这家用户反映最近**退款变难、客服回复慢等问题，想入手的建议只买一个月试试**。
 
 付款方式主要包含支付宝、Visa信用卡、PayPal等和7天退款政策。
 
@@ -391,7 +389,7 @@ PandaVPN有分应用代理功能，制定哪些APP走VPN代理流量，哪些APP
 
 [![IVacy](/image/ivacy-logo.png)](#4-ivacy)
 
->2020年5月测试，确认可用，但速度很慢，可连节点不多。
+>2020年7月测试，确认可用，但速度相对较慢，可连节点不多。
 
 ### 如何打开Ivacy官网？
 
