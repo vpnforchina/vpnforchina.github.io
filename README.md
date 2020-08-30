@@ -1,14 +1,14 @@
 # 中国翻墙软件与科学上网，VPN推荐指南2020版
 
-最后修改于： `2020年8月23日`
+最后修改于： `2020年8月30日`
 
 ## 翻墙软件现状
 
 市场上翻墙软件多如牛毛，如果你经常关注这个领域，找到几十上百款App一点也不夸张。科学上网一如既往，八仙过海，各显神通。但千万别以为找到中国能用的翻墙软件很容易，事实上要亲自一款一款试，很麻烦，其实真的能在中国大陆使用的翻墙工具凤毛麟角。为什么会这样？我们当然知道这是因为墙很高，一年比一年高，这是事实。但具体到底是为什么如此饱和的VPN软件市场，也难找到几款中国能用的产品？
 
->如果你不想听我接下来的啰嗦，**我建议直接选择<a rel="nofollow noopener" href="https://linkv.org/express-zh" target="_blank">ExpressVPN</a>，在国内使用体验最好，我自己也常年使用，它已经运营了12年（至2020年），设备支持最全面，国内外口碑都很好**，是我个人最喜欢的VPN软件，国内有大量活跃用户，你可能不是第一次听到它，几乎所有国内外VPN推荐网站它都排在最靠前的位置。这里还有个ExpressVPN使用小提示，万一在敏感时期VPN服务器暂时被墙之后，改变客户端默认的连接协议（一般是`Automatic`），**改为`L2TP-IPSec`协议**然后尝试连接，你会发现其实还有些节点可以正常连接使用，可以作为封锁时期的备用。
+>如果你不想听我接下来的啰嗦，**我建议直接选择<a rel="nofollow noopener" href="https://linkv.org/express-zh/" target="_blank">ExpressVPN</a>，在国内使用体验最好，我自己也常年使用，它已经运营了12年（至2020年），设备支持最全面，国内外口碑都很好**，是我个人最喜欢的VPN软件，国内有大量活跃用户，你可能不是第一次听到它，几乎所有国内外VPN推荐网站它都排在最靠前的位置。这里还有个ExpressVPN使用小提示，万一在敏感时期VPN服务器暂时被墙之后，改变客户端默认的连接协议（一般是`Automatic`），**改为`L2TP-IPSec`协议**然后尝试连接，你会发现其实还有些节点可以正常连接使用，可以作为封锁时期的备用。
 
-[![vpn翻墙软件](image/vpn翻墙软件.jpg)](#翻墙软件现状)
+[![vpn翻墙软件](image/strong-home.png)](#翻墙软件现状)
 
 为什么VPN软件市场难以找到几款中国能用的产品？我想主要还是因为大部分VPN商家没有抗衡防火长城的资金和技术，翻墙软件商家的焦灼在于：要维持对中国大陆用户的服务，必须有持续投入到算法更新，服务器更新，镜像站维护的财力。在和网络防火墙长期猫捉老鼠的斗争中，95%以上的服务商最终不得不败下阵来。
 
@@ -68,7 +68,7 @@
 
 可靠性的另一个方面是VPN提供商的背景。公司注册在中国大陆的提供商，政府要关停它很容易，我不推荐。从2017年GreenVPN被关停开始，大批国内VPN提供商被关停，给用户带来不便和损失，目前也出现不少山寨的玩意，很多不超过2个月就跑路换马甲继续坑人。
 
-其实VPN最开始不是用来翻墙的，VPN始于国外，在国外是一个正规的IT产业，需求对象是公司的机密通信和注重信息安全的个人，它的核心任务是保障用户的数据安全，国内用户使用它翻墙只是近年来衍生出的次要任务。国外的VPN公司都是吃保护用户隐私信息这碗饭的，只是顺便帮助咱们翻墙，所以说真正的保护用户隐私的VPN都是国外的大品牌，很多都会请第三方审计机构进行零log认证，比如<a rel="nofollow noopener" href="https://linkv.org/express-zh" target="_blank">ExpressVPN</a>通过了普华永道的用户隐私机制的审计。
+其实VPN最开始不是用来翻墙的，VPN始于国外，在国外是一个正规的IT产业，需求对象是公司的机密通信和注重信息安全的个人，它的核心任务是保障用户的数据安全，国内用户使用它翻墙只是近年来衍生出的次要任务。国外的VPN公司都是吃保护用户隐私信息这碗饭的，只是顺便帮助咱们翻墙，所以说真正的保护用户隐私的VPN都是国外的大品牌，很多都会请第三方审计机构进行零log认证，比如<a rel="nofollow noopener" href="https://linkv.org/express-zh/" target="_blank">ExpressVPN</a>通过了普华永道的用户隐私机制的审计。
 
 ## 怎么下载和登录VPN客户端？
 
@@ -107,15 +107,15 @@ Hi,I live in China,and I can't download *XX* VPN on my iPhone because it was not
 
 项目 | 1.ExpressVPN | 2.NordVPN | 3.PandaVPN | 4.Ivacy 
 ------------ | ------------- | ------------- | ------------ | ------------
-综合评分（10分制） | 9.7  | 9.3 | 9.0 | 9.2 
+综合评分（10分制） | 9.7  | 9.0 | 8.5 | 8.2 
 价格 | 较高 | 一般 | 一般 | 较低 
 运营时间 | 长  | 长 | 短 | 长 
-全年可用率（估计） | 97%  | 95% | 90% | 90% 
+全年可用率（估计） | 97%  | 90% | 90% | 85% 
 可用节点数量 | 中 | 中 | 中 | 中 
 连通率 | 高  | 中高 | 中 | 中 
 建立连接时间 | 快  | 快 | 快 | 快 
-连接稳定性（相对）| 稳定 | 稳定  | 一般 | 稳定 
-传输速度 | 很快  | 快 | 一般 | 一般 
+连接稳定性（相对）| 稳定 | 稳定  | 一般 | 一般 
+传输速度 | 很快  | 快 | 一般 | 慢 
 隐私安全 | 高  | 高 | 低 | 高 
 APP支持 | 全  | 全 | 全（不支持路由器） | 全 
 支付宝 | 支持  | 支持 | 支持 | 支持 
@@ -123,15 +123,15 @@ APP支持 | 全  | 全 | 全（不支持路由器） | 全
 售后服务 | 好  | 好 | 一般 | 一般 
 镜像官网 | 有  | 无([如何访问?](#如何打开nordvpn官网)) | 有 | 无([如何访问?](#如何打开ivacy官网)) 
 APP快速下载 | 可以  | 可以 | 可以 | 可以 
-优惠 | [年付送3个月](https://linkv.org/express-zh)  | [最多优惠75%](#如何打开nordvpn官网) | [年付优惠](https://linkv.org/panda) | [年套餐优惠86%](#如何打开ivacy官网)
+优惠 | [年付送3个月](https://linkv.org/express/)  | [最多优惠75%](#如何打开nordvpn官网) | [年付优惠](https://linkv.org/panda/) | [年套餐优惠86%](#如何打开ivacy官网)
 
 关于具体套餐的选择，如果VPN商家的运营时间短，比如PandaVPN，建议只买一个月的套餐，根据使用体验再考虑是否续费，因为服务还没有经过长时间的检验。如果VPN商家的运营时间长（5年以上），长期可用性一般问题不大，选择一个月或年套餐都可以，年套餐每月便宜很多。
 
-如果你不想听我啰嗦，我建议直接买<a rel="nofollow noopener" href="https://linkv.org/express-zh" target="_blank">ExpressVPN</a>，我自己也常年使用，它已经运营了12年（至2020年），设备支持最全面，国内外口碑都很好，是我个人最喜欢的VPN软件，国内有大量活跃用户，你可能不是第一次听到它，几乎所有国内外VPN推荐网站它都排在最靠前的位置。这里还有个**ExpressVPN使用小提示**，万一在敏感时期VPN服务器暂时被墙之后，改变客户端默认的连接协议（一般是`Automatic`），**改为`L2TP-IPSec`协议**然后尝试连接，你会发现其实还有些节点可以正常连接使用。
+如果你不想听我啰嗦，我建议直接买<a rel="nofollow noopener" href="https://linkv.org/express-zh/" target="_blank">ExpressVPN</a>，我自己也常年使用，它已经运营了12年（至2020年），设备支持最全面，国内外口碑都很好，是我个人最喜欢的VPN软件，国内有大量活跃用户，你可能不是第一次听到它，几乎所有国内外VPN推荐网站它都排在最靠前的位置。这里还有个**ExpressVPN使用小提示**，万一在敏感时期VPN服务器暂时被墙之后，改变客户端默认的连接协议（一般是`Automatic`），**改为`L2TP-IPSec`协议**然后尝试连接，你会发现其实还有些节点可以正常连接使用。
 
 >在中国的老外，用得最多的是ExpressVPN。
 
-NordVPN在全球范围内应该是为数不多的能和ExpressVPN抗衡的服务商之一，在中国的速度表现也非常不错，拥有军用级别的加密技术，目前三年优惠活动也比较划算。但目前客户端直连翻墙**建议连接新出的服务器**，服务器越新连通率越高，速度也快，建议连接日本、新加坡、英国、加拿大这些地区新出的服务器。学会使用OpenVPN手动配置，很简单，官网有教程，它的速度和稳定性会更高，敏感时期**配合用OpenVPN或IKEV2进行手动配置**可以保证全年95%左右的可用率。
+NordVPN在全球范围内应该是为数不多的能和ExpressVPN抗衡的服务商之一，在中国的速度表现也非常不错，拥有军用级别的加密技术，目前三年优惠活动也比较划算。但目前客户端直连翻墙**建议连接新出的服务器**，服务器越新连通率越高，速度也快，建议连接日本、新加坡、英国、加拿大这些地区新出的服务器。学会使用OpenVPN手动配置，很简单，官网有教程，它的速度和稳定性会更高，敏感时期**配合用OpenVPN或IKEV2进行手动配置**可以保证全年95%左右的可用率，备用服务器的信息要找官网的在线客服获取。
 
 PandaVPN的运营时间虽然不长，但也比较好用，连接速度快，提供香港/美国/台湾/日韩等多国节点，它甚至有中国大陆节点可以翻墙回国，虽然设备支持远没有ExpressVPN全，不支持Linux/路由器等其它不常用设备，隐私保护政策略显模糊，但拿来日常使用是个不错的翻墙软件。
 
@@ -144,9 +144,9 @@ VyprVPN不再做推荐，稳定性已经不如以前，虽然勉强也能使用�
 
 ## 适合在中国使用的VPN推荐
 
-### 1.[ExpressVPN](https://linkv.org/express-zh)
+### 1.[ExpressVPN](https://linkv.org/express-zh/)
 
-[![ExpressVPN](/image/express-min.png)](https://linkv.org/express-zh)
+[![ExpressVPN](/image/express-min.png)](https://linkv.org/express-zh/)
 
 `最近使用：2020年8月，确认可用，国内体验最佳。`
 
@@ -178,21 +178,41 @@ VyprVPN不再做推荐，稳定性已经不如以前，虽然勉强也能使用�
 
 ExpressVPN已通过普华永道隐私保护机制审计 —— 意思是说不像很多口是心非的不良厂商，ExpressVPN的无日志政策是实打实的无日志。
 
-- 无硬盘服务器。
+- 无硬盘服务器
 
-ExpressVPN是目前唯一提供无硬盘服务器的VPN厂商，技术上，这种服务器无法保留任何上网痕迹，重启或断掉所有信息都会被抹得一干二净。
+ExpressVPN是目前唯一提供无硬盘服务器的VPN厂商，数据临时储存在闪存中，数据传输速度比硬盘快很多，大量用户连同一台服务器压力也不大。技术上，这种服务器无法保留任何上网痕迹，重启或断掉所有信息都会被抹得一干二净。
 
 - 智能连接
 
-首先是自动检测最快的服务器，你不需要自己一个个去试，绝大多数情况下软件检测到的（Smart Location）就是当时最佳节点。其次，断线自动重连，虽然只是个小功能但真的很有用，而且每次重连时它会自动切断网络（Kill Switch），防止某些应用程序流量无意间泄露。
+首先是自动检测最快的服务器，你不需要自己一个个去试，大多数情况下软件检测到的（Smart Location）就是当时最佳节点（不绝对，我连美国Los Angeles-5的速度比Smart Location的HongKong-4更快）。其次，断线自动重连，虽然只是个小功能但真的很有用，而且每次重连时它会自动切断网络（Kill Switch），防止某些应用程序流量无意间泄露。
 
-同时访问内外网，开VPN最让人烦恼的问题是打开国内网站会变慢，有些甚至会打不开。拆分隧道技术（Split Tunneling）让你配置哪些应用程序走VPN加密通道，哪些走本地网络流量。
+同时访问内外网，开VPN最让人烦恼的问题是打开国内网站会变慢，有些甚至会打不开。拆分隧道技术（Split Tunneling）让你配置哪些应用程序走VPN加密通道，哪些走本地网络流量，比如可以设置只允许Chrome走VPN流量，而本地的QQ、火狐浏览器等应用程序走本地流量，这样即可以翻墙，又能快速打开国内网站。
 
-[![ExpressVPN-split-tunneling](image/expressvpn-split-tunneling.jpg)](#为什么expressvpn是最好用的中国vpn翻墙软件)
+**我的手机的分流设置，如下图：**
+
+[![ExpressVPN-split-tunneling](image/expressvpn-split-tunneling-Android.png)](#为什么expressvpn是最好用的中国vpn翻墙软件)
 
 - DNS泄露保护
 
 ExpressVPN在每台服务器上运行自己的私有加密DNS服务器，一旦连上，所有上网的DNS请求都会通过这些私有的域名服务器，不走任何公网服务器，你的上网隐私得到进一步保护。
+
+### ExpressVPN速度测试
+
+我在使用的时候顺便做了一下速度测试，不多说，上图，这几个节点速度都不错：
+
+Los Angeles-5节点测速：
+
+[![expressvpn速度测试](image/ExpressVPN-speedtest-LA5-min.png)](#expressvpn速度测试)
+
+Sigapore-Marina Bay节点测速：
+
+[![expressvpn速度测试](image/expressvpn-sigapore-min.png)](#expressvpn速度测试)
+
+Los Angeles-4节点测速：
+
+[![expressvpn速度测试](image/express-vpn-la4-2020-01-19.png)](#expressvpn速度测试)
+
+大家可以多测试几个节点，选择在你的网络中最快的作为常用节点。
 
 ### 如何获取ExpressVPN？
 
@@ -238,6 +258,7 @@ ExpressVPN支持的设备：Windows，Mac，iPhone/iPad/iPod，Android，Google 
 [![Expressvpn客户端](image/express-vpn-servers.png)](#如何获取expressvpn)
 
 香港、日本、美西LA节点是我最常连的服务器，速度很不错。在中国大陆使用ExpressVPN，建议选择连接官方推荐的VPN服务器线路，这些服务器线路是ExpressVPN官方针对中国地区做过的混淆服务器优化，推荐中国用户使用：
+
 - Hong Kong–4
 - Singapore–Marina Bay
 - USA–Los Angeles–4
@@ -247,15 +268,13 @@ ExpressVPN支持的设备：Windows，Mac，iPhone/iPad/iPod，Android，Google 
 - USA–Los Angeles–5
 - USA–Santa Monica/HollyWood（不是官方推荐经常也能连接）
 
-**<a rel="nofollow noopener" href="https://vpncn.github.io/image/ExpressVPN%E5%92%8CNordVPN%E5%93%AA%E4%B8%AA%E5%A5%BD%E7%94%A8?.md" target="_blank">查看ExpressVPN最新节点速度测试报告</a>**
-
 在“敏感时期”如果出现连不上的情况，也可以改为“L2TP – IPsec”协议使用其它的服务器线路，但是其他那些服务器没有经过混淆算法优化，速度可能会不如官方推荐的服务器线路，可以作为敏感时期的备用节点。
 
 **万一ExpressVPN不适你的网络如何退款？**
 
 ExpressVPN提供自购买日起`30天内无理由退款`，如果你发现它在你的设备和网络环境下用不了，你可以有两种方式联系它们退款。
 
-1. [打开镜像站](https://linkv.org/express-zh)，等页面装载完毕后，你会看到右下方的“在线客服”入口，点进去就能联系到客服，他们7天24小时都有人。
+1. [打开镜像站](https://linkv.org/express-zh/)，等页面装载完毕后，你会看到右下方的“在线客服”入口，点进去就能联系到客服，他们7天24小时都有人。
 
 2. 写邮件给 support@expressvpn.com，他们一般会在一个工作日内回复。
 
@@ -325,15 +344,15 @@ NordVPN在60个国家和地区拥有5700多个服务器，在看视频或者下�
 >注：在敏感时期，使用NordVPN最好能结合官网的教程进行OpenVPN手动配置，iOS设备上用手动ikev2，手动配置的节点比APP直连的稳定性高很多。另一个需要注意的地方是如果遇到连接或者下载问题随时联系在线客服，让售后给你备用服务器地址。
 
 
-## 3.<a rel="nofollow noopener" href="https://linkv.org/panda" target="_blank"> Panda熊猫VPN</a>
+## 3.<a rel="nofollow noopener" href="https://linkv.org/panda/" target="_blank"> Panda熊猫VPN</a>
 
-[![Panda熊猫VPN](/image/panda-min.png)](https://linkv.org/panda)
+[![Panda熊猫VPN](/image/panda-min.png)](https://linkv.org/panda/)
 
 `最近使用：2020年8月，确认可用，速度和连接成功率都很一般，中规中矩。`
 
->华人开发的VPN，类SSR，今年翻墙软件中的小黑马，但问题是最近（4月）开始出现客服回复慢等问题。
+>华人开发的VPN，类SSR，今年翻墙软件中的小黑马，但问题是最近开始出现客服回复慢等问题。
 
-熊猫VPN由中文团队开发，所以中文支持很好，运营的时间并不长，是中国VPN市场的后期之秀，支持Windows，Mac，iOS，Android。熊猫VPN有国内可直接访问的<a rel="nofollow noopener" href="https://linkv.org/panda" target="_blank"> 镜像网站</a>，购买后也可直接从那里下载客户端，无需访问应用商店。
+熊猫VPN由中文团队开发，所以中文支持很好，运营的时间并不长，是中国VPN市场的后期之秀，支持Windows，Mac，iOS，Android。熊猫VPN有国内可直接访问的<a rel="nofollow noopener" href="https://linkv.org/panda/" target="_blank"> 镜像网站</a>，购买后也可直接从那里下载客户端，无需访问应用商店。
 
 [![panda熊猫vpn](image/Snag_963aad.png)](#3panda熊猫vpn)
 
@@ -377,19 +396,18 @@ PandaVPN有分应用代理功能，制定哪些APP走VPN代理流量，哪些APP
 
 7天退款保障，但申请退款需要说明理由。如果你发现它在你的设备和网络环境下不能用，可以用下列方式联系客服，一般客服会协助你解决问题，如果确实为软件问题造成无法使用，会退款：
 
-1. 打开<a rel="nofollow noopener" href="https://linkv.org/panda" target="_blank">镜像网站</a>，等待网页加载完毕，你会看到右下角的在线客服，点击弹出，就可以联系到客服。
+1. 打开<a rel="nofollow noopener" href="https://linkv.org/panda/" target="_blank">镜像网站</a>，等待网页加载完毕，你会看到右下角的在线客服，点击弹出，就可以联系到客服。
 
 2. 写邮件给 panda7x24@gmail.com，虽然邮箱名暗示24/7客服，但个人经验，他们回复邮件的时间在1-2个工作日。
 
 >PandaVPN客服支持中文，所以你可以直接用中文表达退款请求。
 
 
-
 ## 4.<a rel="nofollow noopener" href="https://linkv.org/ivacy" target="_blank"> IVacy</a>
 
 [![IVacy](/image/ivacy-logo.png)](#4-ivacy)
 
->2020年7月测试，确认可用，但速度相对较慢，可连节点不多。
+>2020年7月测试，确认可用，但速度相对较慢，可连节点不多，现在比较鸡肋。
 
 ### 如何打开Ivacy官网？
 
@@ -462,7 +480,7 @@ IVacy不限制同时在线的设备数量，这算是一个独树一帜的特点
 
 ### 为什么一线VPN没有被墙
 
-它们也被墙，如<a rel="nofollow noopener" href="https://linkv.org/express-zh" target="_blank">ExpressVPN的官网域名</a>是无法从国内访问的，但厂商提供很多备用镜像网站供国内用户访问，一个被墙就开另一个，域名和IP都不同，走HTTPS流量，GFW要再次侦测到往往需要花几周或几个月的时间，这种“打一枪换个地方”的策略很奏效，一线厂商就是通过这种手段让中国VPN用户不翻墙就能买到他们的服务的。
+它们也被墙，如<a rel="nofollow noopener" href="https://linkv.org/express-zh/" target="_blank">ExpressVPN的官网域名</a>是无法从国内访问的，但厂商提供很多备用镜像网站供国内用户访问，一个被墙就开另一个，域名和IP都不同，走HTTPS流量，GFW要再次侦测到往往需要花几周或几个月的时间，这种“打一枪换个地方”的策略很奏效，一线厂商就是通过这种手段让中国VPN用户不翻墙就能买到他们的服务的。
 
 ExpressVPN的镜像网站除了域名和官网不同以外，其他服务和功能和官网一样的，在线客服沟通、用户账号登陆和app安装包下载都可以在镜像网站完成。而且镜像网站数据与官网实时互通，在镜像网站注册的账号也可以在官网域名和其他镜像网站使用。
 
