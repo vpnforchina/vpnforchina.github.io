@@ -346,7 +346,7 @@ NordVPN在60个国家和地区拥有5700多个服务器，在看视频或者下�
 >注：在敏感时期，使用NordVPN最好能结合官网的教程进行OpenVPN手动配置，iOS设备上用手动ikev2，手动配置的节点比APP直连的稳定性高很多。另一个需要注意的地方是如果遇到连接或者下载问题随时联系在线客服，让售后给你备用服务器地址。
 
 
-## 3.<a rel="nofollow noopener" href="https://linkv.org/panda/" target="_blank"> Panda熊猫VPN</a>
+## 3.<a rel="nofollow noopener" href="https://linkv.org/panda/" target="_blank">Panda熊猫VPN</a>
 
 [![Panda熊猫VPN](/image/panda-min.png)](#3panda熊猫vpn)
 
