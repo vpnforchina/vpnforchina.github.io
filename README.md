@@ -123,7 +123,7 @@ APP支持 | 全  | 全 | 全（不支持路由器） | 全
 售后服务 | 好  | 好 | 一般 | 一般 
 镜像官网 | 有  | 无([如何访问?](#如何打开nordvpn官网)) | 有 | 无([如何访问?](#如何打开ivacy官网)) 
 APP快速下载 | 可以  | 可以 | 可以 | 可以 
-优惠 | [年付送3个月](https://linkv.org/express/)  | [最多优惠75%](#如何打开nordvpn官网) | [年付优惠](https://linkv.org/panda/) | [年套餐优惠86%](#如何打开ivacy官网)
+优惠 | <a rel="nofollow noopener" href="https://linkv.org/express-zh/" target="_blank">年付送3个月</a>  | [最多优惠75%](#如何打开nordvpn官网) | <a rel="nofollow noopener" href="https://linkv.org/panda/" target="_blank">年付优惠</a> | [年套餐优惠86%](#如何打开ivacy官网)
 
 关于具体套餐的选择，如果VPN商家的运营时间短，比如PandaVPN，建议只买一个月的套餐，根据使用体验再考虑是否续费，因为服务还没有经过长时间的检验。如果VPN商家的运营时间长（5年以上），长期可用性一般问题不大，选择一个月或年套餐都可以，年套餐每月便宜很多。
 
@@ -144,9 +144,9 @@ VyprVPN不再做推荐，稳定性已经不如以前，虽然勉强也能使用�
 
 ## 适合在中国使用的VPN推荐
 
-### 1.[ExpressVPN](https://linkv.org/express-zh/)
+### 1.<a rel="nofollow noopener" href="https://linkv.org/express-zh/" target="_blank">ExpressVPN</a>
 
-[![ExpressVPN](/image/express-min.png)](https://linkv.org/express-zh/)
+[![ExpressVPN](/image/express-min.png)](#1expressvpn)
 
 `最近使用：2020年8月，确认可用，国内体验最佳。`
 
@@ -222,7 +222,7 @@ Los Angeles-4节点测速：
 
 所以要获得ExpressVPN其实非常简单：
 
-**第一步：打开[ExpressVPN镜像站](https://linkv.org/express-zh)**
+**第一步：打开<a rel="nofollow noopener" href="https://linkv.org/express-zh/" target="_blank">ExpressVPN镜像站</a>。**
 
 > ExpressVPN的镜像网站除了域名和官网不同以外，其他服务和功能和官网一样的，在线客服沟通、用户账号登陆和app安装包下载都可以在镜像网站完成。而且镜像网站数据与官网实时互通，在镜像网站注册的账号也可以在官网域名和其他镜像网站使用。
 
@@ -247,7 +247,7 @@ ExpressVPN支持的设备：Windows，Mac，iPhone/iPad/iPod，Android，Google 
 
 >你不需要到App Store或Play Store下载苹果或安卓手机客户端，官方提供了直接执行的安装包和配置文件。
 
-[打开官网](https://linkv.org/express-zh)，在你的iPhone/iPad上用Safari浏览器登录账号，然后打开My Account => Set up ExpressVPN => 选择 iPhone, iPad & iPod 点击进入后，页面会提示下载VPN配置文件（文件名如：expressvpn_ios.mobileconfig），Safari浏览器能识别该文件，提示安装，点击安装即可自动完成手机VPN配置，然后到 Settings -> VPN 里发起连接，输入你的ExpressVPN用户名和密码就能用了。
+<a rel="nofollow noopener" href="https://linkv.org/express-zh/" target="_blank">打开官网</a>，在你的iPhone/iPad上用Safari浏览器登录账号，然后打开My Account => Set up ExpressVPN => 选择 iPhone, iPad & iPod 点击进入后，页面会提示下载VPN配置文件（文件名如：expressvpn_ios.mobileconfig），Safari浏览器能识别该文件，提示安装，点击安装即可自动完成手机VPN配置，然后到 Settings -> VPN 里发起连接，输入你的ExpressVPN用户名和密码就能用了。
 
 **注意**：看清楚安装过程中是要填激活码还是用户名密码，两者不同，激活码可在购买ExpressVPN后登录ExpressVPN帐号获得。
 
@@ -274,7 +274,7 @@ ExpressVPN支持的设备：Windows，Mac，iPhone/iPad/iPod，Android，Google 
 
 ExpressVPN提供自购买日起`30天内无理由退款`，如果你发现它在你的设备和网络环境下用不了，你可以有两种方式联系它们退款。
 
-1. [打开镜像站](https://linkv.org/express-zh/)，等页面装载完毕后，你会看到右下方的“在线客服”入口，点进去就能联系到客服，他们7天24小时都有人。
+1. <a rel="nofollow noopener" href="https://linkv.org/express-zh/" target="_blank">打开镜像官网</a>，等页面装载完毕后，你会看到右下方的“在线客服”入口，点进去就能联系到客服，他们7天24小时都有人。
 
 2. 写邮件给 support@expressvpn.com，他们一般会在一个工作日内回复。
 
@@ -346,7 +346,7 @@ NordVPN在60个国家和地区拥有5700多个服务器，在看视频或者下�
 
 ## 3.<a rel="nofollow noopener" href="https://linkv.org/panda/" target="_blank"> Panda熊猫VPN</a>
 
-[![Panda熊猫VPN](/image/panda-min.png)](https://linkv.org/panda/)
+[![Panda熊猫VPN](/image/panda-min.png)](#3panda熊猫vpn)
 
 `最近使用：2020年8月，确认可用，速度和连接成功率都很一般，中规中矩。`
 
