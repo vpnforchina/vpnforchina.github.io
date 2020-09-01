@@ -10,7 +10,7 @@
 
 >如果你不想听我接下来的啰嗦，**我建议直接选择<a rel="nofollow noopener" href="https://linkv.org/express-zh/" target="_blank">ExpressVPN</a>，在国内使用体验最好，我自己也常年使用，它已经运营了12年（至2020年），设备支持最全面，国内外口碑都很好**，是我个人最喜欢的VPN软件，国内有大量活跃用户，你可能不是第一次听到它，几乎所有国内外VPN推荐网站它都排在最靠前的位置。这里还有个ExpressVPN使用小提示，万一在敏感时期VPN服务器暂时被墙之后，改变客户端默认的连接协议（一般是`Automatic`），**改为`L2TP-IPSec`协议**然后尝试连接，你会发现其实还有些节点可以正常连接使用，可以作为封锁时期的备用。
 
-[![vpn翻墙软件](image/strong-home.png)](#翻墙软件现状)
+[![vpn翻墙软件](https://www.safewebcn.com/img/strong-home.png)](#翻墙软件现状)
 
 为什么VPN软件市场难以找到几款中国能用的产品？我想主要还是因为大部分VPN商家没有抗衡防火长城的资金和技术，翻墙软件商家的焦灼在于：要维持对中国大陆用户的服务，必须有持续投入到算法更新，服务器更新，镜像站维护的财力。在和网络防火墙长期猫捉老鼠的斗争中，95%以上的服务商最终不得不败下阵来。
 
@@ -148,7 +148,7 @@ VyprVPN不再做推荐，稳定性已经不如以前，虽然勉强也能使用�
 
 ### 1.<a rel="nofollow noopener" href="https://linkv.org/express-zh/" target="_blank">ExpressVPN</a>
 
-[![ExpressVPN](/image/express-min.png)](#1expressvpn)
+[![ExpressVPN](https://www.safewebcn.com/img/ExpressVPN-logo.png)](#1expressvpn)
 
 `最近使用：2020年8月，确认可用，国内体验最佳。`
 
@@ -192,7 +192,7 @@ ExpressVPN是目前唯一提供无硬盘服务器的VPN厂商，数据临时储�
 
 **我的手机的分流设置，如下图：**
 
-[![ExpressVPN-split-tunneling](image/expressvpn-split-tunneling-Android.png)](#为什么expressvpn是最好用的中国vpn翻墙软件)
+[![ExpressVPN-split-tunneling](https://www.safewebcn.com/img/expressvpn-split-tunneling-Android.png)](#为什么expressvpn是最好用的中国vpn翻墙软件)
 
 - DNS泄露保护
 
@@ -204,15 +204,15 @@ ExpressVPN在每台服务器上运行自己的私有加密DNS服务器，一旦�
 
 Los Angeles-5节点测速：
 
-[![expressvpn速度测试](image/ExpressVPN-speedtest-LA5-min.png)](#expressvpn速度测试)
+[![expressvpn速度测试](https://www.safewebcn.com/img/ExpressVPN-speedtest-LA5-min.png)](#expressvpn速度测试)
 
 Sigapore-Marina Bay节点测速：
 
-[![expressvpn速度测试](image/expressvpn-sigapore-min.png)](#expressvpn速度测试)
+[![expressvpn速度测试](https://www.safewebcn.com/img/expressvpn-sigapore-min.png)](#expressvpn速度测试)
 
 Los Angeles-4节点测速：
 
-[![expressvpn速度测试](image/express-vpn-la4-2020-01-19.png)](#expressvpn速度测试)
+[![expressvpn速度测试](https://www.safewebcn.com/img/express-vpn-la4-2020-01-19.png)](#expressvpn速度测试)
 
 大家可以多测试几个节点，选择在你的网络中最快的作为常用节点。
 
@@ -230,22 +230,22 @@ Los Angeles-4节点测速：
 
 注意：镜像网站打开速度有时不快，耐心等待一下，如果页面加载不正常，如排版乱掉，可以试试刷新下页面。如果镜像站链接打不开，这种情况一般是镜像网站被墙，官网一般在当天会放出新的镜像站，请收藏本文后等一段时间再打开。
 
-[![expressvpn镜像站](image/打开expressvpn镜像站.jpg)](#如何获取expressvpn)
+[![expressvpn镜像站](https://www.safewebcn.com/img/打开expressvpn镜像站-min.jpg)](#如何获取expressvpn)
 
 
 **第二步：购买ExpressVPN，获得帐号**
 
-[![购买expressvpn](image/购买expressvpn.jpg)](#如何获取expressvpn)
+[![购买expressvpn](https://www.safewebcn.com/img/购买expressvpn-min.jpg)](#如何获取expressvpn)
 
 购买ExpressVPN， 支持支付宝、Paypal和银联、Visa信用卡付款，**无论你买什么套餐，30天内都可以无条件退款**。首购买一年送3个月，是厂商限时推的活动，如果不放心，可以先买一个月（$12.95）用用看，好用后再续费，不过这时候应该就没有送3个月了，除非再通过上面的链接进入注册新帐号，当然换浏览器或清cookie啥的不用多说吧。
 
 **第三步：登录帐号，下载安装客户端**
 
-[![下载安装expressvpn客户端](image/下载安装expressvpn客户端.jpg)](#如何获取expressvpn)
+[![下载安装expressvpn客户端](https://www.safewebcn.com/img/下载安装expressvpn客户端-min.jpg)](#如何获取expressvpn)
 
 ExpressVPN支持的设备：Windows，Mac，iPhone/iPad/iPod，Android，Google Chrome，Chromebook，Mozilla Firefox，Router，Linux，Fire TV & Kindle Fire，Apple TV，XBox，PlayStagion，MediaStreamer 以及手动配置 —— 这是市场上设备支持最全面的VPN，官方给每种设备都提供了清晰的安装指导。
 
-[![Expressvpn客户端](image/express-vpn-devices.png)](#如何获取expressvpn)
+[![Expressvpn客户端](https://www.safewebcn.com/img/express-vpn-devices.png)](#如何获取expressvpn)
 
 >你不需要到App Store或Play Store下载苹果或安卓手机客户端，官方提供了直接执行的安装包和配置文件。
 
@@ -257,7 +257,7 @@ ExpressVPN支持的设备：Windows，Mac，iPhone/iPad/iPod，Android，Google 
 
 **第四步：开始使用**
 
-[![Expressvpn客户端](image/express-vpn-servers.png)](#如何获取expressvpn)
+[![Expressvpn客户端](https://www.safewebcn.com/img/express-vpn-servers.png)](#如何获取expressvpn)
 
 香港、日本、美西LA节点是我最常连的服务器，速度很不错。在中国大陆使用ExpressVPN，建议选择连接官方推荐的VPN服务器线路，这些服务器线路是ExpressVPN官方针对中国地区做过的混淆服务器优化，推荐中国用户使用：
 
@@ -291,7 +291,7 @@ ExpressVPN提供自购买日起`30天内无理由退款`，如果你发现它在
 
 ## 2.<a rel="nofollow noopener" href="http://linkv.org/nord" target="_blank"> NordVPN</a>
 
-[![NordVPN](/image/nord-min.png)](#2-nordvpn)
+[![NordVPN](https://www.safewebcn.com/img/nord-min.png)](#2-nordvpn)
 
 >2020年8月使用，确认可用，但目前可用节点不多。建议连接美国、日本的最新出来的节点，或联系客服获取备用节点。
 
@@ -319,11 +319,11 @@ NordVPN在全球范围内应该是为数不多的能和ExpressVPN抗衡的服务
 
 NordVPN Windows客户端日本节点：
 
-[![NordVPN-win](/image/nord-win.png)](#2-nordvpn)
+[![NordVPN-win](https://www.safewebcn.com/img/nord-win.png)](#2-nordvpn)
 
 NordVPN 安卓客户端日本节点：
 
-[![NordVPN-android](/image/nord-android.png)](#2-nordvpn)
+[![NordVPN-android](https://www.safewebcn.com/img/nord-android.png)](#2-nordvpn)
 
 - 隐私保护
 
@@ -333,7 +333,7 @@ NordVPN拥有军用级别的加密技术，就算在公共场合，使用无加�
 
 NordVPN的客户端APP支持几乎所有网络设备，Windows，Mac，iOS，Android这些常见的系统都有客户端APP。**允许最多6台设备同时在线使用**，NordVPN还具有严格的无日志政策，自动`Kill Switch`开关，DNS泄露防护，`Onion Over VPN`等功能。
 
-[![NordVPN支持设备](/image/nord-devices-min.png)](#2-nordvpn)
+[![NordVPN支持设备](https://www.safewebcn.com/img/nord-devices-min.png)](#2-nordvpn)
 
 - 全球服务器支持
 
@@ -348,7 +348,7 @@ NordVPN在60个国家和地区拥有5700多个服务器，在看视频或者下�
 
 ## 3.<a rel="nofollow noopener" href="https://linkv.org/panda/" target="_blank">Panda熊猫VPN</a>
 
-[![Panda熊猫VPN](/image/panda-min.png)](#3panda熊猫vpn)
+[![Panda熊猫VPN](https://www.safewebcn.com/img/panda-min.png)](#3panda熊猫vpn)
 
 `最近使用：2020年8月，确认可用，速度和连接成功率都很一般，中规中矩。`
 
@@ -356,17 +356,17 @@ NordVPN在60个国家和地区拥有5700多个服务器，在看视频或者下�
 
 熊猫VPN由中文团队开发，所以中文支持很好，运营的时间并不长，是中国VPN市场的后期之秀，支持Windows，Mac，iOS，Android。熊猫VPN有国内可直接访问的<a rel="nofollow noopener" href="https://linkv.org/panda/" target="_blank"> 镜像网站</a>，购买后也可直接从那里下载客户端，无需访问应用商店。
 
-[![panda熊猫vpn](image/Snag_963aad.png)](#3panda熊猫vpn)
+[![panda熊猫vpn](https://www.safewebcn.com/img/Snag_963aad-min.png)](#3panda熊猫vpn)
 
 我买了2年套餐，在安卓手机上测试使用了一个小时，相对这个价格来说，感觉有几分惊喜，我随机测了香港和美国的几个节点，都是滑块滑倒上面的很快就连接成功了，然后我用了用Youtube，视频的速度也比较满意。
 
 在中国使用熊猫VPN翻墙软件，WIndows系统：
 
-[![熊猫VPN客户端](image/在中国使用熊猫VPN翻墙软件.jpg)](#3panda熊猫vpn)
+[![熊猫VPN客户端](https://www.safewebcn.com/img/在中国使用熊猫VPN翻墙软件-min.jpg)](#3panda熊猫vpn)
 
 根据我个人的使用体验，PandaVPN在敏感时期的穿墙能力比较强，但这还不能说明它的技术更好，也可能是它比较新的缘故。 这个VPN底层很可能不是VPN技术，我的猜测，很可能是SSR类似的技术，因为连接建立连接的速度比较快，而且客户端里提供全局代理或分应用代理的区别，让人浮想联翩，我无法确定熊猫VPN到底是VPN还是SSR那样的代理类翻墙软件，所以暂时把它算作VPN推荐吧。
 
-[![熊猫VPN代理配置](image/熊猫VPN代理配置.jpg)](#3panda熊猫vpn)
+[![熊猫VPN代理配置](https://www.safewebcn.com/img/熊猫VPN代理配置-min.jpg)](#3panda熊猫vpn)
 
 熊猫VPN创办时间不长，我使用也不到半年，虽然总体体验不错，但是**长期的可用性我还不清楚，客服不如其他家，建议先买一个月，觉得不错再续费使用也可以。**
 
@@ -407,7 +407,7 @@ PandaVPN有分应用代理功能，制定哪些APP走VPN代理流量，哪些APP
 
 ## 4.<a rel="nofollow noopener" href="https://linkv.org/ivacy" target="_blank"> IVacy</a>
 
-[![IVacy](/image/ivacy-logo.png)](#4-ivacy)
+[![IVacy](https://www.safewebcn.com/img/ivacy-logo.png)](#4-ivacy)
 
 >2020年7月测试，确认可用，但速度相对较慢，可连节点不多，现在比较鸡肋。
 
@@ -491,6 +491,4 @@ ExpressVPN的镜像网站除了域名和官网不同以外，其他服务和功�
 多数时候你可以在同一台电脑或手机上安装多个翻墙工具而不碰到任何问题，但也有少数时候某些工具间会有冲突，导致系统VPN无法正常工作，或者某个特定App无法正常工作。
 
 另外当你用无法正常连接的翻墙软件发起连接且该工具又没有连接时自动断网功能时，你的网络服务商可能短时间切断你的网络（免费工具较为多见），表现是你突然发现路由器WIFI无法连接（得手动重连）或者你的光猫分配到的公网IP无法访问外网，这种“暂时断网”现象并不少见，这是长城防火墙阻止用户翻墙上网的措施，一般不会持续太久就会自动恢复。这个问题会让很多用户误以为某些翻墙软件自身无法使用，而其实只是因为本地网络暂时出问题了。
-
-
 
