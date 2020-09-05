@@ -671,7 +671,8 @@ Lantern，虽然连接的成功率不高，但是它有免费版本。我测试�
 
 [![蓝灯](https://www.safewebcn.com/img/latern-comments-min.png)](#免费翻墙软件)
 
-**<a rel="nofollow noopener" href="https://" target="_blank">蓝灯下载地址</a>**（下载使用前请阅读前面的安全提示）
+<a rel="nofollow noopener" href="https://github.com/getlantern/lantern-binaries/raw/master/lantern-installer.exe" target="_blank">蓝灯Windows免费版本下载地址</a>（**下载使用前请阅读前面的安全提示**）
+<a rel="nofollow noopener" href="https://github.com/getlantern/lantern-binaries/raw/master/lantern-installer.dmg" target="_blank">蓝灯Mac免费版本下载地址</a>
 
 
 --------------------------------------------------------------------------------------------------------------
