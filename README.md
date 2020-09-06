@@ -209,7 +209,7 @@ VyprVPN不再做推荐，稳定性已经不如以前，虽然勉强也能使用�
 
 ## 适合在中国使用的VPN推荐
 
-## <a rel="nofollow noopener" href="https://linkv.org/strongcn/" target="_blank">StrongVPN – 性价比最佳</a>
+## <a rel="nofollow noopener" href="#如何打开strongvpn官网" target="_blank">StrongVPN – 性价比最佳</a>
 
 [![StrongVPN](https://www.safewebcn.com/img/strong-logo.png)](#strongvpn--性价比最佳)
 
@@ -221,7 +221,7 @@ StrongVPN成立于2005年，属于NetProtect旗下的品牌，是一家美国的
 
 ### 如何打开StrongVPN官网？
 
-有梯子的同学直接可访问<a rel="nofollow noopener" href="https://linkv.org/strongcn/" target="_blank">官网</a>，但没梯子的同学注意，Strong官网在中国被墙，国内打开StrongVPN官网有两种方法，改电脑Host文件或者[使用免费梯子访问](#免费翻墙软件)，因为官网DNS在天朝被定位到不能访问的IP，需要修改本地Host文件的DNS才能访问。
+有梯子的同学直接可访问<a rel="nofollow noopener" href="https://linkv.org/strongcn/" target="_blank">StrongVPN官网</a>，但没梯子的同学注意，Strong官网在中国被墙，国内打开官网需要改电脑Host文件，因为官网DNS在天朝被定位到不能访问的IP，需要修改本地Host文件的DNS才能访问。
 
 改电脑Host文件方法很简单，国内Windows/Mac用户可以直接下载hosts文件**解锁本文中所有VPN官网**，手机用户建议在电脑上打开本页面操作，因为手机由于系统版本原因改host操作较麻烦，下面是操作步骤：
 
@@ -654,33 +654,6 @@ IVacy不限制同时在线的设备数量，这算是一个独树一帜的特点
 - 7*24小时技术支持
 
 在使用过程中如果遇到问题，可以在任意时刻联系他们的客户服务团队。
-
-## 免费翻墙软件
-
-如果你只有一时的翻墙需求，**仅仅浏览网页且不涉及账号密码等敏感的信息**，可以使用免费的翻墙软件，但是是否能使用、速度和安全性没法保证。俗话说“免费才是最贵的”，我现在也不再测试免费VPN了，因为基本不能用，而且很多打着免费的幌子窃取个人信息或者是钓鱼，具体我就不展开了。如果有**长期的翻墙需求**，或者想**数据安全得到保障**，只能使用信誉好的付费VPN供应商。
-
-## 可以作为备用的免费梯子
-
-Lantern，虽然连接的成功率不高，但是它有免费版本。我测试了免费版比付费版都差不多，貌似免费版本还好用一点，付费版经常无法连接，这种商业逻辑也是清奇。500MB的免费流量，基于socks5协议，而不是VPN，安全性欠佳，这款软件我是**作为其他VPN的备用，比如要更新VPN客户端等时使用**。
-
-- **优点：免费**，直接安装无需登录就能使用，可以考虑作为VPN的备用选项。
-
-- **缺点：不安全**，网络数据运营商貌似能获取到，因为去年在广东和重庆有人使用Lantern Pro翻墙被罚款的，应该是访问了ZZ敏感的网页和信息被查到了（如下图）。因此**只建议访问不涉及敏感信息的网页，或者作为更新VPN客户端的备用选项**。（下载地址见下方）
-
-[![蓝灯](https://www.safewebcn.com/img/landeng-min.png)](#免费翻墙软件)
-
-**使用不稳定**，付费版本也是如此，受到防火长城的影响很大，很多时候无法连接，**不建议买它的付费Pro版**（如下图蓝灯用户的讨论帖），如果你有长期的翻墙需求和网络数据安全需求，请使用[信誉好的付费VPN](#适合在中国使用的vpn推荐)，**把蓝灯的免费版本作为访问VPN品牌官网和更新客户端的备用选择**。
-
-蓝灯付费用户的讨论:
-
-[![蓝灯](https://www.safewebcn.com/img/latern-comments-min.png)](#免费翻墙软件)
-
-下载地址：（**下载使用前请阅读前面的安全提示**）
-
-<a rel="nofollow noopener" href="https://github.com/getlantern/lantern-binaries/raw/master/lantern-installer.exe" target="_blank">蓝灯Windows免费版本下载地址</a>
-
-<a rel="nofollow noopener" href="https://github.com/getlantern/lantern-binaries/raw/master/lantern-installer.dmg" target="_blank">蓝灯Mac免费版本下载地址</a>
-
 
 --------------------------------------------------------------------------------------------------------------
 
