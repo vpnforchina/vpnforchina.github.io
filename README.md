@@ -163,25 +163,25 @@ Hi,I live in China,and I can't download *XX* VPN on my iPhone because it was not
 
 ## 翻墙VPN功能&价格对比表
 
-项目 | 1.ExpressVPN | 2.StrongVPN | 3.NordVPN | 4.PandaVPN | 5.Ivacy 
------------- | ------------- | ------------- | ------------- | ------------ | ------------
-综合评分（10分制） | 9.3  | 9.5 | 9.2 | 8.5 | 8.0 
-价格 | 较高 | 一般 | 一般 | 一般 | 较低 
-运营时间 | 长  | 长 | 长 | 短 | 长 
-全年可用率（估计） | 97% | 95% | 90% | 90% | 80% 
-可用节点数量 | 较少 | 较多 | 中 | 中 | 少 
-连通率 | 高  |  高  | 中高 | 中 | 中 
-建立连接时间 | 快 | 快 | 快 | 快 | 慢 
-连接稳定性（相对）| 稳定 | 稳定 | 稳定  | 一般 | 一般 
-网络速度 | 很快 | 快 | 快 | 一般 | 慢 
-隐私安全 | 高  | 高  | 高 | 低 | 高 
-APP支持 | 全  | 全 | 全 | 较全（不支持路由器） | 全 
-支付宝 | 支持  | 支持 | 支持 | 支持 | 支持 
-退款时限 | 30天内 |30天内 | 30天内 | 7天 | 30天内 
-售后服务 | 好  | 好 | 好 | 一般 | 一般 
-镜像官网 | 有  | 无([如何访问?](#如何打开strongvpn官网))  | 无([如何访问?](#如何打开nordvpn官网)) | 有 | 无([如何访问?](#如何打开ivacy官网)) 
-APP快速下载 | 可以 | 可以  | 可以 | 可以 | 可以 
-优惠 | <a rel="nofollow noopener" href="https://linkv.org/express-zh/" target="_blank">年付送3个月</a>  | <a rel="nofollow noopener" href="https://linkv.org/strongcn/" target="_blank">用优惠卷省20%</a>  | [最多优惠75%](#如何打开nordvpn官网) | <a rel="nofollow noopener" href="https://linkv.org/panda/" target="_blank">年付优惠</a> | [年套餐优惠86%](#如何打开ivacy官网)
+项目 | 1.ExpressVPN | 2.StrongVPN | 3.NordVPN | 4.PandaVPN 
+------------ | ------------- | ------------- | ------------- | ------------ 
+综合评分（10分制） | 9.6  | 9.5 | 9.2 | 8.5 
+价格 | 较高 | 一般 | 一般 | 一般 
+运营时间 | 长  | 长 | 长 | 短 
+全年可用率（估计） | 97% | 95% | 90% | 90% 
+可用节点数量 | 较少 | 较多 | 中 | 中 
+连通率 | 高  |  高  | 中高 | 中 
+建立连接时间 | 快 | 快 | 快 | 快 
+连接稳定性（相对）| 稳定 | 稳定 | 稳定  | 一般 
+网络速度 | 很快 | 快 | 快 | 一般 
+隐私安全 | 高  | 高  | 高 | 低 
+APP支持 | 全  | 全 | 全 | 较全（不支持路由器） 
+支付宝 | 支持  | 支持 | 支持 | 支持 
+退款时限 | 30天内 |30天内 | 30天内 | 7天 
+售后服务 | 好  | 好 | 好 | 一般 
+镜像官网 | 有  | 无([如何访问?](#如何打开strongvpn官网))  | 无([如何访问?](#如何打开nordvpn官网)) | 有 
+APP快速下载 | 可以 | 可以  | 可以 | 可以 
+优惠 | <a rel="nofollow noopener" href="https://linkv.org/express-zh/" target="_blank">年付送3个月</a>  | <a rel="nofollow noopener" href="https://linkv.org/strongcn/" target="_blank">用优惠卷省20%</a>  | [最多优惠75%](#如何打开nordvpn官网) | <a rel="nofollow noopener" href="https://linkv.org/panda/" target="_blank">年付优惠</a> 
 
 关于具体套餐的选择，如果VPN商家的运营时间短，比如PandaVPN，建议只买一个月的套餐，根据使用体验再考虑是否续费，因为服务还没有经过长时间的检验。如果VPN商家的运营时间长（5年以上），长期可用性一般问题不大，选择一个月或年套餐都可以，年套餐每月便宜很多。
 
@@ -208,7 +208,7 @@ VyprVPN不再做推荐，稳定性已经不如以前，虽然勉强也能使用�
 
 ## 适合在中国使用的VPN推荐
 
-## <a rel="nofollow noopener" href="#如何打开strongvpn官网" target="_blank">StrongVPN – 性价比最佳</a>
+## [StrongVPN – 性价比最佳](#如何打开strongvpn官网)
 
 [![StrongVPN](https://www.safewebcn.com/img/strong-logo.png)](#strongvpn--性价比最佳)
 
