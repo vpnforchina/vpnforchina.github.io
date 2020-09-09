@@ -286,7 +286,7 @@ StrongVPN成立于2005年，属于NetProtect旗下的品牌，是一家美国的
 
 [![Strong客户端下载](https://www.safewebcn.com/img/strongvpn-client-min.png)](#strongvpn如何使用)
 
->**中国Windows用户建议<a rel="nofollow noopener" href="https://mirror2.reliablehosting.com/win/StrongVPN_Win-latest.exe" target="_blank">下载StrongVPN的精简版</a>，这是找官网技术客服推荐给我的，因为标准版的Windows APP首次使用账号登录困难，精简版的更适合在中国使用。**
+>**中国Windows用户建议<a rel="nofollow noopener" href="https://mirror2.reliablehosting.com/win/StrongVPN_Win-latest.exe" target="_blank">下载StrongVPN的精简版</a>，这是找官网技术客服推荐给我的，因为标准版的Windows APP首次使用账号登录困难，精简版的更适合在中国使用。**安装精简版之前，最好把官网的标准版先装上，因为有读者反映Win10直接安装精简版出现问题，缺少组件，安装标准版之后解决。
 
 下载安装APP客户端后，打开输入用户名密码登录就行了，在中国使用，协议（Protocol）建议选择OpenVPN，如果连接不畅需要重新安装OpenVPN的TAP驱动。
 
