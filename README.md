@@ -12,9 +12,7 @@
 
 - [StrongVPN](#strongvpn--性价比最佳)，这款VPN我已经使用了2年左右，性价比不错。总体来讲，在过去大概2年的使用时间里，全年可用率能达到95%左右，服务器经常会更新，每次登陆客户端都会自动检测服务器更新。**在国内的用户可以下载StrongVPN精简版，登录和连接更为顺畅**，遗憾的是Strong官网在中国被墙，有梯子的同学可以用梯子访问，[国内打开StrongVPN官网](#如何打开strongvpn官网)需要改电脑Host文件，因为官网DNS在天朝被定位到不能访问的IP，需要修改本地的DNS才能访问。
 
-- <a rel="nofollow noopener" href="https://linkv.org/express-zh/" target="_blank">ExpressVPN</a>，我自己也常年使用，在国内使用体验最好，它已经运营了12年（至2020年），设备支持最全面，国内外口碑都很好。国内有大量活跃用户，你可能不是第一次听到它，几乎所有国内外VPN推荐网站它都排在最靠前的位置。这里还有个**ExpressVPN使用小提示**，万一在敏感时期VPN服务器暂时被墙之后，改变客户端默认的连接协议（一般是`Automatic`），**改为`L2TP-IPSec`协议**然后尝试连接，你会发现其实还有些节点可以正常连接使用。**不足之处是由于防火长城的干扰，ExpressVPN的镜像网站在国内打开加载缓慢，有时要耐心等待一下**，如果遇到排版乱掉或打不开的情况试试重新加载。价格相对较高，适合不缺钱的同学。
-
->在中国的老外，用得最多的是ExpressVPN和StrongVPN。
+>StrongVPN在中国的用户以老外居多，他们能更好地与官方技术人员交流，保持服务的长期稳定性。
 
 
 [![vpn翻墙软件](https://www.safewebcn.com/img/strong-home.png)](#翻墙软件现状)
@@ -163,31 +161,29 @@ Hi,I live in China,and I can't download *XX* VPN on my iPhone because it was not
 
 ## 翻墙VPN功能&价格对比表
 
-项目 | 1.ExpressVPN | 2.StrongVPN | 3.NordVPN | 4.PandaVPN 
+项目 | 1.StrongVPN | 2.ExpressVPN | 3.NordVPN | 4.PandaVPN 
 ------------ | ------------- | ------------- | ------------- | ------------ 
-综合评分（10分制） | 9.6  | 9.5 | 9.2 | 8.5 
-价格 | 较高 | 一般 | 一般 | 一般 
+综合评分（10分制） | 9.6  | 9.2 | 9.2 | 8.5 
+价格 | 一般 | 较高 | 一般 | 一般 
 运营时间 | 长  | 长 | 长 | 短 
 全年可用率（估计） | 97% | 95% | 90% | 90% 
-可用节点数量 | 较少 | 较多 | 中 | 中 
+可用节点数量 | 较多 | 较少 | 中 | 中 
 连通率 | 高  |  高  | 中高 | 中 
 建立连接时间 | 快 | 快 | 快 | 快 
 连接稳定性（相对）| 稳定 | 稳定 | 稳定  | 一般 
-网络速度 | 很快 | 快 | 快 | 一般 
+网络速度 | 快 | 快 | 快 | 一般 
 隐私安全 | 高  | 高  | 高 | 低 
 APP支持 | 全  | 全 | 全 | 较全（不支持路由器） 
 支付宝 | 支持  | 支持 | 支持 | 支持 
 退款时限 | 30天内 |30天内 | 30天内 | 7天 
 售后服务 | 好  | 好 | 好 | 一般 
-镜像官网 | 有  | 无([如何访问?](#如何打开strongvpn官网))  | 无([如何访问?](#如何打开nordvpn官网)) | 有 
+镜像官网 | 暂无([如何访问?](#如何打开strongvpn官网))  |  有 | 无([如何访问?](#如何打开nordvpn官网)) | 有 
 APP快速下载 | 可以 | 可以  | 可以 | 可以 
-优惠 | <a rel="nofollow noopener" href="https://linkv.org/express-zh/" target="_blank">年付送3个月</a>  | <a rel="nofollow noopener" href="https://linkv.org/strongcn/" target="_blank">用优惠卷省20%</a>  | [最多优惠75%](#如何打开nordvpn官网) | <a rel="nofollow noopener" href="https://linkv.org/panda/" target="_blank">年付优惠</a> 
+优惠 | <a rel="nofollow noopener" href="https://linkv.org/strongcn/" target="_blank">用优惠卷省20%</a>  | <a rel="nofollow noopener" href="https://linkv.org/express-zh/" target="_blank">年付送3个月</a>  | [最多优惠75%](#如何打开nordvpn官网) | <a rel="nofollow noopener" href="https://linkv.org/panda/" target="_blank">年付优惠</a> 
 
 关于具体套餐的选择，如果VPN商家的运营时间短，比如PandaVPN，建议只买一个月的套餐，根据使用体验再考虑是否续费，因为服务还没有经过长时间的检验。如果VPN商家的运营时间长（5年以上），长期可用性一般问题不大，选择一个月或年套餐都可以，年套餐每月便宜很多。
 
 [StrongVPN](#strongvpn--性价比最佳)我已经使用了2年左右，性价比不错。总体来讲，在过去1年的使用时间里，全年可用率能达到95%左右，服务器经常会更新，每次登陆客户端都会自动检测服务器更新。**在国内的用户可以下载StrongVPN精简版，登录和连接更为顺畅**，遗憾的是Strong官网在中国被墙，有梯子的同学可以用梯子访问，国内打开StrongVPN官网需要改电脑Host文件，因为官网DNS在天朝被定位到不能访问的IP，需要修改本地的DNS才能访问。
-
-<a rel="nofollow noopener" href="https://linkv.org/express-zh/" target="_blank">ExpressVPN</a>我自己也常年使用，它已经运营了12年（至2020年），设备支持最全面，国内外口碑都很好，是我个人最喜欢的VPN软件，国内有大量活跃用户，你可能不是第一次听到它，几乎所有国内外VPN推荐网站它都排在最靠前的位置。这里还有个**ExpressVPN使用小提示**，万一在敏感时期VPN服务器暂时被墙之后，改变客户端默认的连接协议（一般是`Automatic`），**改为`L2TP-IPSec`协议**然后尝试连接，你会发现其实还有些节点可以正常连接使用。
 
 NordVPN,目前客户端直连翻墙**建议连接新出的服务器**，服务器越新连通率越高，速度也快，建议连接日本、新加坡、英国、加拿大这些地区新出的服务器。学会使用OpenVPN手动配置，很简单，官网有教程，它的速度和稳定性会更高，敏感时期**配合用OpenVPN或IKEV2进行手动配置**可以保证全年95%左右的可用率，备用服务器的信息要找官网的在线客服获取。
 
@@ -366,11 +362,9 @@ StrongVPN同样支持30天退款保证，有足够的时间测试使用。
 
 [![ExpressVPN](https://www.safewebcn.com/img/ExpressVPN-logo.png)](#expressvpn)
 
-`最近使用：2020年9月，确认可用，速度体验最佳。`
+`最近使用：2020年9月，确认可用。`
 
-这是中国最好用的VPN，我用了5年，虽然特殊时期也碰到问题，但一年中超过90%的时间里使用都很流畅。ExpressVPN已经为中国网民服务了12年。 这是目前唯一一个任何人想都不用想就可以买的VPN，速度相比其他VPN软件有优势，镜像网站更新最及时，隐私保护技术最好，还有最重要的，客户端最好用，设备支持它最全。
-
-在我用的几年时间里，每年不能用的时间总共加起来大致在1个星期左右（即所谓“敏感时期”），会有几天时间出现频繁短线或者网速变得非常慢。根据我的使用体验估计ExpressVPN全年正常可用率在97%左右。在中国大陆使用ExpressVPN，建议选择连接官方推荐的VPN服务器线路，这些服务器线路是ExpressVPN官方针对中国地区做过的混淆服务器优化，推荐中国用户使用：
+在我用的几年时间里，每年不能用的时间总共加起来大致在1个星期左右（即所谓“敏感时期”），会有几天时间出现频繁短线或者网速变得非常慢。根据我的使用体验估计ExpressVPN全年正常可用率在95%左右。在中国大陆使用ExpressVPN，建议选择连接官方推荐的VPN服务器线路，这些服务器线路是ExpressVPN官方针对中国地区做过的混淆服务器优化，推荐中国用户使用：
 
     Japan–Yokohama
     Hong Kong–4
