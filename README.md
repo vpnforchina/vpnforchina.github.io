@@ -440,11 +440,11 @@ Los Angeles-4节点测速：
 
 打开官网后点击“Get ExpressVPN”按钮，进入套餐信息页面。
 
-[![expressvpn镜像站](https://www.safewebcn.com/img/打开expressvpn镜像站-min.jpg)](https://www.fastvpncn.com/expressvpn)
+[![expressvpn镜像站](https://www.safewebcn.com/img/打开expressvpn官网-min.png)](https://www.fastvpncn.com/expressvpn)
 
 **第二步：购买ExpressVPN，获得帐号**
 
-[![购买expressvpn](https://www.safewebcn.com/img/购买expressvpn-min.jpg)](https://www.fastvpncn.com/expressvpn)
+[![购买expressvpn](https://www.safewebcn.com/img/expressvpn-优惠套餐-min.png)](https://www.fastvpncn.com/expressvpn)
 
 购买ExpressVPN， 支持支付宝、Paypal和银联、Visa信用卡付款，**无论你买什么套餐，30天内都可以无条件退款**。**首次购买一年送3个月**，是厂商限时推的活动，如果不放心，可以先买一个月（$12.95）用用看，好用后再续费，不过这时候应该就没有送3个月了，除非再通过上面的链接进入注册新帐号，当然换浏览器或清cookie啥的是基本的，不用多说吧。
 
