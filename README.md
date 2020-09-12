@@ -1,8 +1,8 @@
 # 中国翻墙软件与科学上网，VPN推荐指南2020版
 
-最后修改于： `2020年9月4日`
+最后修改于： `2020年9月12日`
 
->由于在中国部分地区，本页面Github网络图片的加载可能出现错误，建议下载<a rel="nofollow noopener" href="https://linkv.org/download/%E6%8E%A8%E8%8D%90%E6%8C%87%E5%8D%97.pdf" target="_blank">2020版翻墙VPN推荐指南PDF版本</a>(右键另存)，有更好的阅读体验，并以备不时之需。
+本文正式版网页：[2020翻墙软件与科学上网VPN推荐](https://vpnforchina.github.io/)
 
 ## 翻墙软件现状
 
@@ -12,7 +12,9 @@
 
 - [StrongVPN](#strongvpn--性价比最佳)，这款VPN我已经使用了2年左右，性价比不错。总体来讲，在过去大概2年的使用时间里，全年可用率能达到95%左右，服务器经常会更新，每次登陆客户端都会自动检测服务器更新。**在国内的用户可以下载StrongVPN精简版，登录和连接更为顺畅**，遗憾的是Strong官网在中国被墙，有梯子的同学可以用梯子访问，[国内打开StrongVPN官网](#如何打开strongvpn官网)需要改电脑Host文件，因为官网DNS在天朝被定位到不能访问的IP，需要修改本地的DNS才能访问。
 
->StrongVPN在中国的用户以老外居多，他们能更好地与官方技术人员交流，保持服务的长期稳定性。
+<a rel="nofollow noopener" href="https://www.fastvpncn.com/expressvpn" target="_blank">ExpressVPN</a>我自己也常年使用，它已经运营了12年（至2020年），设备支持最全面，国内外口碑都很好，是我个人最喜欢的VPN软件，国内有大量活跃用户，你可能不是第一次听到它，几乎所有国内外VPN推荐网站它都排在最靠前的位置。这里还有个**ExpressVPN使用小提示**，万一在敏感时期VPN服务器暂时被墙之后，改变客户端默认的连接协议（一般是`Automatic`），**改为`L2TP-IPSec`协议**然后尝试连接，你会发现其实还有些节点可以正常连接使用。
+
+>StrongVPN在中国的用户以老外居多，他们能更好地与官方技术人员交流，保持服务的长期稳定性。ExpressVPN有大量中国用户，由于之前有不少的冒牌镜像站点，给品牌声誉造成影响，ExpressVPN官方停止了中国的镜像域名访问，镜像域名仅供更新客户端使用，可以使用其他梯子访问官网购买。
 
 
 [![vpn翻墙软件](https://www.safewebcn.com/img/strong-home.png)](#翻墙软件现状)
@@ -124,7 +126,7 @@
 
 可靠性的另一个方面是VPN提供商的背景。公司注册在中国大陆的提供商，政府要关停它很容易，我不推荐。从2017年GreenVPN被关停开始，大批国内VPN提供商被关停，给用户带来不便和损失，目前也出现不少山寨的玩意，很多不超过2个月就跑路换马甲继续坑人。
 
-其实VPN最开始不是用来翻墙的，VPN始于国外，在国外是一个正规的IT产业，需求对象是公司的机密通信和注重信息安全的个人，它的核心任务是保障用户的数据安全，国内用户使用它翻墙只是近年来衍生出的次要任务。国外的VPN公司都是吃保护用户隐私信息这碗饭的，只是顺便帮助咱们翻墙，所以说真正的保护用户隐私的VPN都是国外的大品牌，很多都会请第三方审计机构进行零log认证，比如<a rel="nofollow noopener" href="https://linkv.org/express-zh/" target="_blank">ExpressVPN</a>通过了普华永道的用户隐私机制的审计。
+其实VPN最开始不是用来翻墙的，VPN始于国外，在国外是一个正规的IT产业，需求对象是公司的机密通信和注重信息安全的个人，它的核心任务是保障用户的数据安全，国内用户使用它翻墙只是近年来衍生出的次要任务。国外的VPN公司都是吃保护用户隐私信息这碗饭的，只是顺便帮助咱们翻墙，所以说真正的保护用户隐私的VPN都是国外的大品牌，很多都会请第三方审计机构进行零log认证，比如<a rel="nofollow noopener" href="https://www.fastvpncn.com/expressvpn" target="_blank">ExpressVPN</a>通过了普华永道的用户隐私机制的审计。
 
 ## 怎么下载和登录VPN客户端？
 
@@ -163,11 +165,11 @@ Hi,I live in China,and I can't download *XX* VPN on my iPhone because it was not
 
 项目 | 1.StrongVPN | 2.ExpressVPN | 3.NordVPN | 4.PandaVPN 
 ------------ | ------------- | ------------- | ------------- | ------------ 
-综合评分（10分制） | 9.6  | 9.2 | 9.2 | 8.5 
+综合评分（10分制） | 9.2  | 9.5 | 9.2 | 8.5 
 价格 | 一般 | 较高 | 一般 | 一般 
 运营时间 | 长  | 长 | 长 | 短 
-全年可用率（估计） | 97% | 95% | 90% | 90% 
-可用节点数量 | 较多 | 较少 | 中 | 中 
+全年可用率（估计） | 95% | 97% | 90% | 90% 
+可用节点数量 | 多 | 较多（包含L2TP协议） | 中 | 中 
 连通率 | 高  |  高  | 中高 | 中 
 建立连接时间 | 快 | 快 | 快 | 快 
 连接稳定性（相对）| 稳定 | 稳定 | 稳定  | 一般 
@@ -177,11 +179,13 @@ APP支持 | 全  | 全 | 全 | 较全（不支持路由器）
 支付宝 | 支持  | 支持 | 支持 | 支持 
 退款时限 | 30天内 |30天内 | 30天内 | 7天 
 售后服务 | 好  | 好 | 好 | 一般 
-镜像官网 | 暂无([如何访问?](#如何打开strongvpn官网))  |  有 | 无([如何访问?](#如何打开nordvpn官网)) | 有 
+镜像官网 | 暂无([如何访问?](#如何打开strongvpn官网))  |  停止 | 无([如何访问?](#如何打开nordvpn官网)) | 有 
 APP快速下载 | 可以 | 可以  | 可以 | 可以 
-优惠 | <a rel="nofollow noopener" href="https://linkv.org/strongcn/" target="_blank">用优惠卷省20%</a>  | <a rel="nofollow noopener" href="https://linkv.org/express-zh/" target="_blank">年付送3个月</a>  | [最多优惠75%](#如何打开nordvpn官网) | <a rel="nofollow noopener" href="https://linkv.org/panda/" target="_blank">年付优惠</a> 
+优惠 | <a rel="nofollow noopener" href="https://linkv.org/strongcn/" target="_blank">用优惠卷省20%</a>  | <a rel="nofollow noopener" href="https://www.fastvpncn.com/expressvpn" target="_blank">年付送3个月</a>  | [最多优惠75%](#如何打开nordvpn官网) | <a rel="nofollow noopener" href="https://linkv.org/panda/" target="_blank">年付优惠</a> 
 
 关于具体套餐的选择，如果VPN商家的运营时间短，比如PandaVPN，建议只买一个月的套餐，根据使用体验再考虑是否续费，因为服务还没有经过长时间的检验。如果VPN商家的运营时间长（5年以上），长期可用性一般问题不大，选择一个月或年套餐都可以，年套餐每月便宜很多。
+
+<a rel="nofollow noopener" href="https://www.fastvpncn.com/expressvpn" target="_blank">ExpressVPN</a>，我自己也常年使用，在国内使用体验最好，它已经运营了12年（至2020年），设备支持最全面，国内外口碑都很好。国内有大量活跃用户，你可能不是第一次听到它，几乎所有国内外VPN推荐网站它都排在最靠前的位置。这里还有个**ExpressVPN使用小提示**，万一在敏感时期VPN服务器暂时被墙之后，改变客户端默认的连接协议（一般是`Automatic`），**改为`L2TP-IPSec`协议**然后尝试连接，你会发现其实还有些节点可以正常连接使用。不足之处是ExpressVPN官方停止了中国的镜像域名访问购买（镜像域名仅供更新客户端使用），可以使用其他梯子访问官网。价格相对较高，适合不缺钱的同学。
 
 [StrongVPN](#strongvpn--性价比最佳)我已经使用了2年左右，性价比不错。总体来讲，在过去1年的使用时间里，全年可用率能达到95%左右，服务器经常会更新，每次登陆客户端都会自动检测服务器更新。**在国内的用户可以下载StrongVPN精简版，登录和连接更为顺畅**，遗憾的是Strong官网在中国被墙，有梯子的同学可以用梯子访问，国内打开StrongVPN官网需要改电脑Host文件，因为官网DNS在天朝被定位到不能访问的IP，需要修改本地的DNS才能访问。
 
@@ -358,13 +362,15 @@ StrongVPN虽然客户端不支持中文，但是对在在中国的用户反应�
 StrongVPN同样支持30天退款保证，有足够的时间测试使用。
 
 
-## <a rel="nofollow noopener" href="https://linkv.org/express-zh/" target="_blank">ExpressVPN</a>
+## <a rel="nofollow noopener" href="https://www.fastvpncn.com/expressvpn" target="_blank">ExpressVPN</a>
 
-[![ExpressVPN](https://www.safewebcn.com/img/ExpressVPN-logo.png)](#expressvpn)
+[![ExpressVPN](https://www.safewebcn.com/img/ExpressVPN-logo.png)](https://www.fastvpncn.com/expressvpn)
 
-`最近使用：2020年9月，确认可用。`
+`最近使用：2020年9月，确认可用。ExpressVPN国内的使用体验在我所测试的VPN产品中最好。`
 
-在我用的几年时间里，每年不能用的时间总共加起来大致在1个星期左右（即所谓“敏感时期”），会有几天时间出现频繁短线或者网速变得非常慢。根据我的使用体验估计ExpressVPN全年正常可用率在95%左右。在中国大陆使用ExpressVPN，建议选择连接官方推荐的VPN服务器线路，这些服务器线路是ExpressVPN官方针对中国地区做过的混淆服务器优化，推荐中国用户使用：
+应该说，这是中国目前最好用的VPN，我用了5年，虽然特殊时期也碰到问题，但一年中超过95%的时间里使用都很流畅。ExpressVPN已经为中国网民服务了12年。 这是目前唯一一个任何人想都不用想就可以买的VPN，速度相比其他VPN软件有优势，服务器针对中国大陆进行优化，网速快，顶级隐私保护技术，还有最重要的，客户端最好用，设备支持它最全。
+
+在我用的几年时间里，每年不能用的时间总共加起来大致在1-2个星期左右（即所谓“敏感时期”），会有几天时间出现频繁短线或者网速变得非常慢。根据我的使用体验估计ExpressVPN全年正常可用率在95%左右。在中国大陆使用ExpressVPN，建议选择连接官方推荐的VPN服务器线路，这些服务器线路是ExpressVPN官方针对中国地区做过的混淆服务器优化，推荐中国用户使用：
 
     Japan–Yokohama
     Hong Kong–4
@@ -380,11 +386,13 @@ StrongVPN同样支持30天退款保证，有足够的时间测试使用。
 
 #### 为什么ExpressVPN是最好用的中国VPN翻墙软件？
 
-因为他重视中国市场。世界上的VPN软件成千上万，愿意为中国用户提供镜像站的一只手数得过来，ExpressVPN的镜像站，对中国用户始终保持着可访问。
+~~因为他重视中国市场。世界上的VPN软件成千上万，愿意为中国用户提供镜像站的一只手数得过来，ExpressVPN的镜像站，对中国用户始终保持着可访问。~~
+
+>由于之前涌现出很多冒牌镜像网站，损害了ExpressVPN的品牌价值，ExpressVPN官方已经不再针对中国大陆使用镜像域名，镜像域名仅供更新客户端使用，目前中国大陆的访客可以使用其他梯子进入ExpressVPN官网进行购买。
 
 客户端好用的VPN不少，但提供无需Google Play商店和苹果美国商店即可安装客户端的VPN厂商，恐怕ExpressVPN是仅有的几家之一。
 
-推荐香港、日本、新加坡、美国节点，提供国内能打开的镜像站，不翻墙即可购买，真正全终端覆盖，电脑（Windows，MacOS，Linux），手机（安卓，iOS：iPhone/iPad），路由器，游戏主机（PS2，XBox）等，安卓手机无需Google Play也可安装，iOS设备无需访问苹果商店也可安装，同时5台设备，单独配置哪些应用走VPN哪些不走（Split Tunneling），30天无理由退款，支持支付宝付款，支持P2P下载，不限流量。**最多支持5台设备同时在线使用。**
+真正全终端覆盖，支持电脑（Windows，MacOS，Linux），手机（安卓，iOS：iPhone/iPad），路由器，游戏主机（PS2，XBox）等，安卓手机无需Google Play也可安装，iOS设备无需访问苹果商店也可安装，可以支持5台设备同时使用，单独配置哪些应用走VPN哪些不走（Split Tunneling），30天无理由退款，支持支付宝付款，支持P2P下载，不限流量。**最多支持5台设备同时在线使用。**
 
 ExpressVPN已通过普华永道隐私保护机制审计 —— 意思是说不像很多口是心非的不良厂商，ExpressVPN的无日志政策是实打实的无日志。
 
@@ -426,26 +434,19 @@ Los Angeles-4节点测速：
 
 ### 如何获取ExpressVPN？
 
-获得ExpressVPN非常简单，买就行了。绝大多数国外VPN服务官网是被墙掉的，服务商懒得为中国VPN用户提供镜像站，服务再牛逼也没用，国内打不开。
+获得ExpressVPN非常简单，买就行了。但有点要注意，为了杜绝冒牌网站，ExpressVPN官方停止了中国大陆地区的镜像网站，可以使用其他免费或付费梯子访问ExpressVPN官网购买。
 
-只有少数几个国外VPN提供商能为中国VPN用户维护长期可访问的镜像网站，ExpressVPN是其中之一。它的官网在中国大陆已经被墙多年，如果你在国内，不先翻墙是打不开的。但是，你很可能可以打开它的镜像网站，不断有镜像站域名被墙，也不断有镜像站域名加入，这已经持续了很多年，一线的VPN厂商就是通过不断更新的镜像站域名为广大中国VPN用户提供者服务。
+**第一步：打开<a rel="nofollow noopener" href="https://www.fastvpncn.com/expressvpn" target="_blank">ExpressVPN官网</a>。**
 
-所以要获得ExpressVPN其实非常简单：
+打开官网后点击“Get ExpressVPN”按钮，进入套餐信息页面。
 
-**第一步：打开<a rel="nofollow noopener" href="https://linkv.org/express-zh/" target="_blank">ExpressVPN镜像站</a>。**
-
-> ExpressVPN的镜像网站除了域名和官网不同以外，其他服务和功能和官网一样的，在线客服沟通、用户账号登陆和app安装包下载都可以在镜像网站完成。而且镜像网站数据与官网实时互通，在镜像网站注册的账号也可以在官网域名和其他镜像网站使用。
-
-注意：镜像网站打开速度有时不快，耐心等待一下，如果页面加载不正常，如排版乱掉，可以试试刷新下页面。如果镜像站链接打不开，这种情况一般是镜像网站被墙，官网一般在当天会放出新的镜像站，请收藏本文后等一段时间再打开。
-
-[![expressvpn镜像站](https://www.safewebcn.com/img/打开expressvpn镜像站-min.jpg)](#如何获取expressvpn)
-
+[![expressvpn镜像站](https://www.safewebcn.com/img/打开expressvpn镜像站-min.jpg)](https://www.fastvpncn.com/expressvpn)
 
 **第二步：购买ExpressVPN，获得帐号**
 
-[![购买expressvpn](https://www.safewebcn.com/img/购买expressvpn-min.jpg)](#如何获取expressvpn)
+[![购买expressvpn](https://www.safewebcn.com/img/购买expressvpn-min.jpg)](https://www.fastvpncn.com/expressvpn)
 
-购买ExpressVPN， 支持支付宝、Paypal和银联、Visa信用卡付款，**无论你买什么套餐，30天内都可以无条件退款**。首购买一年送3个月，是厂商限时推的活动，如果不放心，可以先买一个月（$12.95）用用看，好用后再续费，不过这时候应该就没有送3个月了，除非再通过上面的链接进入注册新帐号，当然换浏览器或清cookie啥的不用多说吧。
+购买ExpressVPN， 支持支付宝、Paypal和银联、Visa信用卡付款，**无论你买什么套餐，30天内都可以无条件退款**。**首次购买一年送3个月**，是厂商限时推的活动，如果不放心，可以先买一个月（$12.95）用用看，好用后再续费，不过这时候应该就没有送3个月了，除非再通过上面的链接进入注册新帐号，当然换浏览器或清cookie啥的是基本的，不用多说吧。
 
 **第三步：登录帐号，下载安装客户端**
 
@@ -457,11 +458,11 @@ ExpressVPN支持的设备：Windows，Mac，iPhone/iPad/iPod，Android，Google 
 
 >你不需要到App Store或Play Store下载苹果或安卓手机客户端，官方提供了直接执行的安装包和配置文件。
 
-<a rel="nofollow noopener" href="https://linkv.org/express-zh/" target="_blank">打开官网</a>，在你的iPhone/iPad上用Safari浏览器登录账号，然后打开My Account => Set up ExpressVPN => 选择 iPhone, iPad & iPod 点击进入后，页面会提示下载VPN配置文件（文件名如：expressvpn_ios.mobileconfig），Safari浏览器能识别该文件，提示安装，点击安装即可自动完成手机VPN配置，然后到 Settings -> VPN 里发起连接，输入你的ExpressVPN用户名和密码就能用了。
+<a rel="nofollow noopener" href="https://www.fastvpncn.com/expressvpn" target="_blank">打开官网</a>，在你的iPhone/iPad上用Safari浏览器登录账号，然后打开My Account => Set up ExpressVPN => 选择 iPhone, iPad & iPod 点击进入后，页面会提示下载VPN配置文件（文件名如：expressvpn_ios.mobileconfig），Safari浏览器能识别该文件，提示安装，点击安装即可自动完成手机VPN配置，然后到 Settings -> VPN 里发起连接，输入你的ExpressVPN用户名和密码就能用了。
 
 **注意**：看清楚安装过程中是要填激活码还是用户名密码，两者不同，激活码可在购买ExpressVPN后登录ExpressVPN帐号获得。
 
-2020/02/09更新：这个方法有用户反应过完成后无法使用，若出现这种情况，请联系客服获取App Store的美国区id。
+2020更新：这个方法有用户反应过完成后无法使用，若出现这种情况，请联系客服获取App Store的美国区id。
 
 **第四步：开始使用**
 
@@ -480,11 +481,13 @@ ExpressVPN支持的设备：Windows，Mac，iPhone/iPad/iPod，Android，Google 
 
 在“敏感时期”如果出现连不上的情况，也可以改为“L2TP – IPsec”协议使用其它的服务器线路，但是其他那些服务器没有经过混淆算法优化，速度可能会不如官方推荐的服务器线路，可以作为敏感时期的备用节点。
 
+### <center><a rel="nofollow noopener" href="https://www.fastvpncn.com/expressvpn" target="_blank">>> 获取ExpressVPN优惠 <<</a></center>
+
 **万一ExpressVPN不适你的网络如何退款？**
 
 ExpressVPN提供自购买日起`30天内无理由退款`，如果你发现它在你的设备和网络环境下用不了，你可以有两种方式联系它们退款。
 
-1. <a rel="nofollow noopener" href="https://linkv.org/express-zh/" target="_blank">打开镜像官网</a>，等页面装载完毕后，你会看到右下方的“在线客服”入口，点进去就能联系到客服，他们7天24小时都有人。
+1. <a rel="nofollow noopener" href="https://www.fastvpncn.com/expressvpn" target="_blank">打开ExpressVPN官网</a>，或者点击客户端下方的文字进入镜像网站，等页面装载完毕后，你会看到右下方的“在线客服”入口，点进去就能联系到客服，他们7天24小时都有人。
 
 2. 写邮件给 support@expressvpn.com，他们一般会在一个工作日内回复。
 
@@ -684,7 +687,7 @@ IVacy不限制同时在线的设备数量，这算是一个独树一帜的特点
 
 ### 为什么一线VPN没有被墙
 
-它们也被墙，如<a rel="nofollow noopener" href="https://linkv.org/express-zh/" target="_blank">ExpressVPN的官网域名</a>是无法从国内访问的，但厂商提供很多备用镜像网站供国内用户访问，一个被墙就开另一个，域名和IP都不同，走HTTPS流量，GFW要再次侦测到往往需要花几周或几个月的时间，这种“打一枪换个地方”的策略很奏效，一线厂商就是通过这种手段让中国VPN用户不翻墙就能买到他们的服务的。
+它们也被墙，如<a rel="nofollow noopener" href="https://www.fastvpncn.com/expressvpn" target="_blank">ExpressVPN的官网域名</a>是无法从国内访问的，但厂商提供很多备用镜像网站供国内用户访问，一个被墙就开另一个，域名和IP都不同，走HTTPS流量，GFW要再次侦测到往往需要花几周或几个月的时间，这种“打一枪换个地方”的策略很奏效，一线厂商就是通过这种手段让中国VPN用户不翻墙就能买到他们的服务的。
 
 ExpressVPN的镜像网站除了域名和官网不同以外，其他服务和功能和官网一样的，在线客服沟通、用户账号登陆和app安装包下载都可以在镜像网站完成。而且镜像网站数据与官网实时互通，在镜像网站注册的账号也可以在官网域名和其他镜像网站使用。
 
