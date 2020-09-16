@@ -8,13 +8,13 @@
 
 市场上翻墙软件多如牛毛，如果你经常关注这个领域，找到几十上百款App一点也不夸张。科学上网一如既往，八仙过海，各显神通。但千万别以为找到中国能用的翻墙软件很容易，事实上要亲自一款一款试，很麻烦，其实真的能在中国大陆使用的翻墙工具凤毛麟角。为什么会这样？我们当然知道这是因为墙很高，一年比一年高，这是事实。但具体到底是为什么如此饱和的VPN软件市场，也难找到几款中国能用的产品？
 
-**如果你不想听我啰嗦，我建议直接买2款中的任意一款：**
+**如果你不想听我啰嗦，我建议直接选择下列2款中的任意一款，不过在下单某款付费VPN之前，一定要把下文中与该款VPN服务对应的具体使用细节看完，因为涉及到线路或协议选择，否则可能会在日后的使用中遇到麻烦：**
 
-- [StrongVPN](#strongvpn--性价比最佳)，这款VPN我已经使用了2年左右，性价比不错。总体来讲，在过去大概2年的使用时间里，全年可用率能达到95%左右，服务器经常会更新，每次登陆客户端都会自动检测服务器更新。**在国内的用户可以下载StrongVPN精简版，登录和连接更为顺畅**，遗憾的是Strong官网在中国被墙，有梯子的同学可以用梯子访问，[国内打开StrongVPN官网](#如何打开strongvpn官网)需要改电脑Host文件，因为官网DNS在天朝被定位到不能访问的IP，需要修改本地的DNS才能访问。
+> - [StrongVPN](#strongvpn--性价比最佳)，这款VPN我已经使用了2年左右，性价比不错。总体来讲，在过去大概2年的使用时间里，全年可用率能达到95%左右，服务器经常会更新，每次登陆客户端都会自动检测服务器更新。**在国内的用户可以下载StrongVPN精简版，登录和连接更为顺畅**，遗憾的是Strong官网在中国被墙，有梯子的同学可以用梯子访问，[国内打开StrongVPN官网](#如何打开strongvpn官网)需要改电脑Host文件，因为官网DNS在天朝被定位到不能访问的IP，需要修改本地的DNS才能访问。
 
-<a rel="nofollow noopener" href="https://www.fastvpncn.com/expressvpn" target="_blank">ExpressVPN</a>我自己也常年使用，它已经运营了12年（至2020年），设备支持最全面，国内外口碑都很好，是我个人最喜欢的VPN软件，国内有大量活跃用户，你可能不是第一次听到它，几乎所有国内外VPN推荐网站它都排在最靠前的位置。这里还有个**ExpressVPN使用小提示**，万一在敏感时期VPN服务器暂时被墙之后，改变客户端默认的连接协议（一般是`Automatic`），**改为`L2TP-IPSec`协议**然后尝试连接，你会发现其实还有些节点可以正常连接使用。
+> - <a rel="nofollow noopener" href="https://www.fastvpncn.com/expressvpn" target="_blank">ExpressVPN</a>我自己也常年使用，它已经运营了12年（至2020年），设备支持最全面，国内外口碑都很好，是我个人最喜欢的VPN软件，国内有大量活跃用户，你可能不是第一次听到它，几乎所有国内外VPN推荐网站它都排在最靠前的位置。这里还有个**ExpressVPN使用小提示**，万一在敏感时期VPN服务器暂时被墙之后，改变客户端默认的连接协议（一般是`Automatic`），**改为`L2TP-IPSec`协议**然后尝试连接，你会发现其实还有些节点可以正常连接使用。
 
->StrongVPN在中国的用户以老外居多，他们能更好地与官方技术人员交流，保持服务的长期稳定性。ExpressVPN有大量中国用户，由于之前有不少的冒牌镜像站点，给品牌声誉造成影响，ExpressVPN官方停止了中国的镜像域名访问，镜像域名仅供更新客户端使用，可以使用其他梯子访问官网购买。
+>StrongVPN在中国的用户以老外居多，他们能更好地与官方技术人员交流，保持服务的长期稳定性。ExpressVPN有大量中国用户，由于之前有不少的冒牌镜像站点，给品牌声誉造成影响，**ExpressVPN官方停止了中国的镜像域名访问，镜像域名仅供更新客户端使用**，可以使用其他梯子访问官网购买。
 
 
 [![vpn翻墙软件](https://www.safewebcn.com/img/strong-home.png)](#翻墙软件现状)
@@ -248,13 +248,13 @@ StrongVPN成立于2005年，属于NetProtect旗下的品牌，是一家美国的
 
 [![Strong-device](https://www.safewebcn.com/img/strongvpn-plan-price-min.png)](#如何获取strongvpn)
 
-输入Email注册，付款之后系统会自动分配初始登录密码，发送到注册的Email邮箱。
-
 付款方式支持支付宝Alipay、银联卡、信用卡和Paypal等，**目前有特价活动可以优惠20%，优惠码是`TAKEOFF20`**。
+
+输入Email注册，付款之后系统会自动分配初始登录密码，发送到注册的Email邮箱。
 
 [![Strong优惠码](https://www.safewebcn.com/img/strongvpn-alipay-payment-min.png)](#如何获取strongvpn)
 
-获取优惠码之后的结算页面：
+在“Have a coupon”处（如上图）点击并输入优惠码`TAKEOFF20`之后的结算页面：
 
 [![Strong优惠码](https://www.safewebcn.com/img/strongvpn-plan-coupon-price-min.png)](#如何获取strongvpn)
 
