@@ -8,7 +8,7 @@
 
 市场上翻墙软件多如牛毛，如果你经常关注这个领域，找到几十上百款App一点也不夸张。科学上网一如既往，八仙过海，各显神通。但千万别以为找到中国能用的翻墙软件很容易，事实上要亲自一款一款试，很麻烦，其实真的能在中国大陆使用的翻墙工具凤毛麟角。为什么会这样？我们当然知道这是因为墙很高，一年比一年高，这是事实。但具体到底是为什么如此饱和的VPN软件市场，也难找到几款中国能用的产品？
 
-- 如果你有一定的技术基础，打算用**便宜VPS服务器自己搭建机场**。第一，你要确保能应对使用VPS时可能遇到的问题；然后，<a rel="nofollow noopener" href="https://linkv.org/bandwagon/" target="_blank">搬瓦工BandWagon</a>、Vultr和DO等几个国人用滥了的机房尽量避免，因为IP被墙的太严重，已经没有多少可用的了，很可能新开的VPS的IP就是不能用的。**目前<a rel="nofollow noopener" href="https://linkv.org/hostwinds/" target="_blank">HostWinds</a>是个不错的选择**，国内连接服务器网络速度快，没有很多国人扎堆，IP基本为全新，便宜且流量大，可月付、可支付宝，每月$4.49起步，1核1GB内存30GB磁盘，1Gbps带宽，每月1TB流量，用来搭梯子和建站都比较理想，并**可以免费换IP**，换IP的方法：进入VPS管理后台，看到服务器选项，点击Manage IP’s，然后点击Fix ISP Block按钮，最后点击确认Confirm。
+- 如果你有一定的技术基础，打算用**便宜VPS服务器自己搭建机场**。第一，你要确保能应对使用VPS时可能遇到的问题；然后，<a rel="nofollow noopener" href="https://linkv.org/bandwagon/" target="_blank">搬瓦工BandWagon</a>、Vultr和DO等几个国人用滥了的机房尽量避免，因为IP被墙的太严重，已经没有多少可用的了，很可能新开的VPS的IP就是不能用的。**目前<a rel="nofollow noopener" href="https://linkv.org/hostwinds/" target="_blank">HostWinds</a>是个不错的选择**，没有很多国人扎堆，IP基本为全新，建议选择Seattle机房，在美国西海岸，国内连接服务器网络速度快。便宜且流量大，可月付、可支付宝，每月$4.49起步，1核1GB内存30GB磁盘，1Gbps带宽，每月1TB流量，用来搭梯子和建站都比较理想，并**可以免费换IP**，换IP的方法：进入VPS管理后台，看到服务器选项，点击Manage IP’s，然后点击Fix ISP Block按钮，最后点击确认Confirm。
 
 - 如果你是技术小白或者不想那么麻烦，**使用VPN安全翻墙是第一选择**，依然是最适合国人的主流安全科学上网工具，同样也是我长期关注和使用的。
 
