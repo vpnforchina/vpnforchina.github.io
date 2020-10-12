@@ -1,6 +1,6 @@
 # 翻墙软件与科学上网，好用的VPN推荐2020版
 
-最后修改于： `2020年9月29日`
+最后修改于： `2020年10月12日`
 
 本文正式版网页：[2020翻墙软件与科学上网VPN推荐](https://vpnforchina.github.io/)
 
@@ -8,7 +8,7 @@
 
 市场上翻墙软件多如牛毛，如果你经常关注这个领域，找到几十上百款App一点也不夸张。科学上网一如既往，八仙过海，各显神通。但千万别以为找到中国能用的翻墙软件很容易，事实上要亲自一款一款试，很麻烦，其实真的能在中国大陆使用的翻墙工具凤毛麟角。为什么会这样？我们当然知道这是因为墙很高，一年比一年高，这是事实。但具体到底是为什么如此饱和的VPN软件市场，也难找到几款中国能用的产品？
 
-- 如果你有一定的技术基础，打算用**便宜VPS服务器自己搭建机场**。第一，你要确保能应对使用VPS时可能遇到的问题；然后，<a rel="nofollow noopener" href="https://linkv.org/bandwagon/" target="_blank">搬瓦工BandWagon</a>、Vultr和DO等几个国人用滥了的机房尽量避免，因为IP被墙的太严重，已经没有多少可用的了，很可能新开的VPS的IP就是不能用的。**目前<a rel="nofollow noopener" href="https://linkv.org/hostwinds/" target="_blank">HostWinds</a>是个不错的选择**，没有很多国人扎堆，IP基本为全新，建议选择Seattle机房，在美国西海岸，国内连接服务器网络速度快。便宜且流量大，可月付、可支付宝，每月$4.49起步，1核1GB内存30GB磁盘，1Gbps带宽，每月1TB流量，用来搭梯子和建站都比较理想，并**可以免费换IP**，换IP的方法：进入VPS管理后台，看到服务器选项，点击Manage IP’s，然后点击Fix ISP Block按钮，最后点击确认Confirm。
+- 如果你有一定的技术基础，打算用**便宜VPS服务器自己搭建机场**。第一，你要确保能应对使用VPS时可能遇到的问题；然后，<a rel="nofollow noopener" href="https://linkv.org/bandwagon/" target="_blank">搬瓦工BandWagon</a>、Vultr和DO等几个国人用滥了的机房尽量避免，因为IP被墙的太严重，已经没有多少可用的了，很可能新开的VPS的IP就是不能用的。**目前<a rel="nofollow noopener" href="https://linkv.org/hostwinds/" target="_blank">HostWinds</a>是个不错的选择**，没有很多国人扎堆，IP大多比较新，建议选择Seattle机房，在美国西海岸，国内连接服务器网络速度快。便宜且流量大，可月付、可支付宝，每月$4.49起步，1核1GB内存30GB磁盘，1Gbps带宽，每月1TB流量，用来搭梯子和建站都比较理想，并**可以免费换IP**，换IP的方法：进入VPS管理后台，看到服务器选项，点击Manage IP’s，然后点击Fix ISP Block按钮，最后点击确认Confirm。
 
 - 如果你是技术小白或者不想那么麻烦，**使用VPN安全翻墙是第一选择**，依然是最适合国人的主流安全科学上网工具，同样也是我长期关注和使用的。
 
@@ -16,7 +16,7 @@
 
 > - [StrongVPN](#strongvpn--性价比最佳)，这款VPN我已经使用了2年左右，性价比不错。总体来讲，在过去大概2年的使用时间里，全年可用率能达到95%左右，服务器经常会更新，每次登陆客户端都会自动检测服务器更新。**在国内的用户可以下载StrongVPN精简版，登录和连接更为顺畅**，遗憾的是Strong官网在中国被墙，有梯子的同学可以用梯子访问，[国内打开StrongVPN官网](#如何打开strongvpn官网)需要改电脑Host文件，因为官网DNS在天朝被定位到不能访问的IP，需要修改本地的DNS才能访问。
 >
-> - <a rel="nofollow noopener" href="https://www.fastvpncn.com/expressvpn" target="_blank">ExpressVPN</a>我自己也常年使用，它已经运营了12年（至2020年），设备支持最全面，国内外口碑都很好，是我个人最喜欢的VPN软件，国内有大量活跃用户，你可能不是第一次听到它，几乎所有国内外VPN推荐网站它都排在最靠前的位置。这里还有个**ExpressVPN使用小提示**，万一在敏感时期VPN服务器暂时被墙之后，改变客户端默认的连接协议（一般是`Automatic`），**改为`L2TP-IPSec`协议**然后尝试连接，你会发现其实还有些节点可以正常连接使用。
+> - <a rel="nofollow noopener" href="https://linkv.org/express/" target="_blank">ExpressVPN</a>我自己也常年使用，它已经运营了12年（至2020年），设备支持最全面，国内外口碑都很好，是我个人最喜欢的VPN软件，国内有大量活跃用户，你可能不是第一次听到它，几乎所有国内外VPN推荐网站它都排在最靠前的位置。这里还有个**ExpressVPN使用小提示**，万一在敏感时期VPN服务器暂时被墙之后，改变客户端默认的连接协议（一般是`Automatic`），**改为`L2TP-IPSec`协议**然后尝试连接，你会发现其实还有些节点可以正常连接使用。
 >
 >StrongVPN在中国的用户以老外居多，他们能更好地与官方技术人员交流，保持服务的长期稳定性。ExpressVPN有大量中国用户，由于之前有不少的冒牌镜像站点，给品牌声誉造成影响，**ExpressVPN官方停止了中国的镜像域名访问，镜像域名仅供更新客户端使用**，可以使用其他梯子访问官网购买。
 
