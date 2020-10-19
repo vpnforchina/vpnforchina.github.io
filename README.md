@@ -203,7 +203,11 @@ PandaVPN的运营时间虽然不长，但也比较好用，连接速度快，提
 
 VyprVPN不再做推荐，稳定性已经不如以前，虽然勉强也能使用，但据一些网友反映，掉线问题没办法解决。**如果你在其他地方看到有人推荐VyprVPN，不要在入坑了。**
 
-### 2.佛跳墙VPN
+### 2.PureVPN
+
+之前有读者问我，PureVPN怎么样，在中国好用吗？PureVPN是一家很有名的厂商，也有不少人推荐，但我不管别人怎么说，就我的使用体验来说，如果是在国内翻墙使用，并不推荐，很多时候PureVPN连不上，无法连接，甚至有时候连上了什么网站都无法访问，如果是翻墙回国从墙外翻墙内可以考虑。同VyprVPN一样，被墙挡的快招架不住了。
+
+### 3.佛跳墙VPN
 
 这款虽然名字叫VPN，但我觉得底层还是基于SS的，DNS有泄漏，对隐私数据的保护不好，应该是小作坊开发。这款之前买了一年，收了280，用了几天就废了，关键是无法使用的问题，不推荐佛跳墙VPN，看到的避免入坑。
 
@@ -216,7 +220,7 @@ VyprVPN不再做推荐，稳定性已经不如以前，虽然勉强也能使用�
 
 [![StrongVPN](https://www.safewebcn.com/img/strong-logo.png)](#strongvpn--性价比最佳)
 
->2020年9月更新，确认可用，可用节点较多，有些节点网络速度还不错，有些节点网络速度一般，要自己测试。性价比最佳，有优惠码可使用。
+>2020年10月使用，确认可用，可用节点较多，有些节点网络速度还不错，有些节点网络速度一般，要自己测试。性价比最佳，有优惠码可使用。
 
 StrongVPN成立于2005年，属于NetProtect旗下的品牌，是一家美国的老牌VPN服务商，在35个国家的59个城市有950+的VPN服务器，拥有近60000个IP地址资源。
 
@@ -370,7 +374,7 @@ StrongVPN同样支持30天退款保证，有足够的时间测试使用。
 
 [![ExpressVPN](https://www.safewebcn.com/img/ExpressVPN-logo.png)](https://www.fastvpncn.com/expressvpn)
 
-`最近使用：2020年9月，确认可用。ExpressVPN国内的使用体验在我所测试的VPN产品中最好。`
+`最近使用：2020年10月使用，确认可用。ExpressVPN国内的使用体验在我所测试的VPN产品中最好。`
 
 应该说，这是中国目前最好用的VPN，我用了5年，虽然特殊时期也碰到问题，但一年中超过95%的时间里使用都很流畅。ExpressVPN已经为中国网民服务了12年。 这是目前唯一一个任何人想都不用想就可以买的VPN，速度相比其他VPN软件有优势，服务器针对中国大陆进行优化，网速快，顶级隐私保护技术，还有最重要的，客户端最好用，设备支持它最全。
 
@@ -501,7 +505,7 @@ ExpressVPN提供自购买日起`30天内无理由退款`，如果你发现它在
 
 [![NordVPN](https://www.safewebcn.com/img/nord-min.png)](#nordvpn)
 
->2020年9月使用，确认可用，但目前可用节点不多。建议连接美国、日本、欧洲地区的最新出来的节点，或联系客服获取备用节点进行配置。
+>2020年10月使用，确认可用，但目前可用节点不多。建议连接美国、日本、欧洲地区的最新出来的节点，或联系客服获取备用节点进行配置。
 
 **<a rel="nofollow noopener" href="https://vpncn.github.io/image/ExpressVPN%E5%92%8CNordVPN%E5%93%AA%E4%B8%AA%E5%A5%BD%E7%94%A8?.md" target="_blank">查看NordVPN最新节点速度测试报告</a>**
 
@@ -554,7 +558,7 @@ NordVPN在60个国家和地区拥有5700多个服务器，在看视频或者下�
 >注：在敏感时期，使用NordVPN最好能结合官网的教程进行OpenVPN手动配置，iOS设备上用手动ikev2，手动配置的节点比APP直连的稳定性高很多。另一个需要注意的地方是如果遇到连接或者下载问题随时联系在线客服，让售后给你备用服务器地址。
 
 
-## <a rel="nofollow noopener" href="https://linkv.org/panda/" target="_blank">Panda熊猫VPN</a>
+## <a rel="nofollow noopener" href="https://linkv.org/panda/" target="_blank">PandaVPN</a>
 
 [![Panda熊猫VPN](https://www.safewebcn.com/img/panda-min.png)](#panda熊猫vpn)
 
@@ -566,13 +570,15 @@ NordVPN在60个国家和地区拥有5700多个服务器，在看视频或者下�
 
 [![panda熊猫vpn](https://www.safewebcn.com/img/Snag_963aad-min.png)](#panda熊猫vpn)
 
-我买了2年套餐，在安卓手机上测试使用了一个小时，相对这个价格来说，感觉有几分惊喜，我随机测了香港和美国的几个节点，都是滑块滑倒上面的很快就连接成功了，然后我用了用Youtube，视频的速度也比较满意。
+### PandaVPN怎么样？
+
+我买了2年套餐，在安卓手机和Windows电脑上使用了一段时间，相对这个价格来说，体验中规中矩，我随机测了香港和美国的几个节点，少部分节点连不上，大部分节点都能连接成功，然后我上Youtube，视频的速度也还不错。使用的协议感觉像是socks5代理，应该不是传统的OpenVPN、IKEV2或L2TP的VPN协议，安全性不如这些传统的VPN协议。
 
 在中国使用熊猫VPN翻墙软件，WIndows系统：
 
 [![熊猫VPN客户端](https://www.safewebcn.com/img/在中国使用熊猫VPN翻墙软件-min.jpg)](#panda熊猫vpn)
 
-根据我个人的使用体验，PandaVPN在敏感时期的穿墙能力比较强，但这还不能说明它的技术更好，也可能是它比较新的缘故。 这个VPN底层很可能不是VPN技术，我的猜测，很可能是SSR类似的技术，因为连接建立连接的速度比较快，而且客户端里提供全局代理或分应用代理的区别，让人浮想联翩，我无法确定熊猫VPN到底是VPN还是SSR那样的代理类翻墙软件，所以暂时把它算作VPN推荐吧。
+根据我个人的使用体验，PandaVPN在一般时候穿墙能力还比较强，但这还不能说明它的技术好，也可能是它比较新的缘故，不知道用户量大了服务器还能不能抗。这个VPN底层很可能不是VPN技术，我的猜测，很可能是SSR类似的技术，因为连接建立连接的速度比较快，而且客户端里提供全局代理或分应用代理的区别，让人浮想联翩，我无法确定熊猫VPN到底是VPN还是SSR那样的代理类翻墙软件，所以暂时把它算作VPN推荐吧。
 
 [![熊猫VPN代理配置](https://www.safewebcn.com/img/熊猫VPN代理配置-min.jpg)](#panda熊猫vpn)
 
@@ -617,7 +623,7 @@ PandaVPN有分应用代理功能，制定哪些APP走VPN代理流量，哪些APP
 
 [![IVacy](https://www.safewebcn.com/img/ivacy-logo.png)](#ivacy)
 
->2020年7月测试，确认可用，但速度相对较慢，可连节点不多，现在比较鸡肋。
+>2020年9月测试，确认可用，但速度相对较慢，可连节点不多，现在比较鸡肋。
 
 ### 如何打开Ivacy官网？
 
