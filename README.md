@@ -297,10 +297,18 @@ StrongVPN成立于2005年，属于NetProtect旗下的品牌，是一家美国的
 [![Strong客户端下载](https://www.safewebcn.com/img/strongvpn-client-min.png)](#strongvpn如何使用)
 
 >**中国Windows用户建议<a rel="nofollow noopener" href="https://mirror2.reliablehosting.com/win/StrongVPN_Win-latest.exe" target="_blank">下载StrongVPN精简版V1 app</a>**，这是找官网技术客服推荐给我的，因为标准版的Windows APP首次使用账号登录困难，精简版的更适合在中国使用。安装精简版之前，最好把官网的标准版先装上，因为有读者反映Win10直接安装专用版出现问题，缺少组件，安装标准版之后解决。可以查看官网中有关程序安装所需组件的文章，<a rel="nofollow noopener" href="https://linkv.org/strongcn/" target="_blank">进入Strong官网</a>，点击右上角help，然后在搜素框搜索“.NET Framework”的文章。
-
-如果仍然存在登录问题，需要找客服询问原因，有时是因为电脑的DNS设置的问题。
+>
+>**重要提示：有部分用户反映购买StrongVPN后，在精简版V1 App中无法选择OpenVPN协议或是登陆出现问题**，我就这个问题咨询了客服，需要在网站的用户后台点击“Support Tickets”，然后点击“Submit new ticket”，提交开通legacy OpenVPN account，一般很快就会开通；或者在官网右下角联系在线技术客服"Technical Support"，说明开通OpenVPN account就行了。如果英文不熟悉，可以参考以下:
+>
+>“Hello,I live in China.I am using legacy V1 app but cannot login,the V2 app doesn't work for me.”
+>
+>“Could you help me open my access to legacy OpenVPN account?”
+>
+>如果仍然存在登录问题，需要找客服询问原因，有时是因为电脑的DNS设置的问题。
 
 另外，**和Windows系统一样，Mac和安卓用户也可以找客服获取精简版客户端V1 app**，在敏感时期连接成功率很高，官网的标准版客户端遇到防火长城升级可能会存在连接问题，要等几日版本更新。
+
+Mac精简版V1 app<a rel="nofollow noopener" href="https://mirror2.reliablehosting.com/mac/StrongVPN_mac-latest.zip" target="_blank">下载地址</a>（<a rel="nofollow noopener" href="https://www.safewebcn.com/download/Strong_mac-latest.zip" target="_blank">备用下载地址</a>）
 
 iPhone版本的VPN客户端APP绝大部分时候能正常使用，敏感时期可能会有封锁，需要去官网联系在线客服（或进入官网点击Help，然后点击“Email Support”发邮件）获取备用服务器地址，进行手动配置。等待几日更新后就可以正常使用客户端APP了。
 
