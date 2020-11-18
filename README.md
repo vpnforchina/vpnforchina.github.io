@@ -296,7 +296,7 @@ StrongVPN成立于2005年，属于NetProtect旗下的品牌，是一家美国的
 
 [![Strong客户端下载](https://www.safewebcn.com/img/strongvpn-client-min.png)](#strongvpn如何使用)
 
->**中国Windows用户建议<a rel="nofollow noopener" href="https://mirror2.reliablehosting.com/win/StrongVPN_Win-latest.exe" target="_blank">下载StrongVPN精简版V1 app</a>（<a rel="nofollow noopener" href="https://www.safewebcn.com/download/strongwin-1.65.exe target="_blank">备用下载地址</a>）**，这是找官网技术客服推荐给我的，因为标准版的Windows APP首次使用账号登录困难，精简版的更适合在中国使用。安装精简版之前，最好把官网的标准版先装上，因为有读者反映Win10直接安装专用版出现问题，缺少组件，安装标准版之后解决。可以查看官网中有关程序安装所需组件的文章，<a rel="nofollow noopener" href="https://linkv.org/strongcn/" target="_blank">进入Strong官网</a>，点击右上角help，然后在搜素框搜索“.NET Framework”的文章。
+>**中国Windows用户建议<a rel="nofollow noopener" href="https://mirror2.reliablehosting.com/win/StrongVPN_Win-latest.exe" target="_blank">下载StrongVPN精简版V1 app</a>（<a rel="nofollow noopener" href="https://www.safewebcn.com/download/strongwin-1.65.exe" target="_blank">备用下载地址</a>）**，这是找官网技术客服推荐给我的，因为标准版的Windows APP首次使用账号登录困难，精简版的更适合在中国使用。安装精简版之前，最好把官网的标准版先装上，因为有读者反映Win10直接安装专用版出现问题，缺少组件，安装标准版之后解决。可以查看官网中有关程序安装所需组件的文章，<a rel="nofollow noopener" href="https://linkv.org/strongcn/" target="_blank">进入Strong官网</a>，点击右上角help，然后在搜素框搜索“.NET Framework”的文章。
 >
 >**重要提示：有部分用户反映购买StrongVPN后，在精简版V1 App中无法选择OpenVPN协议或是登陆出现问题**，我就这个问题咨询了客服，需要在网站的用户后台点击“Support Tickets”，然后点击“Submit new ticket”，提交开通legacy OpenVPN account，一般很快就会开通；或者在官网右下角联系在线技术客服"Technical Support"，说明开通OpenVPN account就行了。如果英文不熟悉，可以参考以下:
 >
