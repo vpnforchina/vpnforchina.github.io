@@ -221,7 +221,7 @@ iVacy和PureVPN一样，是同一家，共用服务器，在国内表现也差�
 
 [![StrongVPN](https://www.safewebcn.com/img/strong-logo.png)](#strongvpn--性价比最佳)
 
->2020年11月使用，确认可用，可用节点较多，有些节点网络速度还不错，有些节点网络速度一般，要自己测试。性价比最佳，有优惠码可使用。国内Windows、Mac和Android设备用户建议去官网右下角在线聊天框，找客服要精简版本V1 app，在国内使用OpenVPN（TCP）协议连接成功率一直很高（在敏感时期相对官方标准版本App更加稳定），官方标准版本客户端在大封锁时期有时会出现连接问题，需要等待版本或线路更新才能恢复。
+>2020年12月使用，确认可用，可用节点较多，有些节点网络速度还不错，有些节点网络速度一般，要自己测试。性价比最佳，有优惠码可使用。国内Windows、Mac和Android设备用户建议去官网右下角在线聊天框，找客服要精简版本V1 app，在国内使用OpenVPN（TCP）协议连接成功率一直很高（在敏感时期相对官方标准版本App更加稳定），官方标准版本客户端在大封锁时期有时会出现连接问题，需要等待版本或线路更新才能恢复。
 
 StrongVPN成立于2005年，属于NetProtect旗下的品牌，是一家美国的老牌VPN服务商，在35个国家的59个城市有950+的VPN服务器，拥有近60000个IP地址资源。
 
@@ -389,7 +389,7 @@ StrongVPN同样支持30天退款保证，有足够的时间测试使用。
 
 [![ExpressVPN](https://www.safewebcn.com/img/ExpressVPN-logo.png)](https://www.fastvpncn.com/expressvpn)
 
-`最近使用：2020年11月使用，确认可用。ExpressVPN国内的使用体验在我所测试的VPN产品中最好。`
+`最近使用：2020年12月使用，确认可用。ExpressVPN国内的使用体验在我所测试的VPN产品中最好，尤其是iOS系统的使用体验相对其他VPN产品要好。`
 
 应该说，这是中国目前最好用的VPN，我用了5年，虽然特殊时期也碰到问题，但一年中超过95%的时间里使用都很流畅。ExpressVPN已经为中国网民服务了12年。 这是目前唯一一个任何人想都不用想就可以买的VPN，速度相比其他VPN软件有优势，服务器针对中国大陆进行优化，网速快，顶级隐私保护技术，还有最重要的，客户端最好用，设备支持它最全。
 
@@ -520,7 +520,7 @@ ExpressVPN提供自购买日起`30天内无理由退款`，如果你发现它在
 
 [![NordVPN](https://www.safewebcn.com/img/nord-min.png)](#nordvpn)
 
->2020年10月使用，确认可用，但目前可用节点不多。建议连接美国、日本、欧洲地区的最新出来的节点，或联系客服获取备用节点进行OpenVPN手动配置。
+>2020年11月使用，确认可用，但目前可用节点不多。建议连接美国、日本、欧洲地区的最新出来的节点，或联系客服获取备用节点进行OpenVPN手动配置。
 
 **<a rel="nofollow noopener" href="https://vpncn.github.io/image/ExpressVPN%E5%92%8CNordVPN%E5%93%AA%E4%B8%AA%E5%A5%BD%E7%94%A8?.md" target="_blank">查看NordVPN最新节点速度测试报告</a>**
 
