@@ -8,7 +8,7 @@
 
 - 如果你是技术小白或者不想那么麻烦，**使用VPN安全翻墙是第一选择**，依然是最适合国人的主流安全科学上网工具，同样也是我长期关注和使用的。
 
-**如果你不想听我啰嗦，我建议直接选择下列2款，不过在购买之前，一定要把下文中与该款VPN服务对应的具体使用细节看完，因为GFW的不断更新，而且涉及到线路或协议选择，否则可能会在日后的使用中遇到麻烦。建议下载：<a rel="nofollow noopener" href="https://www.safewebcn.com/download/vpn选择指南.pdf" target="_blank">2020版VPN选择指南PDF版本</a>(右键另存)，有一些VPN使用技巧和注意事项，以便随时查阅，备不时之需。**
+**如果你不想听我啰嗦，我建议直接选择下列2款，不过在购买之前，建议把下文中与该款VPN服务对应的具体使用细节看完，因为GFW的不断更新，而且涉及到线路或协议选择，否则可能会在日后的使用中遇到麻烦。建议下载：<a rel="nofollow noopener" href="https://www.safewebcn.com/download/vpn选择指南.pdf" target="_blank">2020版VPN选择指南PDF版本</a>(右键另存)，有一些VPN使用技巧和注意事项，以便随时查阅，备不时之需。**
 
 > - <a rel="nofollow noopener" href="https://linkv.org/express/" target="_blank">ExpressVPN（活动直达）</a>我自己也常年使用，体验是最好的，它已经运营了12年（至2020年），设备支持最全面，国内外口碑都很好，是我个人最喜欢的VPN软件，国内有大量活跃用户，你可能不是第一次听到它，几乎所有国内外VPN推荐网站它都排在最靠前的位置。这里还有个**ExpressVPN使用小提示**，万一在敏感时期VPN服务器暂时被墙之后，改变客户端默认的连接协议（一般是`Automatic`），**改为`L2TP-IPSec`协议**然后尝试连接，你会发现其实还有些节点可以正常连接使用。
 >
@@ -153,6 +153,7 @@ StrongVPN、PandaVPN、NordVPN都是下载安装客户端后，输入注册时�
 由于中国区`APP Store`的VPN软件全部下架，只能用国外的Apple ID。获得国外的Apple ID有两种办法：
 
 #### 1.联系在线客服获取
+
 打开官网，一般在右下角能找到在线聊天框，在注册后打开聊天框，找客服索取Apple ID，一般都会提供。由于语言不同，在线聊天一般用英文，**英语不行的找谷歌翻译或百度翻译**，也可以直接复制下面的句子（把XX换成具体品牌）：
 
 Hi,I live in China,and I can't download *XX* VPN on my iPhone because it was not existed in App Store.Can you offer me an Apple ID so I can download and install ?
