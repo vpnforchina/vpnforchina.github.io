@@ -10,12 +10,9 @@
 
 **如果你不想听我啰嗦，我建议直接选择下列2款，不过在购买之前，建议把下文中与该款VPN服务对应的具体使用细节看完，因为GFW的不断更新，而且涉及到线路或协议选择，否则可能会在日后的使用中遇到麻烦。建议下载：<a rel="nofollow noopener" href="https://www.safewebcn.com/download/vpn选择指南.pdf" target="_blank">2020版VPN选择指南PDF版本</a>(右键另存)，有一些VPN使用技巧和注意事项，以便随时查阅，备不时之需。**
 
-> - <a rel="nofollow noopener" href="https://linkv.org/express/" target="_blank">ExpressVPN（活动直达）</a>我自己也常年使用，体验是最好的，它已经运营了12年（至2020年），设备支持最全面，国内外口碑都很好，是我个人最喜欢的VPN软件，国内有大量活跃用户，你可能不是第一次听到它，几乎所有国内外VPN推荐网站它都排在最靠前的位置。这里还有个**ExpressVPN使用小提示**，万一在敏感时期VPN服务器暂时被墙之后，改变客户端默认的连接协议（一般是`Automatic`），**改为`L2TP-IPSec`协议**然后尝试连接，你会发现其实还有些节点可以正常连接使用。
->
-> - [StrongVPN](#strongvpn--性价比最佳)，这款VPN我已经使用了2年左右，性价比不错。总体来讲，在过去大概2年的使用时间里，全年可用率能达到95%左右，服务器经常会更新，每次登陆客户端都会自动检测服务器更新。**在国内的Windows、Mac和Android手机用户可以去官网右下角的在线聊天框“Zendesk chat”联系技术客服获取StrongVPN精简版本客户端V1 app，使用OpenVPN协议进行连接，在敏感时期IP大封锁的时候连接更为顺畅，而通用标准版本客户端需要等几天更新之后才能恢复**，遗憾的是Strong官网在中国被墙，有梯子的同学可以用梯子访问，，如果用梯子不能下单，可能防欺诈系统检测到使用代理IP（可以购买不用管），需使用本地网络访问。[国内打开StrongVPN官网](#如何打开strongvpn官网)需要改电脑Host文件，因为官网DNS在天朝被定位到不能访问的IP，需要修改本地的DNS才能访问。
->
->
->StrongVPN在中国的用户以老外居多，他们能更好地与官方技术人员交流，保持服务的长期稳定性。ExpressVPN有大量中国用户，由于之前有不少的冒牌镜像站点，给品牌声誉造成影响，**ExpressVPN官方停止了中国的镜像域名访问，镜像域名仅供更新客户端使用**，可以使用其他梯子访问官网购买。
+> - <a rel="nofollow noopener" href="https://linkv.org/express/" target="_blank">ExpressVPN（活动直达）</a>我自己也常年使用，体验是最好的，iOS用户首选。它已经运营了12年（至2020年），设备支持最全面，国内外口碑都很好，是我个人最喜欢的VPN软件，国内有大量活跃用户，你可能不是第一次听到它，几乎所有国内外VPN推荐网站它都排在最靠前的位置。这里还有个**ExpressVPN使用小提示**，万一在敏感时期VPN服务器暂时被墙之后，改变客户端默认的连接协议（一般是`Automatic`），**改为`L2TP-IPSec`协议**然后尝试连接，你会发现其实还有些节点可以正常连接使用。
+>ExpressVPN有大量中国用户，由于之前有不少的冒牌镜像站点，给品牌声誉造成影响，**ExpressVPN官方停止了中国的镜像域名访问，镜像域名仅供更新客户端使用**，可以使用其他梯子访问官网购买。
+
 
 - 如果你有一定的技术基础，打算用**便宜VPS服务器自己搭建机场**（小白不推荐）。第一，你要确保能应对使用VPS时可能遇到的问题，比如无法连接、IP被封等问题；然后，<a rel="nofollow noopener" href="https://linkv.org/bandwagon/" target="_blank">搬瓦工BandWagon</a>、Vultr和DO等几个国人用滥了的机房尽量避免，因为IP被墙的太严重，已经没有多少可用的了，很可能新开的VPS的IP就是不能用的。**目前<a rel="nofollow noopener" href="https://linkv.org/hostwinds/" target="_blank">HostWinds</a>是个替代的选择**，目前没有很多国人扎堆，IP大多相对比较新，建议选择Seattle机房，在美国西海岸，国内连接服务器网络速度快。相对便宜且流量大，可月付、可支付宝，每月$4.49起步，1核1GB内存30GB磁盘，1Gbps带宽，每月1TB流量，用来搭梯子和建站都比较理想，并可以免费换IP，换IP的方法：进入VPS管理后台，看到服务器选项，点击Manage IP’s，然后点击Fix ISP Block按钮，最后点击确认Confirm。
 
