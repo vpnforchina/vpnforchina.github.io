@@ -35,8 +35,8 @@
 >### 6. [不要在这些VPN上浪费时间](#不要在这些vpn上浪费时间)
 >### 7.[怎么下载和登录VPN客户端?](#怎么下载和登录vpn客户端)
 >### 8. [适合在中国使用的VPN推荐](#适合在中国使用的vpn推荐)
->>#### 8.1 [StrongVPN-性价比最佳](#strongvpn--性价比最佳)
->>#### 8.2 [ExpressVPN](#expressvpn)
+>>#### 8.1 [ExpressVPN-使用体验最佳](#expressvpn)
+>>#### 8.2 [StrongVPN](#strongvpn--性价比最佳)
 >>#### 8.3 [NordVPN](#nordvpn)
 >>#### 8.4 [PandaVPN](#panda熊猫vpn)
 >>#### 8.5 [IVacy](#ivacy)
@@ -167,7 +167,7 @@ Hi,I live in China,and I can't download *XX* VPN on my iPhone because it was not
 
 项目 | 1.StrongVPN | 2.ExpressVPN | 3.NordVPN | 4.PandaVPN 
 ------------ | ------------- | ------------- | ------------- | ------------ 
-综合评分（10分制） | 9.2  | 9.5 | 8.8 | 8.5 
+综合评分（10分制） | 8.5  | 9.5 | 8.8 | 8.5 
 价格 | 一般 | 较高 | 一般 | 一般 
 运营时间 | 长  | 长 | 长 | 短 
 全年可用率（估计） | 95% | 97% | 90% | 90% 
@@ -189,9 +189,9 @@ APP快速下载 | 可以 | 可以  | 可以 | 可以
 
 <a rel="nofollow noopener" href="https://www.fastvpncn.com/expressvpn" target="_blank">ExpressVPN</a>，我自己也常年使用，在国内使用体验最好，它已经运营了12年（至2020年），设备支持最全面，国内外口碑都很好。国内有大量活跃用户，你可能不是第一次听到它，几乎所有国内外VPN推荐网站它都排在最靠前的位置。这里还有个**ExpressVPN使用小提示**，万一在敏感时期VPN服务器暂时被墙之后，改变客户端默认的连接协议（一般是`Automatic`），**改为`L2TP-IPSec`协议**然后尝试连接，你会发现其实还有些节点可以正常连接使用。不足之处是ExpressVPN官方停止了中国的镜像域名访问购买（镜像域名仅供更新客户端使用），可以使用其他梯子访问官网。适合要求速度的同学，iPhone和iOS VPN使用推荐使用ExpressVPN。
 
-[StrongVPN](#strongvpn--性价比最佳)我已经使用了2年左右，性价比不错。总体来讲，在过去1年的使用时间里，全年可用率能达到95%左右，服务器经常会更新，每次登陆客户端都会自动检测服务器更新。**在国内的Windows、Mac和安卓手机用户可以联系客服获取StrongVPN精简版本V1 app，墙升级的时候相对通用版本在国内连接更为顺畅**，遗憾的是Strong官网在中国被墙，有梯子的同学可以用梯子访问（如果不能下单需使用本地网络打开官网），国内本地网络打开StrongVPN官网需要改电脑Host文件，因为官网DNS在天朝被定位到不能访问的IP，需要修改本地的DNS才能访问。
+[StrongVPN](#strongvpn--性价比最佳)我已经使用了2年左右，性价比不错，但Windows、Mac电脑端和安卓手机端最好使用精简版客户端（这个专门适合中国使用，通用版客户端的节点容易被封），需要找客服要，发个Ticket或者找在线客服都行，开通很快。总体来讲，在过去1年的使用时间里，全年可用率能达到95%左右，服务器经常会更新，每次登陆客户端都会自动检测服务器更新。**在国内的Windows、Mac和安卓手机用户可以联系客服获取StrongVPN精简版本V1 app，墙升级的时候相对通用版本在国内连接更为顺畅**，遗憾的是Strong官网在中国被墙，有梯子的同学可以用梯子访问（如果不能下单需使用本地网络打开官网），国内本地网络打开StrongVPN官网需要改电脑Host文件，因为官网DNS在天朝被定位到不能访问的IP，需要修改本地的DNS才能访问。
 
-NordVPN,目前客户端直连翻墙**建议连接新出的服务器**，服务器越新连通率越高，速度也快，建议连接日本、新加坡、英国、加拿大这些地区新出的服务器。敏感时期遇到封锁，联系客服获取备用服务器地址，使用OpenVPN手动配置，很简单，官网有教程，它的速度和稳定性会更高，敏感时期**配合用OpenVPN或IKEV2进行手动配置**可以保证全年95%左右的可用率，备用服务器的信息要找官网的在线客服获取。
+NordVPN,目前客户端直连翻墙**建议连接新出的服务器**，服务器越新连通率越高，速度也快，建议连接日本、新加坡、英国、加拿大这些地区新出的服务器。敏感时期遇到封锁，联系客服获取备用服务器地址，使用OpenVPN手动配置，很简单，官网有教程，它的速度和稳定性会更高，敏感时期**配合用OpenVPN或IKEV2进行手动配置**可以保证全年90%左右的可用率，备用服务器的信息要找官网的在线客服获取。
 
 PandaVPN的运营时间虽然不长，但也比较好用，连接速度快，提供香港/美国/台湾/日韩等多国节点，它甚至有中国大陆节点可以翻墙回国，虽然设备支持远没有ExpressVPN全，不支持Linux/路由器等其它不常用设备，隐私保护政策略显模糊，但拿来日常使用是个不错的翻墙软件。但有读者说速度慢，因此只建议先买一个月试用。
 
@@ -216,6 +216,138 @@ iVacy和PureVPN一样，是同一家，共用服务器，在国内表现也差�
 其他国产的私人或者小型VPN避免使用，这些大部分都是名字包含VPN，只有翻墙的功能，并无安全性可言。其中不少涉嫌钓鱼，用户使用的时候被ISP发现并上报的，已经有记录的就有极光加速器、QuickQ、佛跳墙加速器、老王VPN、IP精灵、旋风加速器、坚果加速器、蚂蚁加速器、快连VPN、神风加速器等。
 
 ## 适合在中国使用的VPN推荐
+
+## <a rel="nofollow noopener" href="https://www.fastvpncn.com/expressvpn" target="_blank">ExpressVPN</a>
+
+[![ExpressVPN](https://www.safewebcn.com/img/ExpressVPN-logo.png)](https://www.fastvpncn.com/expressvpn)
+
+`最近使用：2020年12月使用，确认可用。ExpressVPN国内的使用体验在我所测试的VPN产品中最好，尤其是iOS系统的使用体验相对其他VPN产品要好。`
+
+应该说，这是中国目前最好用的VPN，我用了5年，虽然特殊时期也碰到问题，但一年中超过95%的时间里使用都很流畅。ExpressVPN已经为中国网民服务了12年。 这是目前唯一一个任何人想都不用想就可以买的VPN，速度相比其他VPN软件有优势，服务器针对中国大陆进行优化，网速快，顶级隐私保护技术，还有最重要的，客户端最好用，设备支持它最全。
+
+在我用的几年时间里，每年不能用的时间总共加起来大致在1-2个星期左右（即所谓“敏感时期”），会有几天时间出现频繁短线或者网速变得非常慢。根据我的使用体验估计ExpressVPN全年正常可用率在95%左右。在中国大陆使用ExpressVPN，建议选择连接官方推荐的VPN服务器线路，这些服务器线路是ExpressVPN官方针对中国地区做过的混淆服务器优化，推荐中国用户使用：
+
+    Japan–Yokohama
+    Hong Kong–4
+    Singapore–Marina Bay
+    Hong Kong–5
+    USA–Los Angeles–4
+    USA–Los Angeles–5
+    USA–Santa Monica
+    Canada - Toronto - 2
+    Germany - Nuremberg
+
+除了上面那些优化过的服务器线路，**中国用户也可以改为`L2TP – IPsec`协议使用其它的服务器线路**，在敏感时期网络封锁升级，你会发现，虽然官方的推荐节点连不上了，这些`L2TP – IPsec`协议的一些节点还是可以用的，但是其他那些服务器没有经过混淆算法优化，速度可能会不如官方推荐的服务器线路，可以作为敏感时期的备用节点。
+
+#### 为什么ExpressVPN是最好用的中国VPN翻墙软件？
+
+~~因为他重视中国市场。世界上的VPN软件成千上万，愿意为中国用户提供镜像站的一只手数得过来，ExpressVPN的镜像站，对中国用户始终保持着可访问。~~
+
+>由于之前涌现出很多冒牌镜像网站，损害了ExpressVPN的品牌价值，ExpressVPN官方已经不再针对中国大陆使用镜像域名，镜像域名仅供更新客户端使用，目前中国大陆的访客可以使用其他梯子进入ExpressVPN官网进行购买。
+
+客户端友好的VPN不少，但提供无需Google Play商店和苹果美国商店即可安装客户端的VPN厂商，恐怕ExpressVPN是仅有的几家之一。
+
+真正全终端覆盖，支持电脑（Windows，MacOS，Linux），手机（安卓，iOS：iPhone/iPad），路由器，游戏主机（PS2，XBox）等，安卓手机无需Google Play也可安装，iOS设备无需访问苹果商店也可安装，可以支持5台设备同时使用，单独配置哪些应用走VPN哪些不走（Split Tunneling），30天无理由退款，支持支付宝付款，支持P2P下载，不限流量。**最多支持5台设备同时在线使用。**
+
+ExpressVPN已通过普华永道隐私保护机制审计 —— 意思是说不像很多口是心非的不良厂商，ExpressVPN的无日志政策是实打实的无日志。
+
+- 无硬盘服务器
+
+ExpressVPN是目前唯一提供无硬盘服务器的VPN厂商，数据临时储存在闪存中，数据传输速度比硬盘快很多，大量用户连同一台服务器压力也不大。技术上，这种服务器无法保留任何上网痕迹，重启或断掉所有信息都会被抹得一干二净。
+
+- 智能连接
+
+首先是自动检测最快的服务器，你不需要自己一个个去试，大多数情况下软件检测到的（Smart Location）就是当时最佳节点（不绝对，我连美国Los Angeles-5的速度比Smart Location的HongKong-4更快）。其次，断线自动重连，虽然只是个小功能但真的很有用，而且每次重连时它会自动切断网络（Kill Switch），防止某些应用程序流量无意间泄露。
+
+同时访问内外网，开VPN最让人烦恼的问题是打开国内网站会变慢，有些甚至会打不开。拆分隧道技术（Split Tunneling）让你配置哪些应用程序走VPN加密通道，哪些走本地网络流量，比如可以设置只允许Chrome走VPN流量，而本地的QQ、火狐浏览器等应用程序走本地流量，这样即可以翻墙，又能快速打开国内网站。
+
+**我的手机的分流设置，如下图：**
+
+[![ExpressVPN-split-tunneling](https://www.safewebcn.com/img/expressvpn-split-tunneling-Android.png)](#为什么expressvpn是最好用的中国vpn翻墙软件)
+
+- DNS泄露保护
+
+ExpressVPN在每台服务器上运行自己的私有加密DNS服务器，一旦连上，所有上网的DNS请求都会通过这些私有的域名服务器，不走任何公网服务器，你的上网隐私得到进一步保护。
+
+### ExpressVPN速度测试
+
+我在使用的时候顺便做了一下速度测试，不多说，上图，这几个节点速度都不错：
+
+Los Angeles-5节点测速：
+
+[![expressvpn速度测试](https://www.safewebcn.com/img/ExpressVPN-speedtest-LA5-min.png)](#expressvpn速度测试)
+
+Sigapore-Marina Bay节点测速：
+
+[![expressvpn速度测试](https://www.safewebcn.com/img/expressvpn-sigapore-min.png)](#expressvpn速度测试)
+
+Los Angeles-4节点测速：
+
+[![expressvpn速度测试](https://www.safewebcn.com/img/express-vpn-la4-2020-01-19.png)](#expressvpn速度测试)
+
+大家可以多测试几个节点，选择在你的网络中最快的作为常用节点。
+
+### 如何获取ExpressVPN？
+
+获得ExpressVPN非常简单，买就行了。但有点要注意，为了杜绝冒牌网站，ExpressVPN官方停止了中国大陆地区的镜像网站，可以使用其他免费或付费梯子访问ExpressVPN官网购买。
+
+**第一步：打开<a rel="nofollow noopener" href="https://www.fastvpncn.com/expressvpn" target="_blank">ExpressVPN官网</a>。**
+
+打开官网后点击“Get ExpressVPN”按钮，进入套餐信息页面。
+
+[![expressvpn镜像站](https://www.safewebcn.com/img/打开expressvpn官网-min.png)](https://www.fastvpncn.com/expressvpn)
+
+**第二步：购买ExpressVPN，获得帐号**
+
+[![购买expressvpn](https://www.safewebcn.com/img/expressvpn-优惠套餐-min.png)](https://www.fastvpncn.com/expressvpn)
+
+购买ExpressVPN， 支持支付宝、Paypal和银联、Visa信用卡付款，**无论你买什么套餐，30天内都可以无条件退款**。**首次购买一年送3个月**，是厂商限时推的活动，如果不放心，可以先买一个月（$12.95）用用看，好用后再续费，不过这时候应该就没有送3个月了，除非再通过上面的链接进入注册新帐号，当然换浏览器或清cookie啥的是基本的，不用多说吧。
+
+**第三步：登录帐号，下载安装客户端**
+
+[![下载安装expressvpn客户端](https://www.safewebcn.com/img/下载安装expressvpn客户端-min.jpg)](#如何获取expressvpn)
+
+ExpressVPN支持的设备：Windows，Mac，iPhone/iPad/iPod，Android，Google Chrome，Chromebook，Mozilla Firefox，Router，Linux，Fire TV & Kindle Fire，Apple TV，XBox，PlayStagion，MediaStreamer 以及手动配置 —— 这是市场上设备支持最全面的VPN，官方给每种设备都提供了清晰的安装指导。
+
+[![Expressvpn客户端](https://www.safewebcn.com/img/express-vpn-devices.png)](#如何获取expressvpn)
+
+>你不需要到App Store或Play Store下载苹果或安卓手机客户端，官方提供了直接执行的安装包和配置文件。
+
+<a rel="nofollow noopener" href="https://www.fastvpncn.com/expressvpn" target="_blank">打开官网</a>，在你的iPhone/iPad上用Safari浏览器登录账号，然后打开My Account => Set up ExpressVPN => 选择 iPhone, iPad & iPod 点击进入后，页面会提示下载VPN配置文件（文件名如：expressvpn_ios.mobileconfig），Safari浏览器能识别该文件，提示安装，点击安装即可自动完成手机VPN配置，然后到 Settings -> VPN 里发起连接，输入你的ExpressVPN用户名和密码就能用了。
+
+**注意**：看清楚安装过程中是要填激活码还是用户名密码，两者不同，激活码可在购买ExpressVPN后登录ExpressVPN帐号获得。
+
+2020更新：这个方法有用户反应过完成后无法使用，若出现这种情况，请联系客服获取App Store的美国区id。
+
+**第四步：开始使用**
+
+[![Expressvpn客户端](https://www.safewebcn.com/img/express-vpn-servers.png)](#如何获取expressvpn)
+
+香港、日本、美西LA节点是我最常连的服务器，速度很不错。在中国大陆使用ExpressVPN，建议选择连接官方推荐的VPN服务器线路，这些服务器线路是ExpressVPN官方针对中国地区做过的混淆服务器优化，推荐中国用户使用：
+
+- Hong Kong–4
+- Singapore–Marina Bay
+- USA–Los Angeles–5
+- Japan–Yokohama
+- Canada - Toronto - 2
+- Germany - Nuremberg
+- USA–Los Angeles–4
+- USA–Santa Monica/HollyWood（不是官方推荐经常也能连接）
+
+在“敏感时期”如果出现连不上的情况，也可以改为“L2TP – IPsec”协议使用其它的服务器线路，但是其他那些服务器没有经过混淆算法优化，速度可能会不如官方推荐的服务器线路，可以作为敏感时期的备用节点。
+
+### <center><a rel="nofollow noopener" href="https://www.fastvpncn.com/expressvpn" target="_blank">>> 获取ExpressVPN优惠 <<</a></center>
+
+**万一ExpressVPN不适你的网络如何退款？**
+
+ExpressVPN提供自购买日起`30天内无理由退款`，如果你发现它在你的设备和网络环境下用不了，你可以有两种方式联系它们退款。
+
+1. <a rel="nofollow noopener" href="https://www.fastvpncn.com/expressvpn" target="_blank">打开ExpressVPN官网</a>，或者点击客户端下方的文字进入镜像网站，等页面装载完毕后，你会看到右下方的“在线客服”入口，点进去就能联系到客服，他们7天24小时都有人。
+
+2. 写邮件给 support@expressvpn.com，他们一般会在一个工作日内回复。
+
+最好使用英语，英语不好的朋友借助谷歌翻译或者百度翻译。
+
 
 ## [StrongVPN – 性价比最佳](#如何打开strongvpn官网)
 
@@ -384,137 +516,6 @@ StrongVPN虽然客户端不支持中文，但是对在在中国的用户反应�
 
 StrongVPN同样支持30天退款保证，有足够的时间测试使用。
 
-
-## <a rel="nofollow noopener" href="https://www.fastvpncn.com/expressvpn" target="_blank">ExpressVPN</a>
-
-[![ExpressVPN](https://www.safewebcn.com/img/ExpressVPN-logo.png)](https://www.fastvpncn.com/expressvpn)
-
-`最近使用：2020年12月使用，确认可用。ExpressVPN国内的使用体验在我所测试的VPN产品中最好，尤其是iOS系统的使用体验相对其他VPN产品要好。`
-
-应该说，这是中国目前最好用的VPN，我用了5年，虽然特殊时期也碰到问题，但一年中超过95%的时间里使用都很流畅。ExpressVPN已经为中国网民服务了12年。 这是目前唯一一个任何人想都不用想就可以买的VPN，速度相比其他VPN软件有优势，服务器针对中国大陆进行优化，网速快，顶级隐私保护技术，还有最重要的，客户端最好用，设备支持它最全。
-
-在我用的几年时间里，每年不能用的时间总共加起来大致在1-2个星期左右（即所谓“敏感时期”），会有几天时间出现频繁短线或者网速变得非常慢。根据我的使用体验估计ExpressVPN全年正常可用率在95%左右。在中国大陆使用ExpressVPN，建议选择连接官方推荐的VPN服务器线路，这些服务器线路是ExpressVPN官方针对中国地区做过的混淆服务器优化，推荐中国用户使用：
-
-    Japan–Yokohama
-    Hong Kong–4
-    Singapore–Marina Bay
-    Hong Kong–5
-    USA–Los Angeles–4
-    USA–Los Angeles–5
-    USA–Santa Monica
-    Canada - Toronto - 2
-    Germany - Nuremberg
-
-除了上面那些优化过的服务器线路，**中国用户也可以改为`L2TP – IPsec`协议使用其它的服务器线路**，在敏感时期网络封锁升级，你会发现，虽然官方的推荐节点连不上了，这些`L2TP – IPsec`协议的一些节点还是可以用的，但是其他那些服务器没有经过混淆算法优化，速度可能会不如官方推荐的服务器线路，可以作为敏感时期的备用节点。
-
-#### 为什么ExpressVPN是最好用的中国VPN翻墙软件？
-
-~~因为他重视中国市场。世界上的VPN软件成千上万，愿意为中国用户提供镜像站的一只手数得过来，ExpressVPN的镜像站，对中国用户始终保持着可访问。~~
-
->由于之前涌现出很多冒牌镜像网站，损害了ExpressVPN的品牌价值，ExpressVPN官方已经不再针对中国大陆使用镜像域名，镜像域名仅供更新客户端使用，目前中国大陆的访客可以使用其他梯子进入ExpressVPN官网进行购买。
-
-客户端友好的VPN不少，但提供无需Google Play商店和苹果美国商店即可安装客户端的VPN厂商，恐怕ExpressVPN是仅有的几家之一。
-
-真正全终端覆盖，支持电脑（Windows，MacOS，Linux），手机（安卓，iOS：iPhone/iPad），路由器，游戏主机（PS2，XBox）等，安卓手机无需Google Play也可安装，iOS设备无需访问苹果商店也可安装，可以支持5台设备同时使用，单独配置哪些应用走VPN哪些不走（Split Tunneling），30天无理由退款，支持支付宝付款，支持P2P下载，不限流量。**最多支持5台设备同时在线使用。**
-
-ExpressVPN已通过普华永道隐私保护机制审计 —— 意思是说不像很多口是心非的不良厂商，ExpressVPN的无日志政策是实打实的无日志。
-
-- 无硬盘服务器
-
-ExpressVPN是目前唯一提供无硬盘服务器的VPN厂商，数据临时储存在闪存中，数据传输速度比硬盘快很多，大量用户连同一台服务器压力也不大。技术上，这种服务器无法保留任何上网痕迹，重启或断掉所有信息都会被抹得一干二净。
-
-- 智能连接
-
-首先是自动检测最快的服务器，你不需要自己一个个去试，大多数情况下软件检测到的（Smart Location）就是当时最佳节点（不绝对，我连美国Los Angeles-5的速度比Smart Location的HongKong-4更快）。其次，断线自动重连，虽然只是个小功能但真的很有用，而且每次重连时它会自动切断网络（Kill Switch），防止某些应用程序流量无意间泄露。
-
-同时访问内外网，开VPN最让人烦恼的问题是打开国内网站会变慢，有些甚至会打不开。拆分隧道技术（Split Tunneling）让你配置哪些应用程序走VPN加密通道，哪些走本地网络流量，比如可以设置只允许Chrome走VPN流量，而本地的QQ、火狐浏览器等应用程序走本地流量，这样即可以翻墙，又能快速打开国内网站。
-
-**我的手机的分流设置，如下图：**
-
-[![ExpressVPN-split-tunneling](https://www.safewebcn.com/img/expressvpn-split-tunneling-Android.png)](#为什么expressvpn是最好用的中国vpn翻墙软件)
-
-- DNS泄露保护
-
-ExpressVPN在每台服务器上运行自己的私有加密DNS服务器，一旦连上，所有上网的DNS请求都会通过这些私有的域名服务器，不走任何公网服务器，你的上网隐私得到进一步保护。
-
-### ExpressVPN速度测试
-
-我在使用的时候顺便做了一下速度测试，不多说，上图，这几个节点速度都不错：
-
-Los Angeles-5节点测速：
-
-[![expressvpn速度测试](https://www.safewebcn.com/img/ExpressVPN-speedtest-LA5-min.png)](#expressvpn速度测试)
-
-Sigapore-Marina Bay节点测速：
-
-[![expressvpn速度测试](https://www.safewebcn.com/img/expressvpn-sigapore-min.png)](#expressvpn速度测试)
-
-Los Angeles-4节点测速：
-
-[![expressvpn速度测试](https://www.safewebcn.com/img/express-vpn-la4-2020-01-19.png)](#expressvpn速度测试)
-
-大家可以多测试几个节点，选择在你的网络中最快的作为常用节点。
-
-### 如何获取ExpressVPN？
-
-获得ExpressVPN非常简单，买就行了。但有点要注意，为了杜绝冒牌网站，ExpressVPN官方停止了中国大陆地区的镜像网站，可以使用其他免费或付费梯子访问ExpressVPN官网购买。
-
-**第一步：打开<a rel="nofollow noopener" href="https://www.fastvpncn.com/expressvpn" target="_blank">ExpressVPN官网</a>。**
-
-打开官网后点击“Get ExpressVPN”按钮，进入套餐信息页面。
-
-[![expressvpn镜像站](https://www.safewebcn.com/img/打开expressvpn官网-min.png)](https://www.fastvpncn.com/expressvpn)
-
-**第二步：购买ExpressVPN，获得帐号**
-
-[![购买expressvpn](https://www.safewebcn.com/img/expressvpn-优惠套餐-min.png)](https://www.fastvpncn.com/expressvpn)
-
-购买ExpressVPN， 支持支付宝、Paypal和银联、Visa信用卡付款，**无论你买什么套餐，30天内都可以无条件退款**。**首次购买一年送3个月**，是厂商限时推的活动，如果不放心，可以先买一个月（$12.95）用用看，好用后再续费，不过这时候应该就没有送3个月了，除非再通过上面的链接进入注册新帐号，当然换浏览器或清cookie啥的是基本的，不用多说吧。
-
-**第三步：登录帐号，下载安装客户端**
-
-[![下载安装expressvpn客户端](https://www.safewebcn.com/img/下载安装expressvpn客户端-min.jpg)](#如何获取expressvpn)
-
-ExpressVPN支持的设备：Windows，Mac，iPhone/iPad/iPod，Android，Google Chrome，Chromebook，Mozilla Firefox，Router，Linux，Fire TV & Kindle Fire，Apple TV，XBox，PlayStagion，MediaStreamer 以及手动配置 —— 这是市场上设备支持最全面的VPN，官方给每种设备都提供了清晰的安装指导。
-
-[![Expressvpn客户端](https://www.safewebcn.com/img/express-vpn-devices.png)](#如何获取expressvpn)
-
->你不需要到App Store或Play Store下载苹果或安卓手机客户端，官方提供了直接执行的安装包和配置文件。
-
-<a rel="nofollow noopener" href="https://www.fastvpncn.com/expressvpn" target="_blank">打开官网</a>，在你的iPhone/iPad上用Safari浏览器登录账号，然后打开My Account => Set up ExpressVPN => 选择 iPhone, iPad & iPod 点击进入后，页面会提示下载VPN配置文件（文件名如：expressvpn_ios.mobileconfig），Safari浏览器能识别该文件，提示安装，点击安装即可自动完成手机VPN配置，然后到 Settings -> VPN 里发起连接，输入你的ExpressVPN用户名和密码就能用了。
-
-**注意**：看清楚安装过程中是要填激活码还是用户名密码，两者不同，激活码可在购买ExpressVPN后登录ExpressVPN帐号获得。
-
-2020更新：这个方法有用户反应过完成后无法使用，若出现这种情况，请联系客服获取App Store的美国区id。
-
-**第四步：开始使用**
-
-[![Expressvpn客户端](https://www.safewebcn.com/img/express-vpn-servers.png)](#如何获取expressvpn)
-
-香港、日本、美西LA节点是我最常连的服务器，速度很不错。在中国大陆使用ExpressVPN，建议选择连接官方推荐的VPN服务器线路，这些服务器线路是ExpressVPN官方针对中国地区做过的混淆服务器优化，推荐中国用户使用：
-
-- Hong Kong–4
-- Singapore–Marina Bay
-- USA–Los Angeles–5
-- Japan–Yokohama
-- Canada - Toronto - 2
-- Germany - Nuremberg
-- USA–Los Angeles–4
-- USA–Santa Monica/HollyWood（不是官方推荐经常也能连接）
-
-在“敏感时期”如果出现连不上的情况，也可以改为“L2TP – IPsec”协议使用其它的服务器线路，但是其他那些服务器没有经过混淆算法优化，速度可能会不如官方推荐的服务器线路，可以作为敏感时期的备用节点。
-
-### <center><a rel="nofollow noopener" href="https://www.fastvpncn.com/expressvpn" target="_blank">>> 获取ExpressVPN优惠 <<</a></center>
-
-**万一ExpressVPN不适你的网络如何退款？**
-
-ExpressVPN提供自购买日起`30天内无理由退款`，如果你发现它在你的设备和网络环境下用不了，你可以有两种方式联系它们退款。
-
-1. <a rel="nofollow noopener" href="https://www.fastvpncn.com/expressvpn" target="_blank">打开ExpressVPN官网</a>，或者点击客户端下方的文字进入镜像网站，等页面装载完毕后，你会看到右下方的“在线客服”入口，点进去就能联系到客服，他们7天24小时都有人。
-
-2. 写邮件给 support@expressvpn.com，他们一般会在一个工作日内回复。
-
-最好使用英语，英语不好的朋友借助谷歌翻译或者百度翻译。
 
 ## <a rel="nofollow noopener" href="http://linkv.org/nord" target="_blank">NordVPN</a>
 
