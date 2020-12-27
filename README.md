@@ -35,7 +35,7 @@
 >### 6. [不要在这些VPN上浪费时间](#不要在这些vpn上浪费时间)
 >### 7.[怎么下载和登录VPN客户端?](#怎么下载和登录vpn客户端)
 >### 8. [适合在中国使用的VPN推荐](#适合在中国使用的vpn推荐)
->>#### 8.1 [ExpressVPN-使用体验最佳](#expressvpn)
+>>#### 8.1 [ExpressVPN-使用体验最佳](#expressvpn-使用体验最佳)
 >>#### 8.2 [StrongVPN](#strongvpn--性价比最佳)
 >>#### 8.3 [NordVPN](#nordvpn)
 >>#### 8.4 [PandaVPN](#panda熊猫vpn)
@@ -217,7 +217,7 @@ iVacy和PureVPN一样，是同一家，共用服务器，在国内表现也差�
 
 ## 适合在中国使用的VPN推荐
 
-## <a rel="nofollow noopener" href="https://www.fastvpncn.com/expressvpn" target="_blank">ExpressVPN</a>
+## <a rel="nofollow noopener" href="https://www.fastvpncn.com/expressvpn" target="_blank">ExpressVPN</a>-使用体验最佳
 
 [![ExpressVPN](https://www.safewebcn.com/img/ExpressVPN-logo.png)](https://www.fastvpncn.com/expressvpn)
 
@@ -465,7 +465,7 @@ StrongVPN客户端中国专用版（中国用户推荐）：
 
 [![Strong客户端精简版](https://www.safewebcn.com/img/strong-seoul-speedtest-min.png)](#strong速度测试)
 
-这是最近我使用StrongVPN时的测试结果，上面的速度测试截图可以看到，连接Tokyo的节点，ping值89ms，下载速度为10Mbps，上行速度为21.55Mbps；Seoul节点ping值67ms，下载速度为28.03Mbps，上行速度为22.09Mbps。浏览网页、看视频够用，但看清晰度为4K及以上的视频会有点吃力，这点不如[ExpressVPN](#expressvpn)。StrongVPN速度较快的节点选择可以查看：[线路选择提示](#strong线路选择提示)。
+这是最近我使用StrongVPN时的测试结果，上面的速度测试截图可以看到，连接Tokyo的节点，ping值89ms，下载速度为10Mbps，上行速度为21.55Mbps；Seoul节点ping值67ms，下载速度为28.03Mbps，上行速度为22.09Mbps。浏览网页、看视频够用，但看清晰度为4K及以上的视频会有点吃力，这点不如[ExpressVPN](#expressvpn-使用体验最佳)。StrongVPN速度较快的节点选择可以查看：[线路选择提示](#strong线路选择提示)。
 
 官方建议：Change your VPN connection protocol If changing server did not help you get connected, try changing your protocol. We recommend using OpenVPN via UDP or OpenVPN via TCP configuration for customers in China. If both fails, then try the aforementioned protocols with Scramble feature enabled.
 
