@@ -244,9 +244,9 @@ iVacy和PureVPN一样，是同一家，共用服务器，在国内表现也差�
 
 #### 为什么ExpressVPN是最好用的中国VPN翻墙软件？
 
-~~因为他重视中国市场。世界上的VPN软件成千上万，愿意为中国用户提供镜像站的一只手数得过来，ExpressVPN的镜像站，对中国用户始终保持着可访问。~~
+因为他重视中国市场。世界上的VPN软件成千上万，愿意为中国用户提供镜像站的一只手数得过来，ExpressVPN的镜像站，~~对中国用户始终保持着可访问~~。
 
->由于之前涌现出很多冒牌镜像网站，损害了ExpressVPN的品牌价值，ExpressVPN官方已经不再针对中国大陆使用镜像域名，镜像域名仅供更新客户端使用，目前中国大陆的访客可以使用其他梯子进入ExpressVPN官网进行购买。
+>由于之前涌现出很多冒牌镜像网站，损害了ExpressVPN的品牌价值，ExpressVPN官方已经不再针对中国大陆使用镜像域名，**国内可访问的镜像域名仅供更新客户端使用**，目前中国大陆的访客可以使用其他梯子进入<a rel="nofollow noopener" href="https://linkv.org/express/" target="_blank">ExpressVPN官网</a>进行购买。
 
 客户端友好的VPN不少，但提供无需Google Play商店和苹果美国商店即可安装客户端的VPN厂商，恐怕ExpressVPN是仅有的几家之一。
 
