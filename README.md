@@ -248,11 +248,13 @@ iVacy和PureVPN一样，是同一家，共用服务器，在国内表现也差�
 
 ## <a rel="nofollow noopener" href="https://www.fastvpncn.com/expressvpn" target="_blank">ExpressVPN</a>-使用体验最佳
 
-[![ExpressVPN](https://www.safewebcn.com/img/ExpressVPN-logo.png)](https://www.fastvpncn.com/expressvpn)
+[![ExpressVPN](https://www.safewebcn.com/img/express-logo-2021.png)](https://www.fastvpncn.com/expressvpn)
 
 `最近使用：2021年2月使用，确认可用。ExpressVPN国内的使用体验在我所测试的VPN产品中最好，尤其是iOS系统的使用体验相对其他VPN产品要好。`
 
 应该说，这是中国目前最好用的VPN，我用了5年，虽然特殊时期也碰到问题，但一年中超过95%的时间里使用都很流畅。ExpressVPN已经为中国网民服务了12年。 这是目前唯一一个任何人想都不用想就可以买的VPN，速度相比其他VPN软件有优势，服务器针对中国大陆进行优化，网速快，顶级隐私保护技术，还有最重要的，客户端最好用，设备支持它最全。
+
+[![ExpressVPN界面](https://www.safewebcn.com/img/express-vpn-servers-min.png)](#expressvpn-使用体验最佳)
 
 在我用的几年时间里，每年不能用的时间总共加起来大致在1-2个星期左右（即所谓“敏感时期”），会有几天时间出现频繁短线或者网速变得非常慢。根据我的使用体验估计ExpressVPN全年正常可用率在95%左右。在中国大陆使用ExpressVPN，建议选择连接官方推荐的VPN服务器线路，这些服务器线路是ExpressVPN官方针对中国地区做过的混淆服务器优化，推荐中国用户使用：
 
@@ -300,21 +302,33 @@ ExpressVPN在每台服务器上运行自己的私有加密DNS服务器，一旦�
 
 ### ExpressVPN速度测试
 
-我在使用的时候顺便做了一下速度测试，不多说，上图，这几个节点速度都不错：
+我在使用的时候顺便做了一下速度测试，不多说，上图，这几个节点速度都不错，我的网络是电信网络，使用SpeedTest网站进行在线测速，速度测试截图供大家参考：
 
 Los Angeles-5节点测速：
 
-[![expressvpn速度测试](https://www.safewebcn.com/img/ExpressVPN-speedtest-LA5-min.png)](#expressvpn速度测试)
+[![expressvpn速度测试](https://www.safewebcn.com/img/ExpressVPN-speedtest-LA5-2021.png)](#expressvpn速度测试)
+
+连接上Los Angeles – 5节点后，打开Speedtest网站进行在线测速，从上面的截图可以看到，ping值是196ms，美国的服务器这个数值还不错，下载速率是56.96Mb/s，上传速率是16.53Mb/s，这个速度应该说能胜过市面上99%的VPN产品了，在观看Youtube高清视频时不会存在卡顿。
 
 Sigapore-Marina Bay节点测速：
 
-[![expressvpn速度测试](https://www.safewebcn.com/img/expressvpn-sigapore-min.png)](#expressvpn速度测试)
+[![expressvpn速度测试](https://www.safewebcn.com/img/expressvpn-sigapore.png-2021.png)](#expressvpn速度测试)
 
-Los Angeles-4节点测速：
-
-[![expressvpn速度测试](https://www.safewebcn.com/img/express-vpn-la4-2020-01-19.png)](#expressvpn速度测试)
+连接Singapore – Marina Bay节点的下载速度测试值为42.14Mb/s，也很不错。顺便说一下，这两个节点是我目前最常用的两个，因为ExpressVPN的美国Los Angeles – 4/5节点和Singapore – Marina Bay节点在电信网络下比Hongkong和Tokyo的节点稍快一些，但是测试只是测试，只能作为参考，因为使用的实际感受会因网络环境、时间、操作系统的变化而发生一些变化，你可以根据自己的网络环境进行尝试，选择速度快的节点作为常用节点。
 
 大家可以多测试几个节点，选择在你的网络中最快的作为常用节点。
+
+iPhone手机使用WiFi网络连接ExpressVPN的Marina Bay节点界面如下图：
+
+[![连接Marina Bay节点](https://www.safewebcn.com/img/expressvpn-iphone-marina_bay.png)](#expressvpn速度测试)
+
+使用移动4G网络连接Marina Bay节点进行测速：
+
+[![iPhone ExpressVPN节点测速](https://www.safewebcn.com/img/expressvpn-iphone-speedtest-2-16-min.png)](#expressvpn速度测试)
+
+从上面的测试可以看到，iPhone手机在移动4G网络下连接Marina Bay节点，速度挺快，能跑满我这里的移动4G网络的实际带宽，实际使用体验也在我所现在使用的翻墙软件中属于最好的。
+
+总体上来说ExpressVPN是我测试的所有翻墙软件中，在电脑端（Windows、MacBook）和手机端（iPhone、安卓手机）使用体验最好，尤其是网络速度方面。
 
 ### 如何获取ExpressVPN？
 
@@ -324,8 +338,6 @@ Los Angeles-4节点测速：
 
 打开官网后点击“Get ExpressVPN”按钮，进入套餐信息页面。
 
-[![expressvpn镜像站](https://www.safewebcn.com/img/打开expressvpn官网-min.png)](https://www.fastvpncn.com/expressvpn)
-
 **第二步：购买ExpressVPN，获得帐号**
 
 [![购买expressvpn](https://www.safewebcn.com/img/expressvpn-优惠套餐-min.png)](https://www.fastvpncn.com/expressvpn)
@@ -334,7 +346,7 @@ Los Angeles-4节点测速：
 
 **第三步：登录帐号，下载安装客户端**
 
-[![下载安装expressvpn客户端](https://www.safewebcn.com/img/下载安装expressvpn客户端-min.jpg)](#如何获取expressvpn)
+付款后，设置密码。然后点击官网右上角的“My Account”，输入刚刚注册的账号和密码，下载系统对应的客户端。
 
 ExpressVPN支持的设备：Windows，Mac，iPhone/iPad/iPod，Android，Google Chrome，Chromebook，Mozilla Firefox，Router，Linux，Fire TV & Kindle Fire，Apple TV，XBox，PlayStagion，MediaStreamer 以及手动配置 —— 这是市场上设备支持最全面的VPN，官方给每种设备都提供了清晰的安装指导。
 
@@ -350,13 +362,13 @@ ExpressVPN支持的设备：Windows，Mac，iPhone/iPad/iPod，Android，Google 
 
 **第四步：开始使用**
 
-[![Expressvpn客户端](https://www.safewebcn.com/img/express-vpn-servers.png)](#如何获取expressvpn)
+[![Expressvpn客户端](https://www.safewebcn.com/img/express-vpn-servers-min.png)](#如何获取expressvpn)
 
 香港、日本、美西LA节点是我最常连的服务器，速度很不错。在中国大陆使用ExpressVPN，建议选择连接官方推荐的VPN服务器线路，这些服务器线路是ExpressVPN官方针对中国地区做过的混淆服务器优化，推荐中国用户使用：
 
-- Hong Kong–4
-- Singapore–Marina Bay
 - USA–Los Angeles–5
+- Singapore–Marina Bay
+- Hong Kong–4
 - Japan–Yokohama
 - Canada - Toronto - 2
 - Germany - Nuremberg
