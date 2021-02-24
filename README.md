@@ -442,7 +442,7 @@ StrongVPN成立于2005年，是一家美国的老牌VPN服务商，属于J2 Glob
 
 [![Strong优惠码](https://www.safewebcn.com/img/strongvpn-plan-coupon-price-min.png)](#如何获取strongvpn)
 
-在支付之后，查看邮箱收到的初始登录密码，<a rel="nofollow noopener" href="https://linkv.org/strongcn/" target="_blank">进入StrongVPN官网</a>登陆账号，一般就可以直接下载客户端并安装使用了。
+在支付之后，查看邮箱收到的初始登录密码，<a rel="nofollow noopener" href="https://linkv.org/strongcn/" target="_blank">进入StrongVPN官网</a>登陆账号，客户端的选择建议联系在线客服获取中国地区适用的精简特别版（方法和步骤在下文），安装完成之后就可以使用了。
 
 **如果不能使用，查看是不是支付过程出现了问题**，需要<a rel="nofollow noopener" href="https://linkv.org/strongcn/" target="_blank">登录官网用户后台</a>确认支付，点击“Billing Area”：
 
@@ -466,9 +466,7 @@ StrongVPN成立于2005年，是一家美国的老牌VPN服务商，属于J2 Glob
 
 ### StrongVPN如何使用？
 
-登录进官网用户后台界面后，点击“StrongVPN Clients”下载客户端APP，如果下载速度太慢，取消后重试。
-
-[![Strong客户端下载](https://www.safewebcn.com/img/strongvpn-client-min.png)](#strongvpn如何使用)
+登录进官网用户后台界面后，可以看到“StrongVPN Clients”下载通用版客户端APP，但这个版本在国内使用有时候会出现连接问题，建议使用中国地区适用的精简特别版客户端。
 
 >**中国Windows用户建议<a rel="nofollow noopener" href="https://mirror2.reliablehosting.com/win/StrongVPN_Win-latest.exe" target="_blank">下载StrongVPN精简版V1 app</a>（<a rel="nofollow noopener" href="https://www.safewebcn.com/download/strongwin-1.65.exe" target="_blank">备用下载地址</a>）**，这是找官网技术客服推荐给我的，因为标准版的Windows APP首次使用账号登录困难，精简版的更适合在中国使用。安装精简版之前，最好把官网的标准版先装上，因为有读者反映Win10直接安装专用版出现问题，缺少组件，安装标准版之后解决。可以查看官网中有关程序安装所需组件的文章，<a rel="nofollow noopener" href="https://linkv.org/strongcn/" target="_blank">进入Strong官网</a>，点击右上角help，然后在搜素框搜索“.NET Framework”的文章。
 >
@@ -503,11 +501,11 @@ StrongVPN客户端中国专用版（中国用户推荐）：
 
 日本东京节点测速：
 
-[![Strong客户端精简版](https://www.safewebcn.com/img/StrongVPN-speedtest-tokyo-min.png)](#strong速度测试)
+[![Strong客户端精简版](https://www.safewebcn.com/img/StrongVPN-speedtest-tokyo-2021-2.png)](#strong速度测试)
 
 韩国首尔节点测速：
 
-[![Strong客户端精简版](https://www.safewebcn.com/img/strong-seoul-speedtest-min.png)](#strong速度测试)
+[![Strong客户端精简版](https://www.safewebcn.com/img/strong-seoul-speedtest-2021-2.png)](#strong速度测试)
 
 这是最近我使用StrongVPN时的测试结果，上面的速度测试截图可以看到，连接Tokyo的节点，ping值89ms，下载速度为10Mbps，上行速度为21.55Mbps；Seoul节点ping值67ms，下载速度为28.03Mbps，上行速度为22.09Mbps。浏览网页、看视频够用，但看清晰度为4K及以上的视频会有点吃力，这点不如[ExpressVPN](#expressvpn-使用体验最佳)。StrongVPN速度较快的节点选择可以查看：[线路选择提示](#strong线路选择提示)。
 
