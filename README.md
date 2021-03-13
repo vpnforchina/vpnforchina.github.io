@@ -491,11 +491,11 @@ iPhone版本的VPN客户端APP绝大部分时候能正常使用，敏感时期�
 
 下载安装APP客户端后，打开输入用户名密码登录就行了，在中国使用，协议（Protocol）建议选择OpenVPN，如果连接不畅需要重新安装OpenVPN的TAP驱动。
 
-StrongVPN Windows客户端标准版：
+StrongVPN Windows客户端标准版（不建议在国内使用，敏感时期会有连接问题）：
 
 [![Strong客户端标准版](https://www.safewebcn.com/img/strong-connect.png)](#strongvpn如何使用)
 
-StrongVPN客户端中国专用版（中国用户推荐）：
+StrongVPN客户端中国专用精简版（中国用户推荐）：
 
 [![Strong客户端精简版](https://www.safewebcn.com/img/strongvpn-china-client-min.png)](#strongvpn如何使用)
 
@@ -565,7 +565,7 @@ StrongVPN同样支持30天退款保证，有足够的时间测试使用。退款
 
 [![LightYear光年](https://www.safewebcn.com/img/ly_logo.png)](https://linkv.org/lightyear/)
 
->2021年1月使用，确认可用，可用节点较多，但不是所有节点都能连，推荐新加坡、日本、韩国、香港节点。SSR连接协议，名字中包含VPN，但不是真正的VPN，实质是机场，安全性也差一些，但是**可以作为前2款的备用**，翻墙速度也不错，从本文链接进入有额外10%的优惠。
+>2021年3月使用，确认可用，可用节点较多，但不是所有节点都能连，推荐新加坡、日本、韩国、香港节点。SSR连接协议，名字中包含VPN，但不是真正的VPN，实质是机场，安全性也差一些，但是**可以作为前2款的备用**，翻墙速度也不错，从本文链接进入有额外10%的优惠。
 
 光年VPN创立于2019年，国人开发，不是真正的正规VPN，传输协议是SSR，但使用体验和速度都还不错，可以作为正规VPN产品的备用选择。目前网上推荐这款还不多，主要还是在于打广告的投入少。虽然是机场，我推荐光年是因为他们把主要资金都投入在改善服务器性能的方面，日常使用起来还是不错的，而且有免费试用的活动，提供有价值的信息给读者是我写这篇文章的主要目的。
 
