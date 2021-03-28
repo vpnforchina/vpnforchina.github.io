@@ -636,7 +636,7 @@ StrongVPN同样支持30天退款保证，有足够的时间测试使用。退款
 
 [![NordVPN](https://www.safewebcn.com/img/nord-min.png)](#nordvpn)
 
->2020年12月使用，确认可用，但目前可用节点不多。建议连接美国、日本、欧洲地区的最新出来的节点，或联系客服获取备用节点进行OpenVPN手动配置。
+>2021年2月使用，确认可用，但目前可用节点不多。建议连接美国、日本、欧洲地区的最新出来的节点，或联系客服获取备用节点进行OpenVPN手动配置。
 
 **<a rel="nofollow noopener" href="https://vpncn.github.io/image/ExpressVPN%E5%92%8CNordVPN%E5%93%AA%E4%B8%AA%E5%A5%BD%E7%94%A8?.md" target="_blank">查看NordVPN最新节点速度测试报告</a>**
 
@@ -693,7 +693,7 @@ NordVPN在60个国家和地区拥有5700多个服务器，在看视频或者下�
 
 [![Panda熊猫VPN](https://www.safewebcn.com/img/panda-min.png)](#panda熊猫vpn)
 
-`最近使用：2020年12月，确认可用，速度和连接成功率都很一般，中规中矩。`
+`最近使用：2021年2月，确认可用，速度和连接成功率都很一般，中规中矩。`
 
 >华人开发的VPN，类SSR，今年翻墙软件中的小黑马，但问题是最近开始出现客服回复慢等问题。
 
