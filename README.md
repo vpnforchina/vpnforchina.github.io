@@ -1,10 +1,10 @@
 # 翻墙软件与科学上网，好用的VPN推荐2021版
 
-最后修改于： `2021年6月20日`
+最后修改于： `2021年7月2日`
 
 ## 翻墙软件现状
 
->**2021年6月更新信息**：目前PureVPN、VyprVPN、Ivacy、Surfshark在国内都基本上已经失效；Lantern蓝灯VPN经常出现连接失败的问题，且安全性存疑；NordVPN除了安卓手机能直连其他设备只能手动配置连接，要找客服获取中国专用客户端；光年VPN国内少数地区可能有连接不上、速度慢的问题，选择时请注意避坑。
+>**2021年7月更新信息**：目前PureVPN、VyprVPN、Ivacy、Surfshark在国内都基本上已经失效；Lantern蓝灯VPN经常出现连接失败的问题，且安全性存疑；NordVPN除了安卓手机能直连其他设备只能手动配置连接，要找客服获取中国专用客户端；光年VPN疑似跑路，已经有超过10天连接不上、客服无人应答，选择时请注意避坑。
 
 现在市场上的翻墙软件多如牛毛，但找到一个好用省心的却不容易。如果你经常关注相关的信息，找到几十款科学上网App一点也不夸张，各个宣传也是八仙过海，各显神通，但大多数科学上网软件在国内根本无法使用，千万别以为找到中国能用的翻墙软件很容易，事实上要亲自一款一款去尝试也比较繁琐，能在中国大陆安全且稳定使用的翻墙工具凤毛麟角。为什么会这样？我们当然知道这是因为墙很高，一年比一年高，这是事实。但到底是为什么如此饱和的翻墙软件VPN市场，也难找到几款中国能用的产品？
 
@@ -15,14 +15,11 @@
 
 **如果你不想听我啰嗦，我建议直接选择下面我列出的几款，不过在购买之前，建议把下文中与该款VPN服务对应的具体使用细节看完，因为GFW的不断更新，而且涉及到线路或协议选择，否则可能会在日后的使用中遇到麻烦。建议下载：<a rel="nofollow noopener" href="https://www.safewebcn.com/download/vpn选择指南.pdf" target="_blank">2021版VPN选择指南PDF版本</a>(右键另存)，有一些VPN使用技巧和注意事项，以便随时查阅，备不时之需。**
 
-> - [StrongVPN](#strongvpn--性价比最佳)，这款VPN我已经使用了2年多，价格最便宜，性价比在大厂的VPN中最好。总体来讲，在过去大概2年的使用时间里，全年可用率能达到95%左右，服务器经常会更新，每次登陆客户端都会自动检测服务器更新。**在国内的Windows、Mac和Android手机用户可以去官网右下角的在线聊天框“Help”帮助窗口，联系技术客服获取StrongVPN特供精简版本客户端V1 app，使用OpenVPN协议进行连接，连接很顺畅，我一直用下来没什么问题，而通用标准版本客户端在国内不少地区都无法登录，线路被封后也需要等更新之后才能恢复，特供的精简版本客户端不存在这个问题，这也是官方为了尽量避免被墙做的替代应对措施**。遗憾的是Strong官网在中国被墙，[国内打开StrongVPN官网](#如何打开strongvpn官网)需要改电脑Host文件，因为官网DNS在天朝被定位到不能访问的IP，需要修改本地的DNS才能访问。有梯子的同学可以用梯子访问，如果用梯子不能下单，可能防欺诈系统检测到使用代理IP（可以购买不用管），需使用本地网络访问。支持支付宝付款，这点还比较方便，退款时限是30天，所以有足够的测试时间。
+> - [StrongVPN](#strongvpn--性价比最佳)，作为老牌VPN，已经运营超过15年，这款我已经使用了2年多，大厂出品的VPN产品中价格最便宜，性价比在大厂的VPN中最好。总体来讲，在过去大概2年的使用时间里，全年可用率能达到95%左右，服务器经常会更新，每次登陆客户端都会自动检测服务器更新。**使用请注意，在国内的Windows、Mac和Android手机用户建议去官网右下角的在线聊天框“Help”帮助窗口，联系技术客服获取StrongVPN特供精简版本客户端V1 app，使用OpenVPN协议进行连接，连接很顺畅，我一直用下来没什么问题，而通用标准版本客户端在国内不少地区都无法登录，线路被封后也需要等更新之后才能恢复，特供的精简版本客户端目前不存在这个问题，这也是官方为了尽量避免被墙做的替代应对措施**。遗憾的是Strong官网在中国被墙，[国内打开StrongVPN官网](#如何打开strongvpn官网)需要改电脑Host文件，因为官网DNS在天朝被定位到不能访问的IP，需要修改本地的DNS才能访问。有梯子的同学可以用梯子访问，如果用梯子不能下单，可能防欺诈系统检测到使用代理IP（可以购买不用管），需使用本地网络访问。支持支付宝付款，这点还比较方便，退款时限是30天，所以有足够的测试时间。
 >
 > - <a rel="nofollow noopener" href="https://linkv.org/express/" target="_blank">ExpressVPN（活动直达）</a>，我自己也常年使用，使用体验在我看来是最好的，国内访问官网需梯子，但是通过应用程序界面进入镜像网站（国内可访问）可以更新客户端、联系客服和登录账号等操作。**iOS客户端的长期稳定性在大牌VPN产品中表现最好，iPhone用户首选**。它已经运营了13年（至2021年），设备支持最全面，国内外口碑都很好，是我个人最喜欢的VPN软件，国内有大量活跃用户，你可能不是第一次听到它，几乎所有国内外VPN推荐网站它都排在最靠前的位置。这里还有个**ExpressVPN使用小提示**，万一在敏感时期VPN服务器暂时被墙之后，改变客户端默认的连接协议（一般是`Automatic`），**改为`L2TP-IPSec`协议**然后尝试连接，你会发现其实还有些节点可以正常连接使用。**目前由于国内的支付政策,支付宝付款通道被暂停，优先选择国内银行卡（银联卡）、信用卡和Paypal付款方式。ExpressVPN有30天内不满意全额退款条款，退款方式是原路退回**。
 >
-> - <a rel="nofollow noopener" href="https://linkv.org/lightyear/" target="_blank">光年VPN（额外10%优惠链接）</a>，**可以作为备用选择**，LightYear光年VPN有国内可访问的镜像网站。虽然名字是VPN，但是传输协议是SSR，相当于是披着VPN外衣的机场，国人出品，安全性还不清楚，但我使用大概半年的时间，速度和时间的使用体验还是可以的，**我一般作为备用，配合真正的VPN使用，可以用来访问其它VPN的官网，我偶尔会用来看视频，如果涉及重要账号登录和敏感信息的操作，我还是会用Strong或Express**，毕竟这2款是国外大公司开发正儿八经的VPN，安全性更有保证。光年VPN试用退款周期是14天。
-> 
-
->**总结**：ExpressVPN有大量中国用户，由于之前有不少的冒牌镜像站点，给品牌声誉造成影响，**ExpressVPN官方停止了中国的镜像域名访问，国内可访问的镜像域名只能从App、应用程序界面的链接进入，且仅供更新客户端、联系客服和查看账号信息使用**，访问官网购买需要使用其他梯子。StrongVPN在中国的用户以老外居多，他们能更好地与官方技术人员交流，保持服务的长期稳定性。LightYear光年VPN实际上是机场，不是真正的VPN，但可以作为备用，如果涉及账号登录和隐私信息传输时还是建议使用前2款。
+>**总结**：ExpressVPN有大量中国用户，由于之前有不少的冒牌镜像站点，给品牌声誉造成影响，**ExpressVPN官方停止了中国的镜像域名访问，国内可访问的镜像域名只能从App、应用程序界面的链接进入，且仅供更新客户端、联系客服和查看账号信息使用**，访问官网购买需要使用其他梯子。StrongVPN在中国的用户以老外居多，他们能更好地与官方技术人员交流，保持服务的长期稳定性。之前文中提到的LightYear光年VPN已经有超过10天无法正常连接，客服无人回应，疑似跑路。**奉劝大家谨慎选择创立不超过3年的VPN，尤其是国产的翻墙软件，真的是说跑路就跑路，因为这个圈子的混乱，跑路换个马甲继续挣钱更容易**。
 
 [![vpn翻墙软件](https://www.safewebcn.com/img/strong-home.png)](#翻墙软件现状)
 
@@ -48,11 +45,11 @@
 > ### 7.[怎么下载和登录VPN客户端?](#怎么下载和登录vpn客户端)
 > ### 8. [适合在中国使用的VPN推荐](#适合在中国使用的vpn推荐)
 >>#### 8.1 [ExpressVPN-使用体验最佳](#expressvpn-使用体验最佳)
->>#### 8.2 [StrongVPN](#strongvpn--性价比最佳)
->>#### 8.3 [光年VPN](#lightyear光年vpn)
->>#### 8.4 [NordVPN](#nordvpn)
->>#### 8.5 [PandaVPN](#pandavpn)
->>#### 8.6 [IVacy](#ivacy)
+>>#### 8.2 [StrongVPN-性价比最好](#strongvpn--性价比最佳)
+>>#### 8.3 [NordVPN-表现一般](#nordvpn)
+>>#### 8.4 [PandaVPN-表现一般](#pandavpn)
+>>#### 8.5 [IVacy-不推荐](#ivacy)
+>>#### 8.6 [光年VPN-不推荐](#lightyear光年vpn)
 >
 >### 9.[中国VPN问答](#中国vpn问答)
 >>#### 9.1 [为什么要小心免费VPN？](#为什么要小心免费vpn)
@@ -196,25 +193,25 @@ Hi,I live in China,and I can't download *XX* VPN on my iPhone because it was not
 
 ## 翻墙VPN功能和价格对比表
 
-项目 | 1.StrongVPN | 2.ExpressVPN | 3.NordVPN | 4.PandaVPN | 5.光年VPN 
------------- | ------------- | ------------- | ------------- | ------------ | ------------ 
-综合评分（10分制） | 9.2  | 9.3 | 8.2 | 8.2| 9.0
-网络速度 | 快 | 最快 | 快 | 一般 | 一般
-价格 | 较低 | 较高 | 中等 | 中等 | 中等
-运营时间 | 长  | 长 | 长 | 短 | 短 
-全年可用率（估计） | 90%-95% | 95%+ | 85%-90% | 80%-90% | 85%-90% 
-可用节点数量 | 多 | 较多（包含L2TP协议） | 中 | 中 | 中 
-连通率 | 高  |  高  | 中高 | 中 |  高
-建立连接时间 | 快 | 快 | 快 | 快 | 快
-连接稳定性（相对）| 稳定 | 稳定 | 一般  | 一般 | 稳定
-隐私安全 | 高  | 高  | 高 | 中 | 中
-APP支持 | 全  | 全 | 全 | 较全（不支持路由器） | 较全（不支持路由器）
-支付宝 | 支持  | 不支持 | 不支持 | 支持 | 支持
-退款时限 | 30天内 |30天内 | 30天内 | 7天内 | 14天内
-售后服务 | 好  | 好 | 好 | 一般 | 一般 
-镜像官网 | 暂无([如何访问?](#如何打开strongvpn官网))  |  停止 | 无([如何访问?](#如何打开nordvpn官网)) | 有 | 有 
+项目 | 1.StrongVPN | 2.ExpressVPN | 3.NordVPN | 4.PandaVPN 
+------------ | ------------- | ------------- | ------------- | ------------ 
+综合评分（10分制） | 9.2  | 9.3 | 8.2 | 8.2
+网络速度 | 快 | 最快 | 快 | 一般 
+价格 | 较低 | 较高 | 中等 | 中等 
+运营时间 | 长  | 长 | 长 | 短 
+全年可用率（估计） | 90%-95% | 95%+ | 85%-90% | 80%-90% 
+可用节点数量 | 多 | 较多（包含L2TP协议） | 中 | 中 
+连通率 | 高  |  高  | 中高 | 中 
+建立连接时间 | 快 | 快 | 快 | 快 
+连接稳定性（相对）| 稳定 | 稳定 | 一般  | 一般 
+隐私安全 | 高  | 高  | 高 | 中 
+APP支持 | 全  | 全 | 全 | 较全（不支持路由器）
+支付宝 | 支持  | 不支持 | 不支持 | 支持 
+退款时限 | 30天内 |30天内 | 30天内 | 7天内 
+售后服务 | 好  | 好 | 好 | 一般 
+镜像官网 | 暂无([如何访问?](#如何打开strongvpn官网))  |  停止 | 无([如何访问?](#如何打开nordvpn官网)) | 有 
 APP快速下载 | 可以 | 可以  | 可以 | 可以 | 可以
-优惠 | <a rel="nofollow noopener" href="https://linkv.org/strongcn/" target="_blank">用优惠券省20%</a>  | <a rel="nofollow noopener" href="https://www.fastvpncn.com/expressvpn" target="_blank">送3个月活动</a>  | [最多优惠68%](#如何打开nordvpn官网) | <a rel="nofollow noopener" href="https://linkv.org/panda/" target="_blank">年付优惠</a> | <a rel="nofollow noopener" href="https://linkv.org/lightyear/" target="_blank">额外优惠</a> 
+优惠 | <a rel="nofollow noopener" href="https://linkv.org/strongcn/" target="_blank">用优惠券省20%</a>  | <a rel="nofollow noopener" href="https://www.fastvpncn.com/expressvpn" target="_blank">送3个月活动</a>  | [最多优惠68%](#如何打开nordvpn官网) | <a rel="nofollow noopener" href="https://linkv.org/panda/" target="_blank">年付优惠</a>
 
 关于具体套餐的选择，如果VPN商家的运营时间短，比如PandaVPN，如果想尝试，建议只买一个月的套餐，根据使用体验再考虑是否续费，因为服务还没有经过长时间的检验。如果VPN商家的运营时间长（5年以上），长期可用性一般问题不大，选择一个月或年套餐都可以，年套餐每月便宜很多。
 
@@ -252,7 +249,7 @@ iVacy和PureVPN一样，是同一家，共用服务器，在国内表现也差�
 
 [![ExpressVPN](https://www.safewebcn.com/img/express-logo-2021.png)](https://www.fastvpncn.com/expressvpn)
 
-`最近使用：2021年6月使用，确认可用。ExpressVPN国内的使用体验在我所测试的VPN产品中最好，尤其是iOS系统的使用体验相对其他VPN产品要好。`
+`最近使用：2021年7月使用，确认可用。ExpressVPN国内的使用体验在我所测试的VPN产品中最好，尤其是iOS系统的使用体验相对其他VPN产品要好。`
 
 应该说，这是中国目前最好用的VPN，我用了5年，虽然特殊时期也碰到问题，但一年中超过95%的时间里使用都很流畅。ExpressVPN已经为中国网民服务了12年。 这是目前唯一一个任何人想都不用想就可以买的VPN，速度相比其他VPN软件有优势，服务器针对中国大陆进行优化，网速快，顶级隐私保护技术，还有最重要的，客户端最好用，设备支持它最全。目前暂停支付宝付款、可以使用银联卡、Paypal和信用卡进行购买使用。
 
@@ -260,12 +257,12 @@ iVacy和PureVPN一样，是同一家，共用服务器，在国内表现也差�
 
 在我用的几年时间里，每年不能用的时间总共加起来大致在1-2个星期左右（即所谓“敏感时期”），会有几天时间出现频繁短线或者网速变得非常慢。根据我的使用体验估计ExpressVPN全年正常可用率在95%左右。在中国大陆使用ExpressVPN，建议选择连接官方推荐的VPN服务器线路，这些服务器线路是ExpressVPN官方针对中国地区做过的混淆服务器优化，推荐中国用户使用：
 
-    Japan–Yokohama
     Hong Kong–4
     Singapore–Marina Bay
-    Hong Kong–5
-    USA–Los Angeles–4
+    Japan–Yokohama
     USA–Los Angeles–5
+    USA–Los Angeles–4
+    France-Strasbourg
     USA–Santa Monica
     Canada - Toronto - 2
     Germany - Nuremberg
@@ -372,6 +369,7 @@ ExpressVPN支持的设备：Windows，Mac，iPhone/iPad/iPod，Android，Google 
 - Singapore–Marina Bay
 - Hong Kong–4
 - Japan–Yokohama
+- France-Strasbourg
 - Canada - Toronto - 2
 - Germany - Nuremberg
 - UK - Wembley
@@ -397,7 +395,7 @@ ExpressVPN提供自购买日起`30天内无理由退款`，如果你发现它在
 
 [![StrongVPN](https://www.safewebcn.com/img/strong-logo.png)](#strongvpn--性价比最佳)
 
->2021年6月使用，确认可用，可用节点较多，有些节点网络速度还不错，有些节点网络速度一般，要自己测试。性价比最佳，有优惠码可使用。国内Windows、Mac和Android设备用户建议去官网右下角在线聊天框（或者在用户后台页面发ticket信），找客服要特供的精简版本V1 app（就说在中国使用客服会帮你设置账户）。在国内使用OpenVPN（TCP）协议连接成功率一直很高（在敏感时期相对官方标准版本App更加稳定），官方标准版本客户端可能会出现登录或连接问题，需要等待版本或线路更新才能恢复，特供的精简版本客户端没这些问题。只有iPhone版本的App直连现在还未恢复，目前只能咨询客服手动配置，iPhone还是建议选择[ExpressVPN](#expressvpn-使用体验最佳)，长期使用体验最好。
+>2021年7月使用，确认可用，可用节点较多，有些节点网络速度还不错，有些节点网络速度一般，要自己测试。性价比最佳，有优惠码可使用。国内Windows、Mac和Android设备用户建议去官网右下角在线聊天框（或者在用户后台页面发ticket信），找客服要特供的精简版本V1 app（就说在中国使用客服会帮你设置账户）。在国内使用OpenVPN（TCP）协议连接成功率一直很高（在敏感时期相对官方标准版本App更加稳定），官方标准版本客户端可能会出现登录或连接问题，需要等待版本或线路更新才能恢复，特供的精简版本客户端没这些问题。只有iPhone版本的App直连现在还未恢复，目前只能咨询客服手动配置，iPhone还是建议选择[ExpressVPN](#expressvpn-使用体验最佳)，长期使用体验最好。
 
 StrongVPN成立于2005年，是一家美国的老牌VPN服务商，属于J2 Global集团NetProtect产品的品牌，这是一家在纳斯达克上市的公司，专注于通信信息技术、云服务等业务，技术实力挺雄厚，在35个国家的59个城市有950+的VPN服务器，拥有近60000个IP地址资源。
 
@@ -409,7 +407,7 @@ StrongVPN成立于2005年，是一家美国的老牌VPN服务商，属于J2 Glob
 
 **国内本地网络访问方法**：Strong官网在中国被墙，国内访问官网需要改电脑Host文件，因为官网DNS在天朝被定位到不能访问的IP，需要修改本地Host文件的DNS才能访问。
 
-改电脑Host文件方法很简单，国内Windows/Mac用户可以直接下载hosts文件**解锁本文中所有VPN官网**，手机用户建议在电脑上打开本页面操作，因为手机由于系统版本原因改host操作较麻烦，下面是操作步骤：
+改电脑Host文件方法很简单，国内Windows/Mac用户可以直接下载hosts文件解锁VPN官网，手机用户建议在电脑上打开本页面操作，因为手机由于系统版本原因改host操作较麻烦，下面是操作步骤：
 
 1.下载hosts文件： <a rel="nofollow noopener" href="http://linkv.org/download/hosts" target="_blank"> 下载地址</a>(右键打开)
 
@@ -469,7 +467,7 @@ StrongVPN成立于2005年，是一家美国的老牌VPN服务商，属于J2 Glob
 
 ### StrongVPN如何使用？
 
-登录进官网用户后台界面后，可以看到“StrongVPN Clients”下载通用版客户端APP，但这个版本在国内使用有时候会出现连接问题，建议使用中国地区适用的精简特别版客户端。
+登录进官网用户后台界面后，可以看到“StrongVPN Clients”下载通用版客户端APP，但这个版本在国内使用有时候会出现连接问题，建议使用中国地区适用的精简版客户端。
 
 >**中国Windows用户建议<a rel="nofollow noopener" href="https://mirror2.reliablehosting.com/win/StrongVPN_Win-latest.exe" target="_blank">下载StrongVPN精简版V1 app</a>（<a rel="nofollow noopener" href="https://www.safewebcn.com/download/strongwin-1.65.exe" target="_blank">备用下载地址</a>）**，这是找官网技术客服推荐给我的，因为标准版的Windows APP首次使用账号登录困难，精简版的更适合在中国使用。安装精简版之前，最好把官网的标准版先装上，因为有读者反映Win10直接安装专用版出现问题，缺少组件，安装标准版之后解决。可以查看官网中有关程序安装所需组件的文章，<a rel="nofollow noopener" href="https://linkv.org/strongcn/" target="_blank">进入Strong官网</a>，点击右上角help，然后在搜素框搜索“.NET Framework”的文章。
 >
@@ -484,21 +482,21 @@ StrongVPN成立于2005年，是一家美国的老牌VPN服务商，属于J2 Glob
 >
 >如果仍然存在登录问题，需要找客服询问原因，有时是因为电脑的DNS设置的问题。
 
-另外，**和Windows系统一样，Mac和安卓用户也可以找客服获取精简版客户端V1 app**，在敏感时期连接成功率很高，官网的标准版客户端遇到防火长城升级可能会存在连接问题，要等几日版本更新。
+另外，**和Windows系统一样，Mac和安卓用户也可以找客服获取精简版客户端V1 app**，在敏感时期连接成功率很高，官网的标准版客户端遇到防火长城升级可能会存在连接问题，要等版本更新。
 
 Mac精简版V1 app<a rel="nofollow noopener" href="https://mirror2.reliablehosting.com/mac/StrongVPN_mac-latest.zip" target="_blank">下载地址</a>（<a rel="nofollow noopener" href="https://www.safewebcn.com/download/Strong_mac-latest.zip" target="_blank">备用下载地址</a>）
 
-iPhone版本的VPN客户端APP绝大部分时候能正常使用，敏感时期可能会有封锁，需要去官网联系在线客服（或进入官网点击Help，然后点击“Email Support”发邮件）获取备用服务器地址，进行手动配置。等待几日更新后就可以正常使用客户端APP了。
+由于iOS系统的原因，iPhone版本的VPN客户端没有特供的备用APP，敏感时期可能会有封锁，需要去官网联系在线客服（或进入官网点击Help，然后点击“Email Support”发邮件）获取备用服务器地址，进行手动配置连接。不过iPhone用户最好是使用<a rel="nofollow noopener" href="https://linkv.org/express/" target="_blank">ExpressVPN</a>，在iOS系统里面长期稳定性比其他VPN都要好。
 
-下载安装APP客户端后，打开输入用户名密码登录就行了，在中国使用，协议（Protocol）建议选择OpenVPN，如果连接不畅需要重新安装OpenVPN的TAP驱动。
+下载安装APP客户端后，联系客服修改账户（说在中国使用客服就会帮你设置），然后打开输入用户名密码登录就行了，在中国使用，协议（Protocol）建议选择OpenVPN(TCP或UDP)，如果连接不畅需要重新安装OpenVPN的TAP驱动。
 
-StrongVPN Windows客户端标准版（不建议在国内使用，敏感时期会有连接问题）：
-
-[![Strong客户端标准版](https://www.safewebcn.com/img/strong-connect.png)](#strongvpn如何使用)
-
-StrongVPN客户端中国专用精简版（中国用户推荐）：
+**StrongVPN特供精简版客户端（中国用户推荐使用）**：
 
 [![Strong客户端精简版](https://www.safewebcn.com/img/strongvpn-china-client-min.png)](#strongvpn如何使用)
+
+**StrongVPN Windows客户端标准版（不建议在国内使用，敏感时期会有连接问题）**：
+
+[![Strong客户端标准版](https://www.safewebcn.com/img/strong-connect.png)](#strongvpn如何使用)
 
 ### Strong速度测试
 
@@ -518,19 +516,17 @@ StrongVPN客户端中国专用精简版（中国用户推荐）：
 
 我建议连接这些节点：
 
-- 日本（Japan）
-
 - 韩国（South Korea）
 
 - 新加坡
 
 - 台湾
 
+- 日本（Japan）
+
 - 欧洲地区的节点
 
 美国的节点也可以连接，但在我这里相对其他地区慢一些，**网络环境不同最佳节点可能也不一样**，你可以自己测试进行节点的选择。
-
-在防火长城升级的敏感时期，建议联系客服获取精简版客户端V1 app进行连接。
 
 ### Strong线路选择提示
 
@@ -547,7 +543,7 @@ StrongVPN客户端中国专用精简版（中国用户推荐）：
 
 - **注重中国市场**
 
-StrongVPN虽然客户端不支持中文，但是对在在中国的用户反应的连接问题很重视，能始终在防火墙升级后以最快的速度更新服务器，修复在中国的连接问题，一般在2-3个工作日能恢复使用。
+StrongVPN虽然客户端不支持中文，但是对在在中国的用户反应的连接问题很重视，能始终在防火墙升级后以最快的速度更新服务器，修复在中国的连接问题。
 
 - **加密技术/隐私保护**
 
@@ -561,78 +557,6 @@ StrongVPN虽然客户端不支持中文，但是对在在中国的用户反应�
 
 StrongVPN同样支持30天退款保证，有足够的时间测试使用。退款可以找客服申请，这家退款是我见过最干脆的，不问理由，直接退，很方便，不像有些磨磨唧唧，你坚持退才给退。
 
-
-## <a rel="nofollow noopener" href="https://linkv.org/lightyear/" target="_blank">LightYear光年VPN</a>
-
-[![LightYear光年](https://www.safewebcn.com/img/ly_logo.png)](https://linkv.org/lightyear/)
-
->2021年5月使用，确认可用，可用节点较多，但不是所有节点都能连，推荐新加坡、日本、韩国、香港节点。SSR连接协议，名字中包含VPN，但不是真正的VPN，实质是机场，安全性也差一些，但是**可以作为前2款的备用**，翻墙速度也不错，从本文链接进入有额外10%的优惠。
-
-光年VPN创立于2019年，国人开发，不是真正的正规VPN，传输协议是SSR，但使用体验和速度都还不错，可以作为正规VPN产品的备用选择。目前网上推荐这款还不多，主要还是在于打广告的投入少。虽然是机场，我推荐光年是因为他们把主要资金都投入在改善服务器性能的方面，日常使用起来还是不错的，而且有免费试用的活动，提供有价值的信息给读者是我写这篇文章的主要目的。
-
-去年的几次墙升级，大封锁期间，不少VPN和机场纷纷失效，光年VPN不但能很快应对，服务器还能维持稳定的速度（测试值，仅作为参考），其他方面也不需要介绍太多，毕竟能提供免付费试用的厂商目前就不多。
-
-### 如何打开光年VPN官网？
-
-光年VPN有国内可访问的镜像网站，可以在不用翻墙的情况下访问，方便没有梯子的读者。
-
-1. 进入<a rel="nofollow noopener" href="https://linkv.org/lightyear/" target="_blank">光年VPN官方网站</a> 注册，输入邮箱和发送到邮箱的验证码，然后输入密码就注册成功了，密码必须包含数字和大小写字母的混合，最少8位。
-
-[![光年VPN注册](https://www.safewebcn.com/img/ly_register.png)](#如何打开光年vpn官网)
-
-2. 注册后登入账号，点击现在购买可以查看套餐价格，**从本文的链接进入购买可以额外优惠10%**。
-
-[![光年VPN购买](https://www.safewebcn.com/img/ly_order_now.png)](#如何打开光年vpn官网)
-
-目前套餐主要有5种，从单月到2年半按时间长短分，套餐时间越长，每月价格越低。
-
-[![光年VPN套餐](https://www.safewebcn.com/img/ly_price_table_min.png)](#如何打开光年vpn官网)
-
-3. 前往下载页面下载安装包，目前支持安装客户端的系统有Windows、Mac、iOS、安卓以及Linux。
-
-[![光年VPN下载](https://www.safewebcn.com/img/ly_download.png)](#如何打开光年vpn官网)
-
-### 光年VPN如何使用？
-
-使用操作很简单，安装完成后就能一键翻墙，<a rel="nofollow noopener" href="https://linkv.org/lightyear/" target="_blank">进入官网</a>登录，登录进去后，点击下载，进入下载页面，以Windows为例，下载安装包以后，直接点击安装：
-
-[![光年VPN安装](https://www.safewebcn.com/img/ly_install1.png)](#光年vpn如何使用)
-
-安装完成后，输入刚刚注册的邮箱及密码，就可以使用了：
-
-[![光年VPN安装](https://www.safewebcn.com/img/ly_install2.png)](#光年vpn如何使用)
-
-关于手机App的安装，安卓手机用户可以直接下载apk安装包进行安装，iPhone用户可以下载ipa文件直接安装（不用外区Apple ID），或者通过App Store安装，方法在前文讲过。
-
-#### 使用建议
-
-光年主要采用SSR协议，并非正规的VPN协议，主要目的只有翻墙，安全性比正规VPN差一些，但速度不错，可以作为备用，可以用来访问其他VPN官网，或者在其他VPN网络不稳定和敏感时期使用。
-
-在线路选择方面，BGP节点是专门为中国区所设定，节点选择上可以选择日本、新加坡、韩国、香港等地。
-
-### 光年VPN特点
-
-- **支持设备**
-
-同样支持Windows，Mac，iPhone，Android安卓这些常见客户端，**支持最多5台设备同时在线使用**。
-
-- **注重中国市场**
-
-因为是国人创办，机场也只有中国人用，老外只用VPN，客户全是国人，所以看重中国市场是必然的。光年VPN官网有中文页面、在线客服也支持中文沟通，可以支付宝付款以及提供国内能访问的镜像网站。
-
-- **免费试用**
-
-能免费试用是光年的最大优势，也是我愿意推荐这款的原因。本来机场的安全性远不如正规VPN，尤其是国人开发的，机场我自己就用的不多，只是作为备用，但现在能免费试用的翻墙软件真的太少了，就给只需短暂使用和其他的读者多一个选择。
-
-- **智能分流功能**
-
-<a rel="nofollow noopener" href="https://linkv.org/lightyear/" target="_blank">光年</a>支持智能分流功能，不少VPN是全局代理，连接之后访问国内网站很慢，也不能观看腾讯视频、优酷、爱奇艺等视频网站资源，光年VPN客户端有可以控制的智能分流功能，开启后只有访问国外网站资源才会走VPN流量，这个功能对于很多人来说是非常方便的。
-
-- **7天退款保证**
-
-<a rel="nofollow noopener" href="https://linkv.org/lightyear/" target="_blank">光年VPN</a>可以提供一天的免费试用时长，如果购买之后不满意，在七天之内可以找客服申请退款。
-
-### <center><a rel="nofollow noopener" href="https://linkv.org/lightyear/" target="_blank">>> 光年VPN额外优惠活动 <<</a></center>
 
 ## <a rel="nofollow noopener" href="http://linkv.org/nord" target="_blank">NordVPN</a>
 
@@ -648,7 +572,7 @@ StrongVPN同样支持30天退款保证，有足够的时间测试使用。退款
 
 国内打开NordVPN官网需要改电脑Host文件，因为官网DNS在天朝被定位到不能访问的IP，需要修改本地的DNS才能访问。方法很简单：
 
-国内Windows/Mac用户可以直接下载hosts文件**解锁本文中所有VPN官网**（手机用户建议在电脑上打开本页面操作）：
+国内Windows/Mac用户可以直接下载hosts文件解锁VPN官网（手机用户建议在电脑上打开本页面操作）：
 
 1.下载hosts文件： <a rel="nofollow noopener" href="http://linkv.org/download/hosts" target="_blank"> 下载地址</a>(右键打开)
 
@@ -762,7 +686,7 @@ PandaVPN有分应用代理功能，制定哪些APP走VPN代理流量，哪些APP
 
 国内打开IVacy官网需要改电脑Host文件，因为官网DNS在天朝被定位到不能访问的IP，需要修改本地的DNS才能访问。方法很简单：
 
-国内Windows/Mac用户可以直接下载hosts文件**解锁本文中所有VPN官网**（手机用户建议在电脑上打开本页面操作）：
+国内Windows/Mac用户可以直接下载hosts文件解锁官网，手机用户建议在电脑上打开本页面操作：
 
 1.下载hosts文件： <a rel="nofollow noopener" href="http://linkv.org/download/hosts" target="_blank"> 下载地址</a>(右键打开)
 
@@ -793,6 +717,80 @@ IVacy不限制同时在线的设备数量，这算是一个独树一帜的特点
 - 7*24小时技术支持
 
 在使用过程中如果遇到问题，可以在任意时刻联系他们的客户服务团队。
+
+
+## <a rel="nofollow noopener" href="https://linkv.org/lightyear/" target="_blank">LightYear光年VPN</a>
+
+[![LightYear光年](https://www.safewebcn.com/img/ly_logo.png)](https://linkv.org/lightyear/)
+
+>2021年7月使用，**从6月下旬开始已经有超过10天不能连接，客服信息不回，疑似要跑路，大家注意避坑**。
+>2021年5月，确认可用，可用节点较多，但不是所有节点都能连，推荐新加坡、日本、韩国、香港节点。SSR连接协议，名字中包含VPN，但不是真正的VPN，实质是机场，安全性也差一些，但是**可以作为前2款的备用**，翻墙速度也不错，从本文链接进入有额外10%的优惠。
+
+光年VPN创立于2019年，国人开发，不是真正的正规VPN，传输协议是SSR，但使用体验和速度都还不错，可以作为正规VPN产品的备用选择。目前网上推荐这款还不多，主要还是在于打广告的投入少。虽然是机场，我推荐光年是因为他们把主要资金都投入在改善服务器性能的方面，日常使用起来还是不错的，而且有免费试用的活动，提供有价值的信息给读者是我写这篇文章的主要目的。
+
+去年的几次墙升级，大封锁期间，不少VPN和机场纷纷失效，光年VPN不但能很快应对，服务器还能维持稳定的速度（测试值，仅作为参考），其他方面也不需要介绍太多，毕竟能提供免付费试用的厂商目前就不多。
+
+### 如何打开光年VPN官网？
+
+光年VPN有国内可访问的镜像网站，可以在不用翻墙的情况下访问，方便没有梯子的读者。
+
+1. 进入<a rel="nofollow noopener" href="https://linkv.org/lightyear/" target="_blank">光年VPN官方网站</a> 注册，输入邮箱和发送到邮箱的验证码，然后输入密码就注册成功了，密码必须包含数字和大小写字母的混合，最少8位。
+
+[![光年VPN注册](https://www.safewebcn.com/img/ly_register.png)](#如何打开光年vpn官网)
+
+2. 注册后登入账号，点击现在购买可以查看套餐价格，**从本文的链接进入购买可以额外优惠10%**。
+
+[![光年VPN购买](https://www.safewebcn.com/img/ly_order_now.png)](#如何打开光年vpn官网)
+
+目前套餐主要有5种，从单月到2年半按时间长短分，套餐时间越长，每月价格越低。
+
+[![光年VPN套餐](https://www.safewebcn.com/img/ly_price_table_min.png)](#如何打开光年vpn官网)
+
+3. 前往下载页面下载安装包，目前支持安装客户端的系统有Windows、Mac、iOS、安卓以及Linux。
+
+[![光年VPN下载](https://www.safewebcn.com/img/ly_download.png)](#如何打开光年vpn官网)
+
+### 光年VPN如何使用？
+
+使用操作很简单，安装完成后就能一键翻墙，<a rel="nofollow noopener" href="https://linkv.org/lightyear/" target="_blank">进入官网</a>登录，登录进去后，点击下载，进入下载页面，以Windows为例，下载安装包以后，直接点击安装：
+
+[![光年VPN安装](https://www.safewebcn.com/img/ly_install1.png)](#光年vpn如何使用)
+
+安装完成后，输入刚刚注册的邮箱及密码，就可以使用了：
+
+[![光年VPN安装](https://www.safewebcn.com/img/ly_install2.png)](#光年vpn如何使用)
+
+关于手机App的安装，安卓手机用户可以直接下载apk安装包进行安装，iPhone用户可以下载ipa文件直接安装（不用外区Apple ID），或者通过App Store安装，方法在前文讲过。
+
+#### 使用建议
+
+光年主要采用SSR协议，并非正规的VPN协议，主要目的只有翻墙，安全性比正规VPN差一些，但速度不错，可以作为备用，可以用来访问其他VPN官网，或者在其他VPN网络不稳定和敏感时期使用。
+
+在线路选择方面，BGP节点是专门为中国区所设定，节点选择上可以选择日本、新加坡、韩国、香港等地。
+
+### 光年VPN特点
+
+- **支持设备**
+
+同样支持Windows，Mac，iPhone，Android安卓这些常见客户端，**支持最多5台设备同时在线使用**。
+
+- **注重中国市场**
+
+因为是国人创办，机场也只有中国人用，老外只用VPN，客户全是国人，所以看重中国市场是必然的。光年VPN官网有中文页面、在线客服也支持中文沟通，可以支付宝付款以及提供国内能访问的镜像网站。
+
+- **免费试用**
+
+能免费试用是光年的最大优势，也是我愿意推荐这款的原因。本来机场的安全性远不如正规VPN，尤其是国人开发的，机场我自己就用的不多，只是作为备用，但现在能免费试用的翻墙软件真的太少了，就给只需短暂使用和其他的读者多一个选择。
+
+- **智能分流功能**
+
+<a rel="nofollow noopener" href="https://linkv.org/lightyear/" target="_blank">光年</a>支持智能分流功能，不少VPN是全局代理，连接之后访问国内网站很慢，也不能观看腾讯视频、优酷、爱奇艺等视频网站资源，光年VPN客户端有可以控制的智能分流功能，开启后只有访问国外网站资源才会走VPN流量，这个功能对于很多人来说是非常方便的。
+
+- **7天退款保证**
+
+<a rel="nofollow noopener" href="https://linkv.org/lightyear/" target="_blank">光年VPN</a>可以提供一天的免费试用时长，如果购买之后不满意，在七天之内可以找客服申请退款。
+
+### <center><a rel="nofollow noopener" href="https://linkv.org/lightyear/" target="_blank">>> 光年VPN额外优惠活动 <<</a></center>
 
 --------------------------------------------------------------------------------------------------------------
 
@@ -839,6 +837,12 @@ ExpressVPN的镜像网站除了域名和官网不同以外，其他服务和功�
 多数时候你可以在同一台电脑或手机上安装多个翻墙工具而不碰到任何问题，但也有少数时候某些工具间会有冲突，导致系统VPN无法正常工作，或者某个特定App无法正常工作。
 
 另外当你用无法正常连接的翻墙软件发起连接且该工具又没有连接时自动断网功能时，你的网络服务商可能短时间切断你的网络（免费工具较为多见），表现是你突然发现路由器WIFI无法连接（得手动重连）或者你的光猫分配到的公网IP无法访问外网，这种“暂时断网”现象并不少见，这是长城防火墙阻止用户翻墙上网的措施，一般不会持续太久就会自动恢复。这个问题会让很多用户误以为某些翻墙软件自身无法使用，而其实只是因为本地网络暂时出问题了。
+
+### 其他VPN
+
+注：光年VPN疑似要跑路，不再做推荐。
+> - ~~<a rel="nofollow noopener" href="https://linkv.org/lightyear/" target="_blank">光年VPN（额外10%优惠链接）</a>，**可以作为备用选择**，LightYear光年VPN有国内可访问的镜像网站。虽然名字是VPN，但是传输协议是SSR，相当于是披着VPN外衣的机场，国人出品，安全性还不清楚，但我使用大概半年的时间，速度和时间的使用体验还是可以的，光年VPN试用退款周期是7天。**我一般作为备用，配合真正的VPN使用，可以用来访问其它VPN的官网，我偶尔会用来看视频~~，如果涉及重要账号登录和敏感信息的操作，我还是会用Strong或Express**，毕竟这2款是国外大公司开发正儿八经的VPN，安全性更有保证。
+> 
 
 本文正式版网页：[2021翻墙软件VPN与科学上网推荐](https://vpnforchina.github.io/)
 
