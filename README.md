@@ -716,9 +716,9 @@ PandaVPN有分应用代理功能，制定哪些APP走VPN代理流量，哪些APP
 >PandaVPN客服支持中文，所以你可以直接用中文表达退款请求。
 
 
-## <a rel="nofollow noopener" href="https://linkv.org/lightyear/" target="_blank">LightYear光年VPN</a>
+## LightYear光年VPN
 
-[![LightYear光年](https://www.safewebcn.com/img/ly_logo.png)](https://linkv.org/lightyear/)
+[![LightYear光年](https://www.safewebcn.com/img/ly_logo.png)](#lightyear光年vpn)
 
 >2021年7月使用，**从6月下旬开始已经有超过10天不能连接，客服信息不回，疑似要跑路，大家注意避坑**。
 >
