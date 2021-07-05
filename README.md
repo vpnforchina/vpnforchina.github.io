@@ -617,67 +617,6 @@ NordVPN在60个国家和地区拥有5700多个服务器，在看视频或者下�
 >注：在敏感时期，使用NordVPN最好能结合官网的教程进行OpenVPN手动配置，iOS设备上用手动ikev2，手动配置的节点比APP直连的稳定性高很多。另一个需要注意的地方是如果遇到连接或者下载问题随时联系在线客服，让售后给你备用服务器地址。
 
 
-## <a rel="nofollow noopener" href="https://linkv.org/panda/" target="_blank">PandaVPN</a>
-
-[![Panda熊猫VPN](https://www.safewebcn.com/img/panda-min.png)](#panda熊猫vpn)
-
-`最近使用：2021年2月，确认可用，速度和连接成功率都很一般，中规中矩。`
-
->华人开发的VPN，类SSR，今年翻墙软件中的小黑马，但问题是最近开始出现客服回复慢等问题。
-
-熊猫VPN由中文团队开发，所以中文支持很好，运营的时间并不长，是中国VPN市场的后期之秀，支持Windows，Mac，iOS，Android。熊猫VPN有国内可直接访问的<a rel="nofollow noopener" href="https://linkv.org/panda/" target="_blank"> 镜像网站</a>，购买后也可直接从那里下载客户端，无需访问应用商店。
-
-[![panda熊猫vpn](https://www.safewebcn.com/img/Snag_963aad-min.png)](#panda熊猫vpn)
-
-### PandaVPN怎么样？
-
-我买了2年套餐，在安卓手机和Windows电脑上使用了一段时间，相对这个价格来说，体验中规中矩，我随机测了香港和美国的几个节点，少部分节点连不上，大部分节点都能连接成功，然后我上Youtube，视频的速度也还不错。使用的协议感觉像是socks5代理，应该不是传统的OpenVPN、IKEV2或L2TP的VPN协议，安全性不如这些传统的VPN协议。
-
-在中国使用熊猫VPN翻墙软件，WIndows系统：
-
-[![熊猫VPN客户端](https://www.safewebcn.com/img/在中国使用熊猫VPN翻墙软件-min.jpg)](#panda熊猫vpn)
-
-根据我个人的使用体验，PandaVPN在一般时候穿墙能力还比较强，但这还不能说明它的技术好，也可能是它比较新的缘故，不知道用户量大了服务器还能不能抗。这个VPN底层很可能不是VPN技术，我的猜测，很可能是SSR类似的技术，因为连接建立连接的速度比较快，而且客户端里提供全局代理或分应用代理的区别，让人浮想联翩，我无法确定熊猫VPN到底是VPN还是SSR那样的代理类翻墙软件，所以暂时把它算作VPN推荐吧。
-
-[![熊猫VPN代理配置](https://www.safewebcn.com/img/熊猫VPN代理配置-min.jpg)](#panda熊猫vpn)
-
-熊猫VPN创办时间不长，我使用也不到半年，虽然总体体验不错，但是**长期的可用性我还不清楚，客服不如其他家，建议先买一个月，觉得不错再续费使用也可以。**
-
-PandaVPN有分应用代理功能，制定哪些APP走VPN代理流量，哪些APP不走VPN，用本地网络流量。
-
-熊猫VPN支持支付宝，微信等付款方式，目前还有年付的优惠，**7天无理由退款，（但据网友反映最近客服反应慢等问题，介意的小伙伴慎选）**
-
-- 安全加密协议
-
-不管再任何公共场合访问网络，都会受到256位银行级的加密的保护，保证个人隐私不被窥探。
-
-**支持设备**：同样支持Windows，Mac，iOS，Android这些常见客户端，**最多支持3台设备同时在线使用**。
-
-- 技术支持
-
-在使用过程中遇到任何问题，都可以联系售后人员解决。
-
-- 7天退款保证
-
-虽然不像ExpressVPN和Pure的一个月的退款时限，但是如果有问题的话，基本上使用7天内就能发现了，但这家用户反映最近**退款变难、客服回复慢等问题，想入手的建议只买一个月试试**。
-
-付款方式主要包含支付宝、Visa信用卡、PayPal等和7天退款政策。
-
-### PandaVPN的缺陷
-
-相比ExpressVPN，还不支持Linux和路由器，也不支持游戏机等设备，还有就是运营时间不长，还需要时间来观察它到底如何，**建议先买一个月试用再决定是否续费**。服务本身目前来看尚可，但也有人反映客服还不够及时。
-
-**万一PandaVPN不适你的网络如何退款？**
-
-7天退款保障，但申请退款需要说明理由。如果你发现它在你的设备和网络环境下不能用，可以用下列方式联系客服，一般客服会协助你解决问题，如果确实为软件问题造成无法使用，会退款：
-
-1. 打开<a rel="nofollow noopener" href="https://linkv.org/panda/" target="_blank">镜像网站</a>，等待网页加载完毕，你会看到右下角的在线客服，点击弹出，就可以联系到客服。
-
-2. 写邮件给 panda7x24@gmail.com，虽然邮箱名暗示24/7客服，但个人经验，他们回复邮件的时间在1-2个工作日。
-
->PandaVPN客服支持中文，所以你可以直接用中文表达退款请求。
-
-
 ## <a rel="nofollow noopener" href="https://linkv.org/ivacy" target="_blank">IVacy</a>
 
 [![IVacy](https://www.safewebcn.com/img/ivacy-logo.png)](#ivacy)
@@ -719,6 +658,62 @@ IVacy不限制同时在线的设备数量，这算是一个独树一帜的特点
 - 7*24小时技术支持
 
 在使用过程中如果遇到问题，可以在任意时刻联系他们的客户服务团队。
+
+## <a rel="nofollow noopener" href="https://linkv.org/panda/" target="_blank">PandaVPN</a>
+
+[![Panda熊猫VPN](https://www.safewebcn.com/img/panda-min.png)](#panda熊猫vpn)
+
+`最近使用：2021年2月，速度和连接成功率都很一般，中规中矩。`
+
+>创办时间不长的国产VPN，协议类似SSR，安全性一般，长期套餐有风险，谨慎选择。
+
+熊猫VPN由中文团队开发，所以中文支持很好，运营的时间并不长，是中国VPN市场的后期之秀，支持Windows，Mac，iOS，Android。熊猫VPN有国内可直接访问的<a rel="nofollow noopener" href="https://linkv.org/panda/" target="_blank"> 镜像网站</a>（有时会被封），购买后也可直接从那里下载客户端，无需访问应用商店。
+
+[![panda熊猫vpn](https://www.safewebcn.com/img/Snag_963aad-min.png)](#panda熊猫vpn)
+
+### PandaVPN怎么样？
+
+我买了2年套餐，在安卓手机和Windows电脑上使用了一段时间，相对这个价格来说，体验中规中矩，我随机测了香港和美国的几个节点，然后我上Youtube，视频的速度也还凑合。使用的协议感觉像是socks5代理，应该不是传统的OpenVPN、IKEV2或L2TP的VPN协议，安全性不如这些传统的VPN协议。
+
+在中国使用熊猫VPN翻墙软件，WIndows系统：
+
+[![熊猫VPN客户端](https://www.safewebcn.com/img/在中国使用熊猫VPN翻墙软件-min.jpg)](#panda熊猫vpn)
+
+根据我个人的使用体验，PandaVPN在一般时候穿墙能力还比较强，但这还不能说明它的技术好，也可能是它线路比较新的缘故，不知道用户量大了服务器还能不能抗。这个VPN底层很可能不是VPN技术，我的猜测，很可能是SSR类似的技术，因为连接建立连接的速度比较快，而且客户端里提供全局代理或分应用代理的区别，让人浮想联翩，我无法确定熊猫VPN到底是VPN还是SSR那样的代理类翻墙软件，所以暂时把它算作VPN吧。
+
+[![熊猫VPN代理配置](https://www.safewebcn.com/img/熊猫VPN代理配置-min.jpg)](#panda熊猫vpn)
+
+熊猫VPN创办时间不长，我使用也不到半年，虽然能连能用，但是**长期的可用性我还不清楚，客服不如其他家，建议先买一个月，觉得不错再续费使用也可以。**
+
+PandaVPN有分应用代理功能，制定哪些APP走VPN代理流量，哪些APP不走VPN，用本地网络流量。
+
+熊猫VPN支持支付宝等付款方式，目前还有年付的优惠，**7天无理由退款，（但据网友反映最近客服反应慢等问题，介意的小伙伴慎选）**
+
+**支持设备**：同样支持Windows，Mac，iOS，Android这些常见客户端，**最多支持3台设备同时在线使用**。
+
+- 技术支持
+
+在使用过程中遇到任何问题，都可以联系售后人员解决。
+
+- 7天退款保证
+
+虽然不像ExpressVPN和Pure的一个月的退款时限，但是如果有问题的话，基本上使用7天内就能发现了，但这家用户反映最近**退款变难、客服回复慢等问题，想入手的建议只买一个月试试**。
+
+付款方式主要包含支付宝、Visa信用卡、PayPal等和7天退款政策。
+
+### PandaVPN的缺陷
+
+相比ExpressVPN，还不支持Linux和路由器，也不支持游戏机等设备，还有就是运营时间不长，还需要时间来观察它到底如何，如果确实要用，**建议先买一个月试用再决定是否续费**。服务本身目前来看尚可，但也有人反映客服还不够及时。
+
+**万一PandaVPN不适你的网络如何退款？**
+
+7天退款保障，但申请退款需要说明理由。如果你发现它在你的设备和网络环境下不能用，可以用下列方式联系客服，一般客服会协助你解决问题，如果确实为软件问题造成无法使用，会退款：
+
+1. 打开<a rel="nofollow noopener" href="https://linkv.org/panda/" target="_blank">镜像网站</a>，等待网页加载完毕，你会看到右下角的在线客服，点击弹出，就可以联系到客服。
+
+2. 写邮件给 panda7x24@gmail.com，虽然邮箱名暗示24/7客服，但个人经验，他们回复邮件的时间在1-2个工作日。
+
+>PandaVPN客服支持中文，所以你可以直接用中文表达退款请求。
 
 
 ## <a rel="nofollow noopener" href="https://linkv.org/lightyear/" target="_blank">LightYear光年VPN</a>
@@ -793,7 +788,6 @@ IVacy不限制同时在线的设备数量，这算是一个独树一帜的特点
 
 <a rel="nofollow noopener" href="https://linkv.org/lightyear/" target="_blank">光年VPN</a>可以提供一天的免费试用时长，如果购买之后不满意，在七天之内可以找客服申请退款。
 
-### <center><a rel="nofollow noopener" href="https://linkv.org/lightyear/" target="_blank">>> 光年VPN额外优惠活动 <<</a></center>
 
 --------------------------------------------------------------------------------------------------------------
 
