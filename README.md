@@ -49,8 +49,8 @@
 >>#### 8.1 [ExpressVPN-使用体验最佳](#expressvpn-使用体验最佳)
 >>#### 8.2 [StrongVPN-性价比最好](#strongvpn--性价比最佳)
 >>#### 8.3 [NordVPN-表现一般](#nordvpn)
->>#### 8.4 [PandaVPN-表现一般](#pandavpn)
->>#### 8.5 [IVacy-不推荐](#ivacy)
+>>#### 8.4 [IVacy-不推荐](#ivacy)
+>>#### 8.5 [PandaVPN-表现一般](#pandavpn)
 >>#### 8.6 [光年VPN-不推荐](#lightyear光年vpn)
 >
 >### 9.[中国VPN问答](#中国vpn问答)
