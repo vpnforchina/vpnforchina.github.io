@@ -1,10 +1,10 @@
 # 翻墙软件与科学上网，好用的VPN推荐2021版
 
-最后修改于： `2021年8月3日`
+最后修改于： `2021年9月6日`
 
 ## 翻墙软件现状
 
->**2021年8月更新信息**：目前**PureVPN、VyprVPN、Ivacy、Surfshark**在国内都基本上已经失效；Lantern蓝灯VPN经常出现连接失败的问题，且安全性存疑；NordVPN除了安卓手机能直连其他设备只能手动配置连接，要找客服获取中国专用客户端；**光年VPN跑路**，已经有超过一个月连接不上、客服无人应答，选择时请注意避坑。
+>**2021年9月更新信息**：目前**PureVPN、VyprVPN、Ivacy、Surfshark**在国内都基本上已经失效；Lantern蓝灯VPN经常出现连接失败的问题，且安全性存疑；NordVPN除了安卓手机能直连其他设备只能手动配置连接，要找客服获取中国专用客户端；**光年VPN跑路**，已经有超过一个月连接不上、客服无人应答，选择时请注意避坑。
 >
 >另外，**如果某VPN品牌创立时间不超过3年，建议大家谨慎选择，尤其是国产的翻墙软件，真的是说跑路就跑路，最近几年见过太多，因为这个圈子的混乱和政策法律的原因，跑路换个马甲继续挣钱更容易、风险也更小**。
 
@@ -249,7 +249,7 @@ iVacy和PureVPN一样，是同一家，共用服务器，在国内表现也差�
 
 [![ExpressVPN](https://www.safewebcn.com/img/express-logo-2021.png)](https://www.fastvpncn.com/expressvpn)
 
-`最近使用：2021年8月使用，确认可用。ExpressVPN国内的使用体验在我所测试的VPN产品中最好，尤其是iOS系统的使用体验相对其他VPN产品要好。`
+`最近使用：2021年9月使用，确认可用。ExpressVPN国内的使用体验在我所测试的VPN产品中最好，尤其是iOS系统的使用体验相对其他VPN产品要好。`
 
 应该说，这是中国目前最好用的VPN，我用了5年，虽然特殊时期也碰到问题，但一年中超过95%的时间里使用都很流畅。ExpressVPN已经为中国网民服务了12年。 这是目前唯一一个任何人想都不用想就可以买的VPN，速度相比其他VPN软件有优势，服务器针对中国大陆进行优化，网速快，顶级隐私保护技术，还有最重要的，客户端最好用，设备支持它最全。目前暂停支付宝付款、可以使用银联卡、Paypal和信用卡进行购买使用。
 
@@ -261,13 +261,13 @@ iVacy和PureVPN一样，是同一家，共用服务器，在国内表现也差�
     Singapore–Marina Bay
     Japan–Yokohama
     USA–Los Angeles–5
-    USA–Los Angeles–4
     France-Strasbourg
+    UK - Wembley
     USA–Santa Monica
     Canada - Toronto - 2
     Germany - Nuremberg
 
-除了上面那些优化过的服务器线路，**中国用户也可以改为`L2TP – IPsec`协议使用其它的服务器线路**，在敏感时期网络封锁升级，你会发现，虽然官方的推荐节点连不上了，这些`L2TP – IPsec`协议的一些节点还是可以用的，但是其他那些服务器没有经过混淆算法优化，速度可能会不如官方推荐的服务器线路，可以作为敏感时期的备用节点。
+除了上面那些优化过的服务器线路，**中国用户也可以改为`L2TP – IPsec`协议使用其它的服务器线路**(电脑端)，在敏感时期网络封锁升级，你会发现，虽然官方的推荐节点连不上了，这些`L2TP – IPsec`协议的一些节点还是可以用的，但是其他那些服务器没有经过线路优化，速度可能会不如官方推荐的服务器线路，可以作为敏感时期的备用节点。
 
 #### 为什么ExpressVPN是最好用的中国VPN翻墙软件？
 
@@ -305,13 +305,13 @@ ExpressVPN在每台服务器上运行自己的私有加密DNS服务器，一旦�
 
 Los Angeles-5节点测速：
 
-[![expressvpn速度测试](https://www.safewebcn.com/img/ExpressVPN-speedtest-LA5-2021.png)](#expressvpn速度测试)
+[![expressvpn速度测试](https://www.safewebcn.com/img/ExpressVPN-speedtest-LA5-2021-08-min.png)](#expressvpn速度测试)
 
 连接上Los Angeles – 5节点后，打开Speedtest网站进行在线测速，从上面的截图可以看到，ping值是196ms，美国的服务器这个数值还不错，下载速率是56.96Mb/s，上传速率是16.53Mb/s，这个速度应该说能胜过市面上99%的VPN产品了，在观看Youtube高清视频时不会存在卡顿。
 
 Sigapore-Marina Bay节点测速：
 
-[![expressvpn速度测试](https://www.safewebcn.com/img/expressvpn-sigapore.png-2021.png)](#expressvpn速度测试)
+[![expressvpn速度测试](https://www.safewebcn.com/img/expressvpn-sigapore-2021-8-min.png)](#expressvpn速度测试)
 
 连接Singapore – Marina Bay节点的下载速度测试值为42.14Mb/s，也很不错。顺便说一下，这两个节点是我目前最常用的两个，因为ExpressVPN的美国Los Angeles – 4/5节点和Singapore – Marina Bay节点在电信网络下比Hongkong和Tokyo的节点稍快一些，但是测试只是测试，只能作为参考，因为使用的实际感受会因网络环境、时间、操作系统的变化而发生一些变化，你可以根据自己的网络环境进行尝试，选择速度快的节点作为常用节点。
 
@@ -323,7 +323,7 @@ iPhone手机使用WiFi网络连接ExpressVPN的Marina Bay节点界面如下图�
 
 使用移动4G网络连接Marina Bay节点进行测速：
 
-[![iPhone ExpressVPN节点测速](https://www.safewebcn.com/img/expressvpn-iphone-speedtest-2-16-min.png)](#expressvpn速度测试)
+[![iPhone ExpressVPN节点测速](https://www.safewebcn.com/img/expressvpn-iphone-speedtest-7-28-min.png)](#expressvpn速度测试)
 
 从上面的测试可以看到，iPhone手机在移动4G网络下连接Marina Bay节点，速度挺快，能跑满我这里的移动4G网络的实际带宽，实际使用体验也在我所现在使用的翻墙软件中属于最好的。
 
@@ -395,7 +395,7 @@ ExpressVPN提供自购买日起`30天内无理由退款`，如果你发现它在
 
 [![StrongVPN](https://www.safewebcn.com/img/strong-logo.png)](#strongvpn--性价比最佳)
 
->2021年8月使用，确认可用，可用节点较多，有些节点网络速度还不错，有些节点网络速度一般，要自己测试。性价比最佳，有优惠码可使用。国内Windows、Mac和Android设备用户建议去官网右下角在线聊天框（或者在用户后台页面发ticket信），找客服要特供的精简版本V1 app（就说在中国使用客服会帮你设置账户）。在国内使用OpenVPN（TCP）协议连接成功率一直很高（在敏感时期相对官方标准版本App更加稳定），官方标准版本客户端可能会出现登录或连接问题，需要等待版本或线路更新才能恢复，特供的精简版本客户端没这些问题。只有iPhone版本的App直连现在还未恢复，目前只能咨询客服手动配置，iPhone还是建议选择[ExpressVPN](#expressvpn-使用体验最佳)，长期使用体验最好。
+>2021年9月使用，确认可用，可用节点较多，有些节点网络速度还不错，有些节点网络速度一般，要自己测试。性价比最佳，有优惠码可使用。国内Windows、Mac和Android设备用户建议去官网右下角在线聊天框（或者在用户后台页面发ticket信），找客服要特供的精简版本V1 app（就说在中国使用客服会帮你设置账户）。在国内使用OpenVPN（TCP）协议连接成功率一直很高（在敏感时期相对官方标准版本App更加稳定），官方标准版本客户端可能会出现登录或连接问题，需要等待版本或线路更新才能恢复，特供的精简版本客户端没这些问题。只有iPhone版本的App直连现在还未恢复，目前只能咨询客服手动配置，iPhone还是建议选择[ExpressVPN](#expressvpn-使用体验最佳)，长期使用体验最好。
 
 StrongVPN成立于2005年，是一家美国的老牌VPN服务商，属于J2 Global集团NetProtect产品的品牌，这是一家在纳斯达克上市的公司，专注于通信信息技术、云服务等业务，技术实力挺雄厚，在35个国家的59个城市有950+的VPN服务器，拥有近60000个IP地址资源。
 
@@ -409,7 +409,7 @@ StrongVPN成立于2005年，是一家美国的老牌VPN服务商，属于J2 Glob
 
 改电脑Host文件方法很简单，国内Windows/Mac用户可以直接下载hosts文件解锁VPN官网，手机用户建议在电脑上打开本页面操作，因为手机由于系统版本原因改host操作较麻烦，下面是操作步骤：
 
-1.下载hosts文件： <a rel="nofollow noopener" href="http://linkv.org/download/hosts" target="_blank"> 下载地址</a>(右键打开)
+1.下载hosts文件： <a rel="nofollow noopener" href="http://linkv.org/download/hosts" target="_blank"> 下载地址</a>(右键另存为)
 
 2.Windows用户将下载的hosts文件移动到文件夹 `C:\Windows\System32\drivers\etc` （Mac的文件夹是 `/etc/hosts`），建议备份系统自带的原始hosts文件。如果本地hosts文件之前自己修改过，用记事本打开下载的hosts文件，把里面的信息全部复制到原来的hosts文件中保存就行了。
 
@@ -431,17 +431,11 @@ StrongVPN成立于2005年，是一家美国的老牌VPN服务商，属于J2 Glob
 
 1.进入<a rel="nofollow noopener" href="https://linkv.org/strongcn/" target="_blank">StrongVPN官网</a>（右键打开），然后点击“Join Now”按钮，进入选择套餐页面：
 
-[![Strong-device](https://www.safewebcn.com/img/strongvpn-plan-price-min.png)](#如何获取strongvpn)
+[![Strong-device](https://www.safewebcn.com/img/StrongVPN-price-table-min.png)](#如何获取strongvpn)
 
-付款方式支持支付宝Alipay、银联卡、信用卡和Paypal等，**目前有特价活动可以优惠20%，优惠码是`TAKEOFF20`**。
+付款方式支持支付宝Alipay、信用卡和Paypal等，**目前有特价活动可以优惠20%，优惠码是`TAKEOFF20`**（单月套餐也能用），进入官网的页面最下方，在“Interact”栏点击“Coupons“也能看到，不过如果实时活动的价格折扣大于这个优惠折扣，系统默认以最大折扣的活动价为准。
 
-输入Email注册，付款之后系统会自动分配初始登录密码，发送到注册的Email邮箱。
-
-[![Strong优惠码](https://www.safewebcn.com/img/strongvpn-alipay-payment-min.png)](#如何获取strongvpn)
-
-在“Have a coupon”处（如上图）点击并输入优惠码`TAKEOFF20`之后的结算页面：
-
-[![Strong优惠码](https://www.safewebcn.com/img/strongvpn-plan-coupon-price-min.png)](#如何获取strongvpn)
+然后输入Email注册，付款之后系统会自动分配初始登录密码，发送到注册的Email邮箱。
 
 在支付之后，查看邮箱收到的初始登录密码，<a rel="nofollow noopener" href="https://linkv.org/strongcn/" target="_blank">进入StrongVPN官网</a>登陆账号，客户端的选择建议联系在线客服获取中国地区适用的精简特别版（方法和步骤在下文），安装完成之后就可以使用了。
 
@@ -469,7 +463,7 @@ StrongVPN成立于2005年，是一家美国的老牌VPN服务商，属于J2 Glob
 
 登录进官网用户后台界面后，可以看到“StrongVPN Clients”下载通用版客户端APP，但这个版本在国内使用有时候会出现连接问题，建议使用中国地区适用的精简版客户端。
 
->**中国Windows用户建议<a rel="nofollow noopener" href="https://mirror2.reliablehosting.com/win/StrongVPN_Win-latest.exe" target="_blank">下载StrongVPN精简版V1 app</a>（<a rel="nofollow noopener" href="https://www.safewebcn.com/download/strongwin-1.65.exe" target="_blank">备用下载地址</a>）**，这是找官网技术客服推荐给我的，因为标准版的Windows APP首次使用账号登录困难，精简版的更适合在中国使用。安装精简版之前，最好把官网的标准版先装上，因为有读者反映Win10直接安装专用版出现问题，缺少组件，安装标准版之后解决。可以查看官网中有关程序安装所需组件的文章，<a rel="nofollow noopener" href="https://linkv.org/strongcn/" target="_blank">进入Strong官网</a>，点击右上角help，然后在搜素框搜索“.NET Framework”的文章。
+>**中国Windows、Mac电脑和安卓手机用户用户建议联系官网右下角的在线客服下载StrongVPN精简版V1 app</a>（<a rel="nofollow noopener" href="https://www.safewebcn.com/download/strongwin-1.65.exe" target="_blank">Windows版本备用下载地址</a>）**，直接说在中国使用客服会帮你设置特供精简版客户端的登录权限，并给你最新版本的下载链接。这个版本是我找官网技术客服推荐给我的，因为官网直接下载安装的标准版Windows APP目前登录和连接有问题，精简版的更适合在中国使用，这也是Strong官方为了尽量避免被墙采取的备用措施。安装精简版之前，最好把官网的标准版先装上，因为有读者反映Win10直接安装专用版出现问题，缺少组件，安装标准版之后解决。可以查看官网中有关程序安装所需组件的文章，<a rel="nofollow noopener" href="https://linkv.org/strongcn/" target="_blank">进入Strong官网</a>，点击右上角help，然后在搜素框搜索“.NET Framework”的文章。
 >
 >**重要提示：有部分用户反映购买StrongVPN后，在精简版V1 App中无法选择OpenVPN协议或是登陆出现问题**，我就这个问题咨询了客服，需要在网站的用户后台点击“Support Tickets”，然后点击“Submit new ticket”，提交开通legacy OpenVPN account，一般很快就会开通；或者在官网右下角联系在线技术客服"Technical Support"，说明开通OpenVPN account就行了。下图是本文读者反馈使用StrongVPN的一些经验（感谢这位读者的反馈^-^），如果使用过程中出现问题可以参考：
 
@@ -481,10 +475,6 @@ StrongVPN成立于2005年，是一家美国的老牌VPN服务商，属于J2 Glob
 >“Could you help me open my access to legacy OpenVPN account?”
 >
 >如果仍然存在登录问题，需要找客服询问原因，有时是因为电脑的DNS设置的问题。
-
-另外，**和Windows系统一样，Mac和安卓用户也可以找客服获取精简版客户端V1 app**，在敏感时期连接成功率很高，官网的标准版客户端遇到防火长城升级可能会存在连接问题，要等版本更新。
-
-Mac精简版V1 app<a rel="nofollow noopener" href="https://mirror2.reliablehosting.com/mac/StrongVPN_mac-latest.zip" target="_blank">下载地址</a>（<a rel="nofollow noopener" href="https://www.safewebcn.com/download/Strong_mac-latest.zip" target="_blank">备用下载地址</a>）
 
 由于iOS系统的原因，iPhone版本的VPN客户端没有特供的备用APP，敏感时期可能会有封锁，需要去官网联系在线客服（或进入官网点击Help，然后点击“Email Support”发邮件）获取备用服务器地址，进行手动配置连接。不过iPhone用户最好是使用<a rel="nofollow noopener" href="https://linkv.org/express/" target="_blank">ExpressVPN</a>，在iOS系统里面长期稳定性比其他VPN都要好。
 
@@ -502,11 +492,11 @@ Mac精简版V1 app<a rel="nofollow noopener" href="https://mirror2.reliablehosti
 
 日本东京节点测速：
 
-[![Strong客户端精简版](https://www.safewebcn.com/img/StrongVPN-speedtest-tokyo-2021-2.png)](#strong速度测试)
+[![Strong客户端精简版](https://www.safewebcn.com/img/StrongVPN-speedtest-tokyo-2021-08-min.png)](#strong速度测试)
 
 韩国首尔节点测速：
 
-[![Strong客户端精简版](https://www.safewebcn.com/img/strong-seoul-speedtest-2021-2.png)](#strong速度测试)
+[![Strong客户端精简版](https://www.safewebcn.com/img/strong-seoul-speedtest-2021-08-min.png)](#strong速度测试)
 
 这是最近我使用StrongVPN时的测试结果，上面的速度测试截图可以看到，连接Tokyo的节点，ping值89ms，下载速度为10Mbps，上行速度为21.55Mbps；Seoul节点ping值67ms，下载速度为28.03Mbps，上行速度为22.09Mbps。浏览网页、看视频够用，但看清晰度为4K及以上的视频会有点吃力，这点不如[ExpressVPN](#expressvpn-使用体验最佳)。StrongVPN速度较快的节点选择可以查看：[线路选择提示](#strong线路选择提示)。
 
