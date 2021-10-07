@@ -1,16 +1,18 @@
-# 翻墙软件与科学上网，好用的VPN推荐2021版
+# 翻墙软件与科学上网，好用的VPN推荐（2021年10月最新）
 
-最后修改于： `2021年9月6日`
+最后修改于： `2021年10月6日`
 
 ## 翻墙软件现状
 
->**2021年9月更新信息**：目前**PureVPN、VyprVPN、Ivacy、Surfshark**在国内都基本上已经失效；Lantern蓝灯VPN经常出现连接失败的问题，且安全性存疑；NordVPN除了安卓手机能直连其他设备只能手动配置连接，要找客服获取中国专用客户端；**光年VPN跑路**，已经有超过一个月连接不上、客服无人应答，选择时请注意避坑。
+>**2021年9-10月更新信息**：目前**PureVPN、VyprVPN、Ivacy、Surfshark**在国内都基本上已经失效；Lantern蓝灯VPN经常出现连接失败的问题，且安全性存疑；NordVPN除了安卓手机能直连其他设备只能手动配置连接，要找客服获取中国专用客户端；**光年VPN跑路**，已经有超过一个月连接不上、客服无人应答，选择时请注意避坑。
 >
->另外，**如果某VPN品牌创立时间不超过3年，建议大家谨慎选择，尤其是国产的翻墙软件，真的是说跑路就跑路，最近几年见过太多，因为这个圈子的混乱和政策法律的原因，跑路换个马甲继续挣钱更容易、风险也更小**。
+>目前，**在中国能长期稳定、好用的大牌VPN只有ExpressVPN和StrongVPN**，ExpressVPN速度最快，全平台App一键连接，在封锁期能快速更新、恢复节点的连接；StrongVPN便宜，性价比高，能连的节点也较多，使用时建议使用精简特供版客户端，后文有使用方法。
+>
+>另外，**如果某VPN品牌创立时间不超过3年，建议大家谨慎选择，尤其是国产的翻墙软件，真的是说跑路就跑路，最近几年见过太多，因为这个圈子的混乱和政策法律的原因，跑路换个马甲继续挣钱更容易、风险也更小。与之比较，国外的大牌VPN一般就没有这方面的问题，近几年来有被收购的，没听说哪家国外大牌VPN跑路的，但是能不能在中国使用还是要仔细选择**。
 
 现在市场上的翻墙软件多如牛毛，但找到一个好用省心的却不容易。如果你经常关注相关的信息，找到几十款科学上网App一点也不夸张，各个宣传也是八仙过海，各显神通，但大多数科学上网软件在国内根本无法使用，千万别以为找到中国能用的翻墙软件很容易，事实上要亲自一款一款去尝试也比较繁琐，能在中国大陆安全且稳定使用的翻墙工具凤毛麟角。为什么会这样？我们当然知道这是因为墙很高，一年比一年高，这是事实。但到底是为什么如此饱和的翻墙软件VPN市场，也难找到几款中国能用的产品？
 
-**建议收藏本文，以获取最新的科学上网方法和翻墙过程中出现连接故障的解决办法。**本文是中国安全翻墙指南的**详细版**，主要介绍翻墙软件、科学上网和网络安全的问题。如果只想快速选个科学上网软件来安全翻墙，请直接看下方目录导航。
+建议收藏本文，以获取最新的科学上网方法和翻墙过程中出现连接故障的解决办法。**本文是中国安全翻墙指南的详细版**，主要介绍翻墙软件、科学上网和网络安全的问题。如果只想快速选个科学上网软件来安全翻墙，请直接看下方目录导航。
 
 - 对于大多数人来说，**使用正规VPN安全翻墙是第一选择**，没有麻烦的配置步骤，直接安装就能用，而且对于隐私数据的保护比其他翻墙方法严格得多，正规的VPN依然是最适合国人的主流、安全的科学上网工具，同样也是我长期关注和使用的。
 - 如果你是技术小白、重视翻墙的信息安全，请依次往下看，尤其是关于翻墙的安全问题，这个问题日趋严重，但却很少有人关注。
@@ -249,7 +251,7 @@ iVacy和PureVPN一样，是同一家，共用服务器，在国内表现也差�
 
 [![ExpressVPN](https://www.safewebcn.com/img/express-logo-2021.png)](https://www.fastvpncn.com/expressvpn)
 
-`最近使用：2021年9月使用，确认可用。ExpressVPN国内的使用体验在我所测试的VPN产品中最好，尤其是iOS系统的使用体验相对其他VPN产品要好。`
+`最近使用：2021年10月使用，确认可用。ExpressVPN国内的使用体验在我所测试的VPN产品中最好，尤其是iOS系统的使用体验相对其他VPN产品要好，iPhone首选VPN。`
 
 应该说，这是中国目前最好用的VPN，我用了5年，虽然特殊时期也碰到问题，但一年中超过95%的时间里使用都很流畅。ExpressVPN已经为中国网民服务了12年。 这是目前唯一一个任何人想都不用想就可以买的VPN，速度相比其他VPN软件有优势，服务器针对中国大陆进行优化，网速快，顶级隐私保护技术，还有最重要的，客户端最好用，设备支持它最全。目前暂停支付宝付款、可以使用银联卡、Paypal和信用卡进行购买使用。
 
@@ -257,17 +259,17 @@ iVacy和PureVPN一样，是同一家，共用服务器，在国内表现也差�
 
 在我用的几年时间里，每年不能用的时间总共加起来大致在1-2个星期左右（即所谓“敏感时期”），会有几天时间出现频繁短线或者网速变得非常慢。根据我的使用体验估计ExpressVPN全年正常可用率在95%左右。在中国大陆使用ExpressVPN，建议选择连接官方推荐的VPN服务器线路，这些服务器线路是ExpressVPN官方针对中国地区做过的混淆服务器优化，推荐中国用户使用：
 
-    Hong Kong–4
     Singapore–Marina Bay
     Japan–Yokohama
     USA–Los Angeles–5
-    France-Strasbourg
     UK - Wembley
     USA–Santa Monica
+    France-Strasbourg
+    France - Alsace
     Canada - Toronto - 2
     Germany - Nuremberg
 
-除了上面那些优化过的服务器线路，**中国用户也可以改为`L2TP – IPsec`协议使用其它的服务器线路**(电脑端)，在敏感时期网络封锁升级，你会发现，虽然官方的推荐节点连不上了，这些`L2TP – IPsec`协议的一些节点还是可以用的，但是其他那些服务器没有经过线路优化，速度可能会不如官方推荐的服务器线路，可以作为敏感时期的备用节点。
+除了上面那些优化过的服务器线路，**中国用户也可以改为`L2TP – IPsec`协议(电脑端)和IKEV-2协议使用其它的服务器线路**，在敏感时期网络封锁升级，你会发现，虽然官方的推荐节点连不上了，其他总有一些节点还是可以连的，但是其他那些服务器没有经过线路优化，速度可能会不如官方推荐的服务器线路，可以作为敏感时期的备用节点。
 
 #### 为什么ExpressVPN是最好用的中国VPN翻墙软件？
 
@@ -341,7 +343,7 @@ iPhone手机使用WiFi网络连接ExpressVPN的Marina Bay节点界面如下图�
 
 [![购买expressvpn](https://www.safewebcn.com/img/expressvpn-优惠套餐-min.png)](https://www.fastvpncn.com/expressvpn)
 
-购买ExpressVPN， 支持Paypal和银联、Visa信用卡等方式付款，**无论你买什么套餐，30天内都可以无条件退款**。**首次购买一年送3个月**，是厂商限时推的活动，如果不放心，可以先买一个月（$12.95）用用看，好用后再续费，不过这时候应该就没有送3个月了，除非再通过上面的链接进入注册新帐号，当然换浏览器或清cookie啥的是基本的，不用多说吧。
+购买ExpressVPN， 支持Paypal和银联、Visa信用卡等方式付款，**无论你买什么套餐，30天内都可以无条件退款**。**首次购买一年送3个月**，是厂商限时推的活动，如果不放心，可以先买一个月（$12.95）用用看，好用后再续费，不过这时候应该就没有送3个月了，可以通过上面的优惠链接进入注册新帐号，当然使用新Email、换浏览器或清cookie啥的是基本的，不用多说吧。
 
 **第三步：登录帐号，下载安装客户端**
 
@@ -363,20 +365,20 @@ ExpressVPN支持的设备：Windows，Mac，iPhone/iPad/iPod，Android，Google 
 
 [![Expressvpn客户端](https://www.safewebcn.com/img/express-vpn-servers-min.png)](#如何获取expressvpn)
 
-香港、日本、美西LA节点是我最常连的服务器，速度很不错。在中国大陆使用ExpressVPN，建议选择连接官方推荐的VPN服务器线路，这些服务器线路是ExpressVPN官方针对中国地区做过的混淆服务器优化，推荐中国用户使用：
+新加坡、日本、美西LA节点是我最常连的服务器，速度很不错。在中国大陆使用ExpressVPN，建议选择连接官方推荐的VPN服务器线路，这些服务器线路是ExpressVPN官方针对中国地区做过的混淆服务器优化，推荐中国用户使用：
 
 - USA–Los Angeles–5
 - Singapore–Marina Bay
-- Hong Kong–4
 - Japan–Yokohama
+- UK - Wembley
+- USA–Santa Monica
+- France - Alsace
 - France-Strasbourg
 - Canada - Toronto - 2
 - Germany - Nuremberg
-- UK - Wembley
-- USA–Santa Monica/HollyWood（不是官方推荐经常也能连接）
 - ...
 
-在“敏感时期”如果出现连不上的情况，也可以改为“L2TP – IPsec”协议使用其它的服务器线路，但是其他那些服务器没有经过混淆算法优化，速度可能会不如官方推荐的服务器线路，可以作为敏感时期的备用节点。
+在“敏感时期”如果出现连不上的情况，也可以改为“L2TP – IPsec”协议和IKEV-2协议使用其它的服务器线路，但是其他那些服务器没有经过混淆算法优化，速度可能会不如官方推荐的服务器线路，可以作为敏感时期的备用节点。
 
 ### <center><a rel="nofollow noopener" href="https://www.fastvpncn.com/expressvpn" target="_blank">>> 获取ExpressVPN优惠 <<</a></center>
 
@@ -395,7 +397,7 @@ ExpressVPN提供自购买日起`30天内无理由退款`，如果你发现它在
 
 [![StrongVPN](https://www.safewebcn.com/img/strong-logo.png)](#strongvpn--性价比最佳)
 
->2021年9月使用，确认可用，可用节点较多，有些节点网络速度还不错，有些节点网络速度一般，要自己测试。性价比最佳，有优惠码可使用。国内Windows、Mac和Android设备用户建议去官网右下角在线聊天框（或者在用户后台页面发ticket信），找客服要特供的精简版本V1 app（就说在中国使用客服会帮你设置账户）。在国内使用OpenVPN（TCP）协议连接成功率一直很高（在敏感时期相对官方标准版本App更加稳定），官方标准版本客户端可能会出现登录或连接问题，需要等待版本或线路更新才能恢复，特供的精简版本客户端没这些问题。只有iPhone版本的App直连现在还未恢复，目前只能咨询客服手动配置，iPhone还是建议选择[ExpressVPN](#expressvpn-使用体验最佳)，长期使用体验最好。
+>2021年10月使用，确认可用，可用节点较多，有些节点网络速度还不错，有些节点网络速度一般，要自己测试。性价比最佳，目前官网有优惠活动。国内Windows、Mac和Android设备用户建议去官网右下角在线聊天框（或者在用户后台页面发ticket信），找客服要特供的精简版本V1 app（就说在中国使用客服会帮你设置账户）。在国内使用OpenVPN（TCP）协议连接成功率一直很高（在敏感时期相对官方标准版本App更加稳定），官方标准版本客户端可能会出现登录或连接问题，需要等待版本或线路更新才能恢复，特供的精简版本客户端没这些问题。只有iPhone版本的App直连现在还未恢复，目前只能咨询客服手动配置翻墙，iPhone还是建议选择[ExpressVPN](#expressvpn-使用体验最佳)，长期使用体验最好。
 
 StrongVPN成立于2005年，是一家美国的老牌VPN服务商，属于J2 Global集团NetProtect产品的品牌，这是一家在纳斯达克上市的公司，专注于通信信息技术、云服务等业务，技术实力挺雄厚，在35个国家的59个城市有950+的VPN服务器，拥有近60000个IP地址资源。
 
@@ -461,7 +463,7 @@ StrongVPN成立于2005年，是一家美国的老牌VPN服务商，属于J2 Glob
 
 ### StrongVPN如何使用？
 
-登录进官网用户后台界面后，可以看到“StrongVPN Clients”下载通用版客户端APP，但这个版本在国内使用有时候会出现连接问题，建议使用中国地区适用的精简版客户端。
+登录进官网用户后台界面后，可以看到“StrongVPN Clients”下载通用版客户端APP，但这个版本在国内使用有时会出现连接问题，并不好用，推荐使用中国地区适用的精简版客户端。
 
 >**中国Windows、Mac电脑和安卓手机用户用户建议联系官网右下角的在线客服下载StrongVPN精简版V1 app</a>（<a rel="nofollow noopener" href="https://www.safewebcn.com/download/strongwin-1.65.exe" target="_blank">Windows版本备用下载地址</a>）**，直接说在中国使用客服会帮你设置特供精简版客户端的登录权限，并给你最新版本的下载链接。这个版本是我找官网技术客服推荐给我的，因为官网直接下载安装的标准版Windows APP目前登录和连接有问题，精简版的更适合在中国使用，这也是Strong官方为了尽量避免被墙采取的备用措施。安装精简版之前，最好把官网的标准版先装上，因为有读者反映Win10直接安装专用版出现问题，缺少组件，安装标准版之后解决。可以查看官网中有关程序安装所需组件的文章，<a rel="nofollow noopener" href="https://linkv.org/strongcn/" target="_blank">进入Strong官网</a>，点击右上角help，然后在搜素框搜索“.NET Framework”的文章。
 >
@@ -469,16 +471,17 @@ StrongVPN成立于2005年，是一家美国的老牌VPN服务商，属于J2 Glob
 
 [![Strong用户反馈](https://www.safewebcn.com/img/strong-feedback-min.png)](#strongvpn如何使用)
 
-如果英文不熟悉，可以参考以下:
+如果英文不熟悉，可以参考以下，任选一句发给客服即可:
+
+>Please enable V1 account for me because I am in China.
 >
->“Hello,I live in China.I am using legacy V1 app but cannot login,the V2 app doesn't work for me.”
->“Could you help me open my access to legacy OpenVPN account?”
->
->如果仍然存在登录问题，需要找客服询问原因，有时是因为电脑的DNS设置的问题。
+>Hello,I live in China.I am using legacy V1 app but cannot login,the V2 app doesn't work for me.
+
+如果仍然存在登录问题，需要找客服询问原因，有时是因为电脑的DNS设置的问题。
 
 由于iOS系统的原因，iPhone版本的VPN客户端没有特供的备用APP，敏感时期可能会有封锁，需要去官网联系在线客服（或进入官网点击Help，然后点击“Email Support”发邮件）获取备用服务器地址，进行手动配置连接。不过iPhone用户最好是使用<a rel="nofollow noopener" href="https://linkv.org/express/" target="_blank">ExpressVPN</a>，在iOS系统里面长期稳定性比其他VPN都要好。
 
-下载安装APP客户端后，联系客服修改账户（说在中国使用客服就会帮你设置），然后打开输入用户名密码登录就行了，在中国使用，协议（Protocol）建议选择OpenVPN(TCP或UDP)，如果连接不畅需要重新安装OpenVPN的TAP驱动。
+下载安装APP客户端后，联系客服修改账户（说在中国使用客服就会帮你设置），然后打开输入用户名密码登录就行了，在中国使用，协议（Protocol）建议选择OpenVPN(TCP)，如果连接不畅需要重新安装OpenVPN的TAP驱动。
 
 **StrongVPN特供精简版客户端（中国用户推荐使用）**：
 
@@ -504,23 +507,20 @@ StrongVPN成立于2005年，是一家美国的老牌VPN服务商，属于J2 Glob
 
 官方的意思也就是说：“在中国使用建议使用OpenVPN的UDP或者TCP协议，当出现连接问题的时候，开启Scramble功能选项。”Scramble功能应该是官方的魔改OpenVPN协议，加入了混淆算法，在敏感时期更容易连接上。
 
-我建议连接这些节点：
+我建议连接这些地区的线路：
 
-- 韩国（South Korea）
-
-- 新加坡
-
-- 台湾
-
+- 韩国（South Korea），速度还不错
+- 欧洲地区的节点（德法西意等），能连的线路较多
 - 日本（Japan）
-
-- 欧洲地区的节点
+- 澳大利亚
+- 美国节点
 
 美国的节点也可以连接，但在我这里相对其他地区慢一些，**网络环境不同最佳节点可能也不一样**，你可以自己测试进行节点的选择。
 
 ### Strong线路选择提示
 
 在不同的网络运营商下，连接同一节点的速度也可能不同，每个节点的网络速度也会不一样。但StrongVPN我选择线路有一点原则，就是选择当前使用人数相对较少的节点。然后多测试几个节点，选择速度最满意的作为常用节点。
+
 登录官网用户后台，然后点击'VPN Accounts'，在下拉框里面点击'Legacy VPN Accounts Summary'，查看下面的“Servers available”，就可以查看各个节点和当前使用人数。我测试的结果是当前使用人数相对较少的节点的速度还是好于人数上万的节点。
 
 - **支持设备**
@@ -552,7 +552,7 @@ StrongVPN同样支持30天退款保证，有足够的时间测试使用。退款
 
 [![NordVPN](https://www.safewebcn.com/img/nord-min.png)](#nordvpn)
 
->2021年3月使用，确认可用，但目前可用节点不多。建议连接美国、日本、欧洲地区的最新出来的节点，或联系客服获取备用节点进行OpenVPN手动配置。
+>2021年8月使用，确认可用，但目前可用节点不多。建议连接美国、日本、欧洲地区的最新出来的节点，或联系客服获取备用节点进行OpenVPN手动配置。
 
 **<a rel="nofollow noopener" href="https://vpncn.github.io/image/ExpressVPN%E5%92%8CNordVPN%E5%93%AA%E4%B8%AA%E5%A5%BD%E7%94%A8?.md" target="_blank">查看NordVPN最新节点速度测试报告</a>**
 
