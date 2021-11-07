@@ -1,12 +1,12 @@
-# 翻墙软件与科学上网，好用的VPN推荐（2021年10月最新）
+# 翻墙软件与科学上网，好用的VPN推荐（2021年11月最新）
 
-最后修改于： `2021年10月6日`
+最后修改于： `2021年11月6日`
 
 ## 翻墙软件现状
 
->**2021年9-10月更新信息**：目前**PureVPN、VyprVPN、Ivacy、Surfshark**在国内都基本上已经失效；Lantern蓝灯VPN经常出现连接失败的问题，且安全性存疑；NordVPN除了安卓手机能直连其他设备只能手动配置连接，要找客服获取中国专用客户端；**光年VPN跑路**，已经有超过一个月连接不上、客服无人应答，选择时请注意避坑。
+>**2021年10-11月更新信息**：目前**PureVPN、VyprVPN、Ivacy、Surfshark**在国内都基本上已经失效；Lantern蓝灯VPN经常出现连接失败的问题，且安全性存疑；NordVPN除了安卓手机能直连其他设备只能手动配置连接，要找客服获取中国专用客户端；**光年VPN跑路**，已经有超过一个月连接不上、客服无人应答，选择时请注意避坑。
 >
->目前，**在中国能长期稳定、好用的大牌VPN只有ExpressVPN和StrongVPN**，ExpressVPN速度最快，全平台App一键连接，在封锁期能快速更新、恢复线路的连接；StrongVPN便宜，性价比高，能连的线路也较多，使用时建议使用精简特供版客户端，后文有使用方法。
+>目前，**在中国能长期稳定、好用的大牌VPN只有<a rel="nofollow noopener" href="https://linkv.org/express/" target="_blank">ExpressVPN</a>和[StrongVPN](#strongvpn--性价比最佳)**，ExpressVPN速度最快，全平台App一键连接，敏感期遇到封锁能快速更新、恢复线路的连接；StrongVPN便宜，性价比高，能连的线路也较多，也会不时更新线路，使用时建议使用精简特供版客户端，后文有使用方法。
 >
 >另外，**如果某VPN品牌创立时间不超过3年，建议大家谨慎选择，尤其是国产的翻墙软件，真的是说跑路就跑路，最近几年见过太多，因为这个圈子的混乱和政策法律的原因，跑路换个马甲继续挣钱更容易、风险也更小。与之比较，国外的大牌VPN一般就没有这方面的问题，近几年来有被收购的，没听说哪家国外大牌VPN跑路的，但是能不能在中国使用还是要仔细选择**。
 
@@ -109,7 +109,7 @@ VPN全称叫“虚拟专用网”，它是在公网上建立一个加密通道�
 
 当然最本质的，SS(R)/v2ray/Trojan/Vmess这些就是专为翻墙而生，这些技术并未对数据传输安全做出更高的要求，侧重点只是对出墙流量进行伪装，尽管也采用了加密代理技术，但它不是为安全传输而生，它有数据被截获解析的风险。而且国家对这类翻墙技术一直严打，对机场是发现一个封一个，并且是彻底封杀。
 
-关于自己租用VPS搭建机场，安全性肯定比付费机场要好。如果你有一定的技术基础，打算用便宜VPS服务器自己搭建机场（小白不推荐）。第一，你要确保能应对使用VPS时可能遇到的问题，比如无法连接、IP被封等问题；然后，Vultr和DO等几个国人用滥了的机房尽量避免，因为IP被墙的太严重，已经没有多少可用的了，很可能新开的VPS的IP就是不能用的，而且国内访问速度一般，<a rel="nofollow noopener" href="https://linkv.org/bandwagon/" target="_blank">搬瓦工BandWagon</a>可以试试，毕竟有CN专线，速度快，但能用的IP也不多了，且换IP需付费。目前<a rel="nofollow noopener" href="https://linkv.org/hostwinds/" target="_blank">HostWinds</a>是个替代的选择，目前没有很多国人扎堆，IP比前几位的情况好一些，建议选择Seattle机房，在美国西海岸，国内连接服务器网络速度相对较快。相对便宜且流量大，每月$4.49起步，1核1GB内存30GB磁盘，1Gbps带宽，每月1TB流量，用来搭梯子和建站都比较理想，并可以免费换IP，但不保证全新，换IP的方法：进入VPS管理后台，看到服务器选项，点击Manage IP’s，然后点击Fix ISP Block按钮，最后点击确认Confirm。
+关于自己租用VPS搭建机场，安全性肯定比付费机场要好。如果你有一定的技术基础，打算用便宜VPS服务器自己搭建机场（小白不推荐）。第一，你要确保能应对使用VPS时可能遇到的问题，比如无法连接、IP被封等问题；然后，Vultr和DO等几个国人用滥了的机房尽量避免，因为IP被墙的太严重，已经没有多少可用的了，很可能新开的VPS的IP就是不能用的，而且国内访问速度一般，<a rel="nofollow noopener" href="https://linkv.org/bandwagon/" target="_blank">搬瓦工BandWagon</a>可以试试，毕竟有CN专线，速度快，但能用的IP也不多了，且换IP需付费。目前<a rel="nofollow noopener" href="https://linkv.org/hostwinds/" target="_blank">HostWinds</a>是个替代的选择，目前没有很多国人扎堆，IP比前几位的情况好一些，但也不乐观，毕竟容易选择性扎堆，建议选择Seattle机房，在美国西海岸，国内连接服务器网络速度相对较快。相对便宜且流量大，每月$4.99起步，1核1GB内存30GB磁盘，1Gbps带宽，每月1TB流量，用来搭梯子和建站都比较理想，并可以免费换IP，但不保证全新，换IP的方法：进入VPS管理后台，看到服务器选项，点击Manage IP’s，然后点击Fix ISP Block按钮，最后点击确认Confirm。
 
 ### 选择建议
 
@@ -199,12 +199,12 @@ Hi,I live in China,and I can't download *XX* VPN on my iPhone because it was not
 
 项目 | 1.StrongVPN | 2.ExpressVPN | 3.NordVPN 
 ------------ | ------------- | ------------- | ------------- 
-综合评分（10分制） | 9.2  | 9.3 | 8.2 
+综合评分（10分制） | 9.3  | 9.5 | 8.2 
 网络速度 | 快 | 最快 | 快 
 价格 | 较低 | 较高 | 中等 
 运营时间 | 长  | 长 | 长 
-全年可用率（估计） | 90%-95% | 95%+ | 85%-90% 
-可用节点数量 | 多 | 较多（包含L2TP协议） | 中 
+全年可用率（估计） | 95% | 95%+ | 80%-90% 
+可用节点数量 | 多 | 较多（包含L2TP和IKEV-2协议） | 中 
 连通率 | 高  |  高  | 中高 
 建立连接时间 | 快 | 快 | 快 
 连接稳定性（相对）| 稳定 | 稳定 | 一般  
@@ -212,14 +212,13 @@ Hi,I live in China,and I can't download *XX* VPN on my iPhone because it was not
 APP支持 | 全  | 全 | 全 
 支付宝 | 支持  | 不支持 | 不支持 
 退款时限 | 30天内 |30天内 | 30天内  
-售后服务 | 好  | 好 | 好  
+售后服务 | 好  | 好 | 较好  
 镜像官网 | 暂无([如何访问?](#如何打开strongvpn官网))  |  停止 | 无([如何访问?](#如何打开nordvpn官网)) | 有 
-APP快速下载 | 可以 | 可以  | 可以 | 可以 | 可以
-优惠 | <a rel="nofollow noopener" href="https://linkv.org/strongcn/" target="_blank">用优惠券省20%</a>  | <a rel="nofollow noopener" href="https://www.fastvpncn.com/expressvpn" target="_blank">送3个月活动</a>  | [最多优惠68%](#如何打开nordvpn官网) 
+优惠 | <a rel="nofollow noopener" href="https://linkv.org/strongcn/" target="_blank">60%独家优惠</a>  | <a rel="nofollow noopener" href="https://www.fastvpncn.com/expressvpn" target="_blank">送3个月活动</a>  | [最多优惠68%](#如何打开nordvpn官网) 
 
 关于具体套餐的选择，如果VPN商家的运营时间短，如果想尝试，建议只买一个月的套餐，根据使用体验再考虑是否续费，因为服务还没有经过长时间的检验。如果VPN商家的运营时间长（5年以上），长期可用性一般问题不大，看自己需求选择一个月或年套餐都可以，年套餐每月便宜很多。
 
-<a rel="nofollow noopener" href="https://www.fastvpncn.com/expressvpn" target="_blank">ExpressVPN</a>，我自己也常年使用，在国内使用体验最好，它已经运营了13年（至2021年），设备支持最全面，国内外口碑都很好。国内有大量活跃用户，你可能不是第一次听到它，几乎所有国内外VPN推荐网站它都排在最靠前的位置。这里还有个**ExpressVPN使用小提示**，万一在敏感时期VPN服务器暂时被墙之后，改变客户端默认的连接协议（一般是`Automatic`），**改为`L2TP-IPSec`协议**然后尝试连接，你会发现其实还有些节点可以正常连接使用。不足之处是**ExpressVPN官方停止了中国的镜像域名访问购买（镜像域名仅供更新客户端使用），可以使用其他梯子访问官网**。适合要求速度的同学，iPhone和iOS系统使用VPN推荐ExpressVPN。
+<a rel="nofollow noopener" href="https://www.fastvpncn.com/expressvpn" target="_blank">ExpressVPN</a>，我自己也常年使用，在国内使用体验最好，它已经运营了13年（至2021年），设备支持最全面，国内外口碑都很好。国内有大量活跃用户，你可能不是第一次听到它，几乎所有国内外VPN推荐网站它都排在最靠前的位置。这里还有个**ExpressVPN使用小提示**，万一在敏感时期VPN服务器暂时被墙之后，改变客户端默认的连接协议（一般是`Automatic`），**改为`L2TP-IPSec`协议或IKEV-2协议**然后尝试连接非官方推荐的线路，你会发现其实还有些节点可以正常连接使用。不足之处是**ExpressVPN官方停止了中国的镜像域名访问购买（镜像域名仅供更新客户端使用），可以使用其他梯子访问官网**。适合要求速度的同学，iPhone和iOS系统使用VPN推荐ExpressVPN。
 
 [StrongVPN](#strongvpn--性价比最佳)于2005年在美国硅谷成立，我已经使用了2年左右，性价比不错，但Windows、Mac电脑端和安卓手机端最好使用精简版客户端（这个专门适合中国使用，通用版客户端的节点容易被封），需要找客服要，发个Ticket或者找在线客服都行，开通很快。iPhone版本直接在App Store上下载安装，但是稳定性不如其他平台的精简版客户端，如遇到敏感时期被封恢复需要一段时间。总体来讲，在过去2年的使用时间里，全年可用率能达到95%左右，服务器经常会更新，每次登陆客户端都会自动检测服务器更新。**在国内的Windows、Mac和安卓手机用户可以联系客服获取StrongVPN精简版本V1 app，墙升级的时候相对通用版本在国内连接更为顺畅**，遗憾的是Strong官网在中国被墙，有梯子的同学可以用梯子访问（如果不能下单需使用本地网络打开官网），[国内网络打开StrongVPN官网](#如何打开strongvpn官网)需要改电脑Host文件，因为官网DNS在天朝被定位到不能访问的IP，需要修改本地的DNS才能访问。
 
@@ -251,7 +250,7 @@ iVacy和PureVPN一样，是同一家，共用服务器，在国内表现也差�
 
 [![ExpressVPN](https://www.safewebcn.com/img/express-logo-2021.png)](https://www.fastvpncn.com/expressvpn)
 
-`最近使用：2021年10月使用，确认可用。ExpressVPN国内的使用体验在我所测试的VPN产品中最好，尤其是iOS系统的使用体验相对其他VPN产品要好，iPhone首选VPN。`
+`最近使用：2021年11月使用，确认可用。ExpressVPN国内的使用体验在我所测试的VPN产品中最好，尤其是iOS系统的使用体验相对其他VPN产品要好，iPhone首选VPN。`
 
 应该说，这是中国目前最好用的VPN，我用了5年，虽然特殊时期也碰到问题，但一年中超过95%的时间里使用都很流畅。ExpressVPN已经为中国网民服务了12年。 这是目前唯一一个任何人想都不用想就可以买的VPN，速度相比其他VPN软件有优势，服务器针对中国大陆进行优化，网速快，顶级隐私保护技术，还有最重要的，客户端最好用，设备支持它最全。目前暂停支付宝付款、可以使用银联卡、Paypal和信用卡进行购买使用。
 
@@ -397,7 +396,7 @@ ExpressVPN提供自购买日起`30天内无理由退款`，如果你发现它在
 
 [![StrongVPN](https://www.safewebcn.com/img/strong-logo.png)](#strongvpn--性价比最佳)
 
->2021年10月使用，确认可用，可用节点较多，有些节点网络速度还不错，有些节点网络速度一般，要自己测试。性价比最佳，目前官网有优惠活动。国内Windows、Mac和Android设备用户建议去官网右下角在线聊天框（或者在用户后台页面发ticket信），找客服要特供的精简版本V1 app（就说在中国使用客服会帮你设置账户）。在国内使用OpenVPN（TCP）协议连接成功率一直很高（在敏感时期相对官方标准版本App更加稳定），官方标准版本客户端可能会出现登录或连接问题，需要等待版本或线路更新才能恢复，特供的精简版本客户端没这些问题。只有iPhone版本的App直连现在还未恢复，目前只能咨询客服手动配置翻墙，iPhone还是建议选择[ExpressVPN](#expressvpn-使用体验最佳)，长期使用体验最好。
+>2021年11月使用，确认可用，可用节点较多，有些节点网络速度还不错，有些节点网络速度一般，要自己测试。性价比最佳，目前官网有优惠活动。国内Windows、Mac和Android设备用户建议去官网右下角在线聊天框（或者在用户后台页面发ticket信），找客服要特供的精简版本V1 app（就说在中国使用客服会帮你设置账户）。在国内使用OpenVPN（TCP）协议连接成功率一直很高（在敏感时期相对官方标准版本App更加稳定），官方标准版本客户端可能会出现登录或连接问题，需要等待版本或线路更新才能恢复，特供的精简版本客户端没这些问题。只有iPhone版本的App直连现在还未恢复，目前只能咨询客服手动配置翻墙，iPhone还是建议选择[ExpressVPN](#expressvpn-使用体验最佳)，长期使用体验最好。
 
 StrongVPN成立于2005年，是一家美国的老牌VPN服务商，属于J2 Global集团NetProtect产品的品牌，这是一家在纳斯达克上市的公司，专注于通信信息技术、云服务等业务，技术实力挺雄厚，在35个国家的59个城市有950+的VPN服务器，拥有近60000个IP地址资源。
 
@@ -503,9 +502,9 @@ StrongVPN成立于2005年，是一家美国的老牌VPN服务商，属于J2 Glob
 
 这是最近我使用StrongVPN时的测试结果，上面的速度测试截图可以看到，连接Tokyo的节点，ping值89ms，下载速度为10Mbps，上行速度为21.55Mbps；Seoul节点ping值67ms，下载速度为28.03Mbps，上行速度为22.09Mbps。浏览网页、看视频够用，但看清晰度为4K及以上的视频会有点吃力，这点不如[ExpressVPN](#expressvpn-使用体验最佳)。StrongVPN速度较快的节点选择可以查看：[线路选择提示](#strong线路选择提示)。
 
-官方建议：Change your VPN connection protocol If changing server did not help you get connected, try changing your protocol. We recommend using OpenVPN via UDP or OpenVPN via TCP configuration for customers in China. If both fails, then try the aforementioned protocols with Scramble feature enabled.
+官方建议：Change your VPN connection protocol If changing server did not help you get connected, try changing your protocol. We recommend using OpenVPN via TCP configuration for customers in China. If both fails, then try the aforementioned protocols with Scramble feature enabled.
 
-官方的意思也就是说：“在中国使用建议使用OpenVPN的UDP或者TCP协议，当出现连接问题的时候，开启Scramble功能选项。”Scramble功能应该是官方的魔改OpenVPN协议，加入了混淆算法，在敏感时期更容易连接上。
+官方的意思也就是说：“在中国使用建议使用OpenVPN的TCP协议，当出现连接问题的时候，开启Scramble功能选项。”Scramble功能应该是官方的魔改OpenVPN协议，加入了混淆算法，在敏感时期更容易连接上。
 
 我建议连接这些地区的线路：
 
