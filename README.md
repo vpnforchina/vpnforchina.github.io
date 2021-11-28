@@ -306,13 +306,13 @@ ExpressVPN在每台服务器上运行自己的私有加密DNS服务器，一旦�
 
 Los Angeles-5节点测速：
 
-[![expressvpn速度测试](https://www.safewebcn.com/img/ExpressVPN-speedtest-LA5-2021-08-min.png)](#expressvpn速度测试)
+[![expressvpn速度测试](https://www.safewebcn.com/img/ExpressVPN-speedtest-LA5-2021-11.png)](#expressvpn速度测试)
 
 连接上Los Angeles – 5节点后，打开Speedtest网站进行在线测速，从上面的截图可以看到，ping值是196ms，美国的服务器这个数值还不错，下载速率是56.96Mb/s，上传速率是16.53Mb/s，这个速度应该说能胜过市面上99%的VPN产品了，在观看Youtube高清视频时不会存在卡顿。
 
 Sigapore-Marina Bay节点测速：
 
-[![expressvpn速度测试](https://www.safewebcn.com/img/expressvpn-sigapore-2021-8-min.png)](#expressvpn速度测试)
+[![expressvpn速度测试](https://www.safewebcn.com/img/expressvpn-sigapore-2021-11.png)](#expressvpn速度测试)
 
 连接Singapore – Marina Bay节点的下载速度测试值为42.14Mb/s，也很不错。顺便说一下，这两个节点是我目前最常用的两个，因为ExpressVPN的美国Los Angeles – 4/5节点和Singapore – Marina Bay节点在电信网络下比Hongkong和Tokyo的节点稍快一些，但是测试只是测试，只能作为参考，因为使用的实际感受会因网络环境、时间、操作系统的变化而发生一些变化，你可以根据自己的网络环境进行尝试，选择速度快的节点作为常用节点。
 
@@ -324,7 +324,7 @@ iPhone手机使用WiFi网络连接ExpressVPN的Marina Bay节点界面如下图�
 
 使用移动4G网络连接Marina Bay节点进行测速：
 
-[![iPhone ExpressVPN节点测速](https://www.safewebcn.com/img/expressvpn-iphone-speedtest-7-28-min.png)](#expressvpn速度测试)
+[![iPhone ExpressVPN节点测速](https://www.safewebcn.com/img/expressvpn-iphone-speedtest-2021-11.png)](#expressvpn速度测试)
 
 从上面的测试可以看到，iPhone手机在移动4G网络下连接Marina Bay节点，速度挺快，能跑满我这里的移动4G网络的实际带宽，实际使用体验也在我所现在使用的翻墙软件中属于最好的。
 
@@ -400,7 +400,7 @@ ExpressVPN提供自购买日起`30天内无理由退款`，如果你发现它在
 
 StrongVPN成立于2005年，是一家美国的老牌VPN服务商，属于J2 Global集团NetProtect产品的品牌，这是一家在纳斯达克上市的公司，专注于通信信息技术、云服务等业务，技术实力挺雄厚，在35个国家的59个城市有950+的VPN服务器，拥有近60000个IP地址资源。
 
-从近2年开始也开始重视开发全球市场，尤其是针对网络封锁的地区（比如中国）。售后服务也不错，在其官网上发布了一个在中国使用StrongVPN的并实时更新的帖子，给在中国境内的用户提供最新的使用信息和公告（官网查找 “What is the best VPN configuration for China?”），其实据我了解，这款VPN在过去几年在中国一直可用，只是由于官网被墙，在国人用户群体中略显小众，使用者是以在中国的老外居多。
+从近2年开始也开始重视开发全球市场，尤其是针对网络封锁的地区（比如中国）。售后服务也不错，在其官网上发布了一个在中国使用StrongVPN的并实时更新的帖子，给在中国境内的用户提供最新的使用信息和公告，进入<a rel="nofollow noopener" href="https://linkv.org/strongcn/" target="_blank">StrongVPN官网</a>，点击右上角Help，查找 “在中国境内如何下载，安装以及使用StrongVPN”。其实据我了解，这款VPN在过去几年在中国一直可用，只是由于官网被墙，在国人用户群体中略显小众，使用者是以在中国的老外居多。
 
 ### 如何打开StrongVPN官网？
 
@@ -418,7 +418,6 @@ StrongVPN成立于2005年，是一家美国的老牌VPN服务商，属于J2 Glob
 
 完成之后，就可以正常访问官网和使用客户端了。购买后，在手机安装APP客户端请参考：[怎么下载和登录VPN客户端?](#怎么下载和登录vpn客户端)
 
-如有不懂，请<a rel="nofollow noopener" href="https://vpncn.github.io/image/%E5%A6%82%E4%BD%95%E6%94%B9host%E6%96%87%E4%BB%B6" target="_blank"> 查看这篇文章</a>。
 
 [![Strong-device](https://www.safewebcn.com/img/strong-home.png)](#如何打开strongvpn官网)
 
@@ -494,13 +493,13 @@ StrongVPN成立于2005年，是一家美国的老牌VPN服务商，属于J2 Glob
 
 日本东京节点测速：
 
-[![Strong客户端精简版](https://www.safewebcn.com/img/StrongVPN-speedtest-tokyo-2021-08-min.png)](#strong速度测试)
+[![Strong客户端精简版](https://www.safewebcn.com/img/StrongVPN-speedtest-tokyo-2021-11.png)](#strong速度测试)
 
 韩国首尔节点测速：
 
-[![Strong客户端精简版](https://www.safewebcn.com/img/strong-seoul-speedtest-2021-08-min.png)](#strong速度测试)
+[![Strong客户端精简版](https://www.safewebcn.com/img/strong-seoul-speedtest-2021-11.png)](#strong速度测试)
 
-这是最近我使用StrongVPN时的测试结果，上面的速度测试截图可以看到，连接Tokyo的节点，ping值89ms，下载速度为10Mbps，上行速度为21.55Mbps；Seoul节点ping值67ms，下载速度为28.03Mbps，上行速度为22.09Mbps。浏览网页、看视频够用，但看清晰度为4K及以上的视频会有点吃力，这点不如[ExpressVPN](#expressvpn-使用体验最佳)。StrongVPN速度较快的节点选择可以查看：[线路选择提示](#strong线路选择提示)。
+这是最近我使用StrongVPN时的测试结果，上面的速度测试截图可以看到，连接Tokyo的节点，ping值85ms，下载速度为11Mbps，上行速度为20.58Mbps；Seoul节点ping值69ms，下载速度为26.03Mbps，上行速度为20.23Mbps。浏览网页、看视频够用，但看清晰度为4K及以上的视频会有点吃力，这点不如[ExpressVPN](#expressvpn-使用体验最佳)。StrongVPN速度较快的节点选择可以查看：[线路选择提示](#strong线路选择提示)。
 
 官方建议：Change your VPN connection protocol If changing server did not help you get connected, try changing your protocol. We recommend using OpenVPN via TCP configuration for customers in China. If both fails, then try the aforementioned protocols with Scramble feature enabled.
 
