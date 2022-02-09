@@ -1,12 +1,12 @@
-# 翻墙软件与科学上网，好用的VPN推荐（2021年12月最新）
+# 翻墙软件与科学上网，好用的VPN推荐（2022年2月最新）
 
-最后修改于： `2021年12月10日`
+最后修改于： `2022年2月9日`
 
 ## 翻墙软件现状
 
->**2021年11-12月更新信息**：目前**PureVPN、VyprVPN、Ivacy、Surfshark**在国内都基本上已经失效；Lantern蓝灯VPN经常出现连接失败的问题，且安全性存疑；NordVPN除了安卓手机能直连其他设备只能手动配置连接，要找客服获取中国专用客户端；**光年VPN跑路**，已经有超过一个月连接不上、客服无人应答，选择时请注意避坑。
+>**21年11月-22年1月更新信息**：目前**PureVPN、VyprVPN、Ivacy、Surfshark**在国内都基本上已经失效；Lantern蓝灯VPN经常出现连接失败的问题，且安全性存疑；NordVPN除了安卓手机能直连其他设备只能手动配置连接，要找客服获取中国专用客户端；**光年VPN跑路**，已经有超过一个月连接不上、客服无人应答，选择时请注意避坑。
 >
->目前，**在中国能长期稳定、好用的大牌VPN只有<a rel="nofollow noopener" href="https://linkv.org/express/" target="_blank">ExpressVPN</a>和[StrongVPN](#strongvpn--性价比最佳)**，ExpressVPN速度最快，全平台App一键连接，敏感期遇到封锁能快速更新、恢复线路的连接；StrongVPN便宜，性价比高，能连的线路也较多，也会不时更新线路，使用时建议使用精简特供版客户端，后文有使用方法。
+>目前，**在中国能长期稳定、好用的大牌VPN只有<a rel="nofollow noopener" href="https://linkv.org/express/" target="_blank">ExpressVPN</a>和[StrongVPN](#strongvpn--性价比最佳)**，ExpressVPN速度最快，全平台App一键连接，敏感期遇到封锁能快速更新、恢复线路的连接；StrongVPN便宜，性价比高，能连的线路也较多，也会不时更新线路，建议使用精简特供版客户端，后文有使用方法。
 >
 >另外，**如果某VPN品牌创立时间不超过3年，建议大家谨慎选择，尤其是国产的翻墙软件，真的是说跑路就跑路，最近几年见过太多，因为这个圈子的混乱和政策法律的原因，跑路换个马甲继续挣钱更容易、风险也更小。与之比较，国外的大牌VPN一般就没有这方面的问题，近几年来有被收购的，没听说哪家国外大牌VPN跑路的，但是能不能在中国使用还是要仔细选择**。
 
@@ -199,7 +199,7 @@ Hi,I live in China,and I can't download *XX* VPN on my iPhone because it was not
 
 项目 | 1.StrongVPN | 2.ExpressVPN | 3.NordVPN 
 ------------ | ------------- | ------------- | ------------- 
-综合评分（10分制） | 9.3  | 9.5 | 8.2 
+综合评分（10分制） | 9.2  | 9.5 | 8.2 
 网络速度 | 快 | 最快 | 快 
 价格 | 较低 | 较高 | 中等 
 运营时间 | 长  | 长 | 长 
@@ -250,7 +250,7 @@ iVacy和PureVPN一样，是同一家，共用服务器，在国内表现也差�
 
 [![ExpressVPN](https://www.safewebcn.com/img/express-logo-2021.png)](https://www.fastvpncn.com/expressvpn)
 
-`最近使用：2021年12月使用，确认可用。ExpressVPN国内的使用体验在我所测试的VPN产品中最好，尤其是iOS系统的使用体验相对其他VPN产品要好，iPhone首选VPN。`
+`最近使用：2022年2月使用，确认可用。ExpressVPN国内的使用体验在我所测试的VPN产品中最好，尤其是iOS系统的使用体验相对其他VPN产品要好，iPhone首选VPN。`
 
 应该说，这是中国目前最好用的VPN，我用了5年，虽然特殊时期也碰到问题，但一年中超过95%的时间里使用都很流畅。ExpressVPN已经为中国网民服务了12年。 这是目前唯一一个任何人想都不用想就可以买的VPN，速度相比其他VPN软件有优势，服务器针对中国大陆进行优化，网速快，顶级隐私保护技术，还有最重要的，客户端最好用，设备支持它最全。目前暂停支付宝付款、可以使用银联卡、Paypal和信用卡进行购买使用。
 
@@ -396,11 +396,11 @@ ExpressVPN提供自购买日起`30天内无理由退款`，如果你发现它在
 
 [![StrongVPN](https://www.safewebcn.com/img/strong-logo.png)](#strongvpn--性价比最佳)
 
->2021年12月使用，确认可用，可用节点较多，有些节点网络速度还不错，有些节点网络速度一般，要自己测试。性价比最佳，目前官网有优惠活动。国内Windows、Mac和Android设备用户建议去官网右下角在线聊天框（或者在用户后台页面发ticket信），找客服要特供的精简版本V1 app（就说在中国使用客服会帮你设置账户）。在国内使用OpenVPN（TCP）协议连接成功率一直很高（在敏感时期相对官方标准版本App更加稳定），官方标准版本客户端可能会出现登录或连接问题，需要等待版本或线路更新才能恢复，特供的精简版本客户端没这些问题。只有iPhone版本的App直连现在还未恢复，目前只能咨询客服手动配置翻墙，iPhone还是建议选择[ExpressVPN](#expressvpn-使用体验最佳)，长期使用体验最好。
+>2022年2月使用，确认可用，可用节点较多，有些节点网络速度还不错，有些节点网络速度一般，要自己测试。性价比最佳，目前官网有优惠活动。国内Windows、Mac和Android设备用户建议去官网右下角在线聊天框（或者在用户后台页面发ticket信），找客服要特供的精简版本V1 app（就说在中国使用客服会帮你设置账户）。在国内使用OpenVPN（TCP）协议连接成功率一直很高（在敏感时期相对官方标准版本App更加稳定），官方标准版本客户端可能会出现登录或连接问题，需要等待版本或线路更新才能恢复，特供的精简版本客户端没这些问题。只有iPhone版本的App直连现在还未恢复，目前只能咨询客服手动配置翻墙，iPhone还是建议选择[ExpressVPN](#expressvpn-使用体验最佳)，长期使用体验最好。另外官网上直接通过支付宝可能会遇到参数错误而无法支付，要去会员后台完成支付，具体信息查看后文购买教程。
 
 StrongVPN成立于2005年，是一家美国的老牌VPN服务商，属于J2 Global集团NetProtect产品的品牌，这是一家在纳斯达克上市的公司，专注于通信信息技术、云服务等业务，技术实力挺雄厚，在35个国家的59个城市有950+的VPN服务器，拥有近60000个IP地址资源。
 
-从近2年开始也开始重视开发全球市场，尤其是针对网络封锁的地区（比如中国）。售后服务也不错，在其官网上发布了一个在中国使用StrongVPN的并实时更新的帖子，给在中国境内的用户提供最新的使用信息和公告，进入<a rel="nofollow noopener" href="https://linkv.org/strongcn/" target="_blank">StrongVPN官网</a>，点击右上角Help，查找 “在中国境内如何下载，安装以及使用StrongVPN”。其实据我了解，这款VPN在过去几年在中国一直可用，只是由于官网被墙，在国人用户群体中略显小众，使用者是以在中国的老外居多。
+从近2年开始也开始重视开发全球市场，尤其是针对网络封锁的地区（比如中国）。售后服务也不错，在其官网上发布了一个在中国使用StrongVPN的并实时更新的帖子，给在中国境内的用户提供最新的使用信息和公告，**进入<a rel="nofollow noopener" href="https://linkv.org/strongcn/" target="_blank">StrongVPN官网</a>，点击右上角Help，查找 “在中国境内如何下载，安装以及使用StrongVPN”**。其实据我了解，这款VPN在过去几年在中国一直可用，只是由于官网被墙，在国人用户群体中略显小众，使用者是以在中国的老外居多。也许也是因为这个原因，相比起其他VPN，Strong的服务器线路很少会被屏蔽，而且服务器线路也会时不时更新，连接成功率相当高。
 
 ### 如何打开StrongVPN官网？
 
@@ -418,46 +418,45 @@ StrongVPN成立于2005年，是一家美国的老牌VPN服务商，属于J2 Glob
 
 完成之后，就可以正常访问官网和使用客户端了。购买后，在手机安装APP客户端请参考：[怎么下载和登录VPN客户端?](#怎么下载和登录vpn客户端)
 
-
 [![Strong-device](https://www.safewebcn.com/img/strong-home.png)](#如何打开strongvpn官网)
 
-这款VPN是我在19年初开始使用，总体来讲，在过去1年多的使用时间里，全年可用率能达到95%左右，服务器经常会更新，每次登陆客户端都会自动检测服务器更新。**在国内的Windows、Mac和Android手机用户可以找在线客服下载StrongVPN精简版V1 app，在敏感时期连接更为顺畅**，稍后放上官网的下载链接。除了最基本的VPN套餐，官网还会额外赠送250 GB SugarSync云储存套餐，赠送的服务值不值见仁见智。
+这款VPN是我在19年初开始使用，总体来讲，在过去3年的使用时间里，全年可用率能达到95%左右，不挑线路的话基本能达到100%，服务器经常会更新，每次登陆客户端都会自动检测服务器更新。**在国内的Windows、Mac和Android手机用户可以找在线客服下载StrongVPN精简版V1 app，在敏感时期连接更为顺畅**，稍后放上官网的下载链接。除了最基本的VPN套餐，官网还会额外赠送250 GB SugarSync云储存套餐，赠送的服务值不值见仁见智。
 
 使用的时候直接通过客户端APP一键连接就行了，不用自己手动设置，敏感时期可在官网右下角的在线聊天框找客服获取连接方案。能连接的节点比ExpressVPN多一些，建立连接所需的时间比Express略快一点，但是网络速度比ExpressVPN稍慢，不过打开网页和看Youtube高清视频也基本够用，对4K视频不是刚需可选此款。无论是电脑还是手机（包括iPhone和安卓）APP客户端的使用体验和稳定性，StrongVPN在我使用的VPN软件中属于第一档次，对于在乎性价比的人来说，是最佳选择，所以把它我放在第一位。
 
-如果安装或者连接遇到问题，可以在官网的右下角的“Zendesk chat”聊天框，选择Technical Support（技术支持），咨询客服相关问题，我有几次遇到连接问题都是找技术支持解决的。国内Windows、Mac和Android设备用户也可以在这里找技术客服要精简版本V1 app，使用OpenVPN（TCP）协议连接成功率一直很高（敏感时期也很稳）。
+如果安装或者连接遇到问题，可以在官网的右下角的“Help”帮助聊天框，选择Technical Support（技术支持），咨询客服相关问题，我有几次遇到连接问题都是找技术支持解决的。国内Windows、Mac和Android设备用户也可以在这里找技术客服要精简版本V1 app，使用OpenVPN（TCP）协议连接成功率一直很高（敏感时期也很稳）。
 
-### 如何获取StrongVPN？
+### 如何购买StrongVPN？
 
 1.进入<a rel="nofollow noopener" href="https://linkv.org/strongcn/" target="_blank">StrongVPN官网</a>（右键打开），然后点击“Join Now”按钮，进入选择套餐页面：
 
-[![Strong-device](https://www.safewebcn.com/img/StrongVPN-price-table-min.png)](#如何获取strongvpn)
+[![Strong-device](https://www.safewebcn.com/img/StrongVPN-price-table-min.png)](#如何购买strongvpn)
 
-付款方式支持支付宝Alipay、信用卡和Paypal等，**目前有特价活动可以优惠20%，优惠码是`TAKEOFF20`**（单月套餐也能用），进入官网的页面最下方，在“Interact”栏点击“Coupons“也能看到，不过如果实时活动的价格折扣大于这个优惠折扣，系统默认以最大折扣的活动价为准。
+付款方式支持支付宝Alipay、信用卡和Paypal等，**目前有特价活动可以优惠20%起，优惠码是`TAKEOFF20`、`NEWSTRONG`**（单月套餐也能用），进入官网的页面最下方，在“Interact”栏点击“Coupons“也能看到，不过如果实时活动的价格折扣大于这个优惠折扣，系统默认以最大折扣的活动价为准。
 
 然后输入Email注册，付款之后系统会自动分配初始登录密码，发送到注册的Email邮箱。
 
 在支付之后，查看邮箱收到的初始登录密码，<a rel="nofollow noopener" href="https://linkv.org/strongcn/" target="_blank">进入StrongVPN官网</a>登陆账号，客户端的选择建议联系在线客服获取中国地区适用的精简特别版（方法和步骤在下文），安装完成之后就可以使用了。
 
-**如果不能使用，查看是不是支付过程出现了问题**，需要<a rel="nofollow noopener" href="https://linkv.org/strongcn/" target="_blank">登录官网用户后台</a>确认支付，点击“Billing Area”：
+**如果不能使用，查看是不是支付过程出现了问题，或是官网的支付宝不能支付**，需要<a rel="nofollow noopener" href="https://linkv.org/strongcn/" target="_blank">登录官网用户后台</a>确认支付，点击“Billing Area”：
 
-[![Strong-billing](https://www.safewebcn.com/img/strongvpn-billing-min.png)](#如何获取strongvpn)
+[![Strong-billing](https://www.safewebcn.com/img/strongvpn-billing-min.png)](#如何购买strongvpn)
 
 然后点击最右边的Invoice，
 
-[![Strong-Invoice](https://www.safewebcn.com/img/strongvpn-pay-invoice-min.png)](#如何获取strongvpn)
+[![Strong-Invoice](https://www.safewebcn.com/img/strongvpn-pay-invoice-min.png)](#如何购买strongvpn)
 
 看到自己选择的套餐是否显示为unpaid，点击unpaid，
 
-[![Strong-unpaid](https://www.safewebcn.com/img/strongvpn-unpaid-min.png)](#如何获取strongvpn)
+[![Strong-unpaid](https://www.safewebcn.com/img/strongvpn-unpaid-min.png)](#如何购买strongvpn)
 
 然后在打开的页面选择付款方式，并进行支付，以支付宝为例：
 
-[![Strong-alipay](https://www.safewebcn.com/img/strongvpn-alipay-min.png)](#如何获取strongvpn)
+[![Strong-alipay](https://www.safewebcn.com/img/strongvpn-alipay-min.png)](#如何购买strongvpn)
 
 支付完成页面：
 
-[![Strong-paid](https://www.safewebcn.com/img/strongvpn-paid-min.png)](#如何获取strongvpn)
+[![Strong-paid](https://www.safewebcn.com/img/strongvpn-paid-min.png)](#如何购买strongvpn)
 
 ### StrongVPN如何使用？
 
